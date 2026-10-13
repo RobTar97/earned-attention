@@ -101,6 +101,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 ```text
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
+  LICENSE                        # License travels with installed copies
   references/                    # Six focused guides + source fingerprints
 docs/                            # Human-facing documentation
 evals/                           # Three sample tasks and evaluation summary
@@ -108,7 +109,7 @@ scripts/validate.py              # Dependency-free structural validation
 skills.sh.json                   # Catalog display configuration
 ```
 
-The runtime skill consists of Markdown and a source-provenance JSON file. It has no required API keys, application dependency, or executable runtime code. Browsing or media tools are used only when the requested task needs them. Actual recording, rendering, and publishing use a separate authorized workflow.
+The runtime skill consists of Markdown, a source-provenance JSON file, and its license. It has no required API keys, application dependency, or executable runtime code. Browsing or media tools are used only when the requested task needs them. Actual recording, rendering, and publishing use a separate authorized workflow.
 
 ## Validation
 

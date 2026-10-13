@@ -29,9 +29,14 @@ def read_json(path):
 required = ['README.md', 'LICENSE', 'CONTRIBUTING.md', 'CHANGELOG.md',
             'docs/installation.md', 'docs/examples.md', 'docs/workflow.md',
             'docs/evidence.md', 'evals/evals.json', 'evals/summary.json',
-            'skills.sh.json', 'skills/psychological-content-strategy/SKILL.md']
+            'skills.sh.json', 'skills/psychological-content-strategy/SKILL.md',
+            'skills/psychological-content-strategy/LICENSE']
 for rel in required:
     check((ROOT / rel).is_file(), f'Missing required file: {rel}')
+
+if (SKILL / 'LICENSE').exists() and (ROOT / 'LICENSE').exists():
+    check((SKILL / 'LICENSE').read_text(encoding='utf-8') == (ROOT / 'LICENSE').read_text(encoding='utf-8'),
+          'Installable skill must include the same license as the repository')
 
 skill_path = SKILL / 'SKILL.md'
 if skill_path.exists():
