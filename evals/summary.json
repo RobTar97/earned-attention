@@ -1,0 +1,50 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "skill_version": "1.0.0",
+  "evaluation_date": "2026-10-13",
+  "evaluation_type": "Initial workflow sanity checks",
+  "runs_per_configuration": 1,
+  "configurations": ["with_skill", "without_skill"],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "product-demo",
+      "with_skill": {"passed": 8, "total": 8},
+      "without_skill": {"passed": 7, "total": 8},
+      "difference": "The skill-assisted response included a quality/business guardrail for the hook experiment; the baseline did not."
+    },
+    {
+      "id": 2,
+      "name": "retention-audit",
+      "with_skill": {"passed": 8, "total": 8},
+      "without_skill": {"passed": 8, "total": 8},
+      "difference": "Both responses met the stated workflow expectations."
+    },
+    {
+      "id": 3,
+      "name": "copy-and-brand-plan",
+      "with_skill": {"passed": 8, "total": 8},
+      "without_skill": {"passed": 7, "total": 8},
+      "difference": "The skill-assisted plan included direct brand recognition/association measures; the baseline used engagement proxies for the brand side."
+    }
+  ],
+  "totals": {
+    "with_skill": {"passed": 24, "total": 24},
+    "without_skill": {"passed": 22, "total": 24}
+  },
+  "structural_checks": {
+    "timed_scripts_checked": 4,
+    "timed_scripts_passed": 4,
+    "checks": ["Continuous time ranges", "No overlapping or missing intervals", "Requested 30- or 45-second endpoint"]
+  },
+  "limitations": [
+    "Only three prompts and one sample per configuration.",
+    "Author-graded with evidence; not blind grading.",
+    "Most expectations also passed in competent baseline writing.",
+    "No actual audience-retention or conversion lift was measured.",
+    "Japanese copy was not validated with native target users.",
+    "Delivery timing requires production rehearsal.",
+    "Token usage was unavailable and measured time intervals were not comparable.",
+    "Public release changes packaging and metadata, preserving the evaluated workflow body."
+  ]
+}

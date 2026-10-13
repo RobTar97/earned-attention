@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Content & Marketing",
+      "description": "Audience psychology, hooks, short-form scripts, persuasive copy, and retention experiments.",
+      "skills": ["psychological-content-strategy"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "product-demo",
+      "prompt": "Write a 30-second Instagram Reel for our app BriefBoard, aimed at small agency project managers. The app turns a voice note into a transcript and an editable task checklist; the user can manually set owners and deadlines. We have a screen recording of these features. We have no measured time savings, customer testimonials, integrations, or performance results. Use a warm, practical English voice. Give exactly three distinct hook options, pick one, and give a shootable timed script with spoken lines, visuals, headline text, and sound/edit notes. End with one CTA to try the free trial. Also suggest one test. Do not invent capabilities or results.",
+      "expected_output": "Three materially different truthful hooks; selected hook matches proof; continuous 30-second beat table; honest feature demonstration with editable/manual controls; one free-trial CTA; feasible production notes and a focused test.",
+      "files": [],
+      "expectations": [
+        "Exactly three meaningfully different hook options are given and one is selected.",
+        "The timed script covers 0 to 30 seconds continuously without gaps or overlapping beat ranges.",
+        "The script demonstrates voice note, transcript, editable checklist, and manual owner/deadline controls without adding unsupported features or measured results.",
+        "Every script beat includes speech, visual/action, on-screen headline copy, and sound/edit directions that can be produced from the supplied screen recording.",
+        "The opening earns relevance with concrete proof and the script fulfills its chosen promise before the CTA.",
+        "There is one viewer CTA to try the free trial rather than competing asks.",
+        "The next experiment identifies one variable family, a relevant primary metric, and a quality or business guardrail.",
+        "Timing is identified as estimated/provisional or feasibility is checked against speech and screen-action requirements."
+      ]
+    },
+    {
+      "id": 2,
+      "eval_name": "retention-audit",
+      "prompt": "Audit and rewrite this 45-second educational Short about better project-checklist items. Draft: 0-4 logo; 4-8 'Today I will share three checklist tips'; 8-14 'Teams need clear checklists'; 14-26 repeats background about clarity; 26-32 screenshot showing 'Review design', 'Check copy', 'Test form'; 32-40 payoff: replace them with 'Check the design on mobile', 'Confirm the headline names the customer outcome', and 'Submit the form and confirm the success message'; 40-45 'Like, share, follow, and book a call'. Data: retention at 3s 72%, 8s 48%, 26s 22%, 40s 15%, with a replay spike around 28s; 24,000 video starts and 60 shares, but reach and engaged-view data are unavailable. Rank fixes using evidence, separate observations from possible causes, and give a complete revised 45-second beat script with one CTA. Explain whether the replay spike proves the screenshot is good and whether 80% completion would guarantee viral reach. Give one controlled-variable test with a primary metric and guardrail.",
+      "expected_output": "Evidence-linked ranked audit without falsely claiming watched footage; hypotheses instead of causal certainty; complete truthful 45-second rewrite delivering all three specific checks; distinguishes replay value from confusion; rejects a universal viral threshold; no invented reach or engaged-view rates; one focused test.",
+      "files": [],
+      "expectations": [
+        "Fixes are ranked and anchored to actual draft timestamps or supplied retention observations.",
+        "The diagnosis distinguishes observed data from possible causes and does not claim to have inspected unavailable footage.",
+        "The revised script covers 0 to 45 seconds continuously without gaps or overlapping beat ranges.",
+        "The complete rewrite delivers all three checks: mobile design, customer-outcome headline, and successful form submission.",
+        "The reply explains that the replay spike could indicate useful detail or confusion/illegibility, and does not prove screenshot quality.",
+        "The reply rejects a universal 80-percent-completion guarantee of viral reach.",
+        "The response does not invent reach or engaged-view denominators; any share rate is clearly labeled per supplied starts.",
+        "The rewrite uses one relevant CTA after delivering its payoff, and the experiment specifies one variable family, primary metric, and guardrail."
+      ]
+    },
+    {
+      "id": 3,
+      "eval_name": "copy-and-brand-plan",
+      "prompt": "Our product LoopList lets small teams save and reuse project checklists. It does not automate tasks and we have no customer quotes or measured time savings. Give three English headlines, three natural Japanese catchcopy options for Japanese team leads, and a compact six-asset content plan balancing useful brand recognition with free-trial acquisition. We can record one simple screen demo and two talking-head clips per week. Our distinctive cues are a lime circle icon and the phrase 'Start from your best process'. Should we automatically use a 60:40 brand-versus-sales budget and posting ratio? Keep the answer practical and do not make a full video storyboard for the headline task. Any asset asking for a free trial should have only that one CTA.",
+      "expected_output": "Requested copy first with supported product truth and natural language; feasible six-asset plan with brand cues, useful audience moments, proof, and separate brand/activation measures; no fabricated automation or results; qualifies budget split and rejects automatic spend-to-post conversion; no unsolicited storyboard.",
+      "files": [],
+      "expectations": [
+        "Exactly three English headlines and three Japanese catchcopy options are delivered before the broader strategy.",
+        "Copy and campaign assets preserve saving/reusing checklists without unsupported automation, testimonials, or measured time savings.",
+        "The plan contains exactly six assets with feasible footage/reuse under one screen demo and two talking-head clips per week.",
+        "The lime circle and Start from your best process are integrated as distinctive brand cues without delaying every opening.",
+        "The plan connects specific audience moments to useful messages, proof, and appropriate next steps.",
+        "Brand recognition and free-trial acquisition have distinct measures rather than relying on views alone.",
+        "The answer treats 60:40 as contextual and rejects automatically converting a budget split into a posting ratio.",
+        "The headline task is not expanded into an unsolicited full video storyboard, and trial assets use one trial CTA."
+      ]
+    }
+  ]
+}
