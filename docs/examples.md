@@ -87,6 +87,21 @@ Expect platform-specific packaging decisions grounded in the same creative truth
 
 ## A reusable brief
 
+For an experience-led story, use the [four-family hook guide](../skills/psychological-content-strategy/references/hook-patterns.md):
+
+```text
+Use psychological-content-strategy to give four hook angles for this
+real experience: I opened my tutorial with a logo and background,
+then revised it to show the demonstration first. I have both cuts
+but no causal retention results. Try confession, experiment,
+contrarian, and lesson angles. Keep any proposed test clearly planned
+and explain the proof and payoff each hook needs.
+```
+
+Expect meaningful angle differences without invented past tests, results, or personal stakes.
+
+### Brief template
+
 ```text
 Audience and current situation:
 Desired outcome and awareness:

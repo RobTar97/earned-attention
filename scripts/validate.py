@@ -55,7 +55,8 @@ if skill_path.exists():
     check(len(content.splitlines()) < 500, 'Keep SKILL.md below 500 lines; route detail to references')
 
 expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
-                 'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md']
+                 'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
+                 'hook-patterns.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
 
@@ -111,5 +112,5 @@ if errors:
         print('FAIL:', error)
     sys.exit(1)
 
-print(f'PASS: metadata, six references, {len(markdown_files)} Markdown documents, local links, catalog, provenance, and evaluation schema.')
+print(f'PASS: metadata, {len(expected_refs)} references, {len(markdown_files)} Markdown documents, local links, catalog, provenance, and evaluation schema.')
 print('Structural checks do not grade creative quality or establish audience performance.')

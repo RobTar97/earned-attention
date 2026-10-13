@@ -33,6 +33,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 |---|---|
 | [Psychology and brand](../skills/psychological-content-strategy/references/psychology-brand.md) | Mechanisms, customer narrative, buying cues, distinctive assets, contextual brand/activation mix |
 | [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Hook families, headline/cover alignment, copy structures, CTAs, optional Japanese adaptation |
+| [Hook patterns and creative study](../skills/psychological-content-strategy/references/hook-patterns.md) | 24 confession, experiment, contrarian, and lesson starters; truth/proof requirements; deliberate creative analysis |
 | [Video production](../skills/psychological-content-strategy/references/video-production.md) | Timing, meaningful beats/cuts, framing, captions, sound, capture and QA |
 | [Analytics and testing](../skills/psychological-content-strategy/references/analytics-testing.md) | Retention interpretation, metrics, baselines, denominators, experiments |
 | [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Briefs, handoffs, finished examples, campaign matrix |

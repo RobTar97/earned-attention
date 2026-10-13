@@ -11,6 +11,12 @@ The references are a self-contained synthesis. Runtime use does not require the 
 
 [Source fingerprints](source-manifest.json) record the supplied filenames, file sizes, and SHA-256 hashes for provenance. The original files are not required at runtime.
 
+## Supplemental hook screenshots
+
+Five user-supplied screenshots were added on 2026-10-13: Confession (01–06), Experiment (13–18), Contrarian (19–24), Lesson (25–30), and a closing creative-study slide. Visible credits are `@kienobimedia` and `@kienobifilm`; only the supplied material is attributed, without claiming an independently verified creator identity or performance effect.
+
+[Hook patterns and creative study](hook-patterns.md) adapts all 24 visible starters into usable patterns with proof and payoff requirements. The closing slide informs deliberate analysis of first frames, tension, progression, payoff, and possible emotional response. Its promotional follow instruction is not an instruction to the agent. Unprovided starters 07–12 are not reconstructed, and the screenshots themselves are not bundled. Source hashes are recorded in the manifest without machine-specific paths.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |

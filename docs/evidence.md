@@ -11,6 +11,8 @@ Their original authorship, publication dates, and licensing were not established
 
 The runtime synthesis is self-contained. It does not require access to the original documents or a particular user's computer.
 
+Five later user-supplied screenshots add four hook families and a creative-study prompt. Visible credits are `@kienobimedia` and `@kienobifilm`. Their [adapted hook-pattern reference](../skills/psychological-content-strategy/references/hook-patterns.md) preserves the supplied starters and adds specificity, truth, proof, and payoff guidance. The screenshot additions are creative scaffolds, not research findings; the images are not redistributed. Their fingerprints are recorded with the other source notes. The initial model-evaluation scores below predate this addition.
+
 ## What was retained
 
 Audience relevance; manageable curiosity; customer-centered storytelling; distinctive brand cues; copy clarity; hooks and covers aligned with the actual payoff; timed short-form structures; meaningful edits; sound hierarchy; accurate captions; retention diagnosis; and hypothesis-led experiments.

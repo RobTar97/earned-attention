@@ -12,5 +12,44 @@
       "bytes": 46786,
       "sha256": "7bad3b931f7c7a967cebc49c4b1a09fb969f584584127c89983df3d0dd01b3df"
     }
+  ],
+  "supplemental_sources": [
+    {
+      "type": "user-provided hook screenshots",
+      "added_date": "2026-10-13",
+      "visible_credits": [
+        "@kienobimedia",
+        "@kienobifilm"
+      ],
+      "hook_starters_supplied": 24,
+      "images_bundled": false,
+      "images": [
+        {
+          "subject": "Lesson",
+          "bytes": 61916,
+          "sha256": "4a03ed5786298f7f2137391cd022a6f3e93222d682119122f0cf99d33831b777"
+        },
+        {
+          "subject": "Contrarian",
+          "bytes": 62300,
+          "sha256": "d8551ed6a5280ebc8ca2fc5c1f8d9862874bc0d364789419b7dc3bb0f6a66e3e"
+        },
+        {
+          "subject": "Experiment",
+          "bytes": 75483,
+          "sha256": "85b805e59f79b49bcd0452e7ef71a74f7c3226397d7a17d356a35c5e39097a0c"
+        },
+        {
+          "subject": "Creative study",
+          "bytes": 78021,
+          "sha256": "216af1319520b367a50b9ef2c66448ca993dcc3a4341346d58d6507011d91666"
+        },
+        {
+          "subject": "Confession",
+          "bytes": 71426,
+          "sha256": "3ebb5539af4b3b607da3f1ca5c81ae1ab410883c6d049d3701f0880f14e504d3"
+        }
+      ]
+    }
   ]
 }

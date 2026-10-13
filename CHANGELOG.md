@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Add 24 screenshot-derived hook starters across Confession, Experiment, Contrarian, and Lesson, with truth, proof, and payoff requirements.
+- Add a deliberate creative-study method and connect the new reference to hook selection and public documentation.
+- Credit the supplied screenshot material and preserve source fingerprints without bundling the images.
+
 ## 1.0.0 — 2026-10-13
 
 - Publish Earned Attention with the stable `psychological-content-strategy` skill identifier.

@@ -57,6 +57,8 @@ For a campaign, connect content to buying situations and consistent brand cues. 
 
 For an ordinary video request, propose 3–5 meaningfully different hook angles. For a narrow rewrite or a specified count, follow the requested scope. Combine first-frame subject/action, short headline, spoken opening, and sound into one coherent promise.
 
+Use [confession, experiment, contrarian, and lesson patterns](references/hook-patterns.md) when the brief supports a real experience, test, counterexample, or transferable lesson. The guide supplies 24 starters, proof/payoff requirements, and a creative-study method. Keep past-tense first-person claims tied to the intended speaker's actual experience; label planned tests clearly.
+
 Use: **recognizable situation + specific tension/desire + credible outcome + optional constraint**. The audience need not be named aloud if the situation makes relevance clear.
 
 Score candidate hooks internally from 0–2 for specificity, relevance, credibility, answerable curiosity, and continuity with the body. A score below 7/10 is a revision prompt, not a scientific threshold or prediction of performance. Reveal scores only when useful.

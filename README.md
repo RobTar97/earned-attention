@@ -51,6 +51,8 @@ Provide the audience, desired outcome, available proof, and production limits. T
 
 English is supported by default; Japanese catchcopy and localization guidance are available when requested. Examples include product demonstrations, educational Shorts, project-checklist copy, and brand/trial content plans.
 
+The [hook-pattern guide](skills/psychological-content-strategy/references/hook-patterns.md) adds 24 confession, experiment, contrarian, and lesson starters, with truth requirements, matching payoffs, and a method for studying successful creative.
+
 ## How it works
 
 ```mermaid
@@ -102,7 +104,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Six focused guides + source fingerprints
+  references/                    # Seven focused guides + source fingerprints
 docs/                            # Human-facing documentation
 evals/                           # Three sample tasks and evaluation summary
 scripts/validate.py              # Dependency-free structural validation

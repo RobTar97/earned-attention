@@ -38,11 +38,14 @@ Do not turn an unverified capability into a claim just to make the hook stronger
 | Comparison | “[A] and [B] look alike. Here is the difference.” | Fair comparison with matching conditions |
 | Experiment | “I compared [A] with [B] under [conditions].” | Actual methods and results, or clearly a proposed experiment |
 | Confession | “I [real mistake]. Here is what changed.” | Genuine experience or labeled fictional example |
+| Lesson | “[Experience] changed how I [task]. Here is the reusable rule.” | Real learning and a practical takeaway the viewer can apply |
 | Prevention | “Before [action], check [specific risk].” | Proportionate risk and practical check |
 | Identity | “[Relevant audience]: here is [useful insight].” | Relevance without caricature |
 | Open loop | “The obvious fix caused [unexpected problem].” | Resolve why; no empty withholding |
 
 Generate different angles, not tiny synonym changes. Keep candidate promises compatible with the supplied evidence and final body.
+
+For confession, experiment, contrarian, and lesson angles, read [hook patterns and creative study](hook-patterns.md). It expands these families into 24 starters with specific proof and payoff requirements. Generic starters need a concrete subject; planned experiments must not sound completed, and personal experiences must belong to the actual speaker.
 
 ## Hook quality rubric
 
