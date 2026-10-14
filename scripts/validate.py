@@ -1,6 +1,7 @@
 """Validate this skill repository's portable structure using the standard library."""
 
 import json
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -56,9 +57,13 @@ if skill_path.exists():
 
 expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
                  'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
-                 'hook-patterns.md']
+                 'hook-patterns.md', 'educational-scriptwriting.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
+
+archived_source = SKILL / 'references/source-material/viral_scriptwriting_framework_and_transcript.md'
+check(archived_source.is_file(), 'Missing supplied educational-scriptwriting source resource')
+check((archived_source.parent / 'README.md').is_file(), 'Archived source needs attribution and instruction-boundary notes')
 
 markdown_files = [p for p in ROOT.rglob('*.md') if not any(part.startswith('.') for part in p.relative_to(ROOT).parts)]
 for path in markdown_files:
@@ -106,6 +111,12 @@ if isinstance(manifest, dict):
     check(manifest.get('originals_required_at_runtime') is False, 'Runtime must not depend on the original supplied files')
     for source in manifest.get('sources', []):
         check(bool(re.fullmatch(r'[0-9a-f]{64}', source.get('sha256', ''))), 'Source fingerprints must be SHA-256 hashes')
+        if source.get('bundled_path'):
+            bundled = (SKILL / 'references' / source['bundled_path']).resolve()
+            check(bundled.is_relative_to(SKILL.resolve()), 'Bundled source must stay inside the skill')
+            check(bundled.is_file(), 'Bundled source path must exist')
+            if bundled.is_file() and bundled.is_relative_to(SKILL.resolve()):
+                check(hashlib.sha256(bundled.read_bytes()).hexdigest() == source['sha256'], 'Bundled source fingerprint must match the supplied file')
 
 if errors:
     for error in errors:

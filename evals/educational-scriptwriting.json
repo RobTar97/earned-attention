@@ -1,0 +1,30 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "type": "Focused educational workflow smoke checks",
+  "evals": [
+    {
+      "id": "educational-draft",
+      "prompt": "Using the supplied scriptwriting framework, write a 30-second educational Short teaching small-team project managers to replace Test form with Submit a test entry and confirm the success message. I have a working demo form and no personal struggle story, measured results, or research. Give one finished timed script with visual/audio cues and one practical CTA. Keep it concise; do not require a thumbnail or a dramatic hero journey.",
+      "expectations": [
+        "Produces the requested script despite the source's opinion against AI prose.",
+        "Uses continuous 0–30-second beats with feasible visual/audio directions.",
+        "Avoids invented personal struggle, measured results, and researched findings.",
+        "Delivers the observable form-success lesson before one practical CTA."
+      ]
+    },
+    {
+      "id": "educational-coaching",
+      "prompt": "Critique my eight-minute tutorial outline; do not write finished narration. Audience: intermediate creators who know basic editing but struggle to finish. Real experience: I spent six weeks revising one tutorial, then shipped it after setting an acceptance checklist. Outline: intro, editing tools, perfectionism story, publishing, recap. Apply Foundation, Target, Structure, Draft and Refine. Give a learning contract, research gaps to verify, Point A to B, improved causal outline and specific feedback. Preserve useful depth and do not invent audience reactions or outcomes.",
+      "expectations": [
+        "Respects critique-only scope without a full finished script.",
+        "Uses all five phases at an appropriate scale for an eight-minute outline.",
+        "Labels research gaps as unverified rather than claiming performed research.",
+        "Preserves supplied experience and a causal transformation without fabricated outcomes."
+      ]
+    }
+  ],
+  "limitations": [
+    "Two focused smoke checks; no paired baseline or audience-performance measurement.",
+    "Author review and structural timing checks do not establish broad writing quality."
+  ]
+}

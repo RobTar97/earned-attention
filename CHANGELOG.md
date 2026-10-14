@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Integrate the supplied viral-scriptwriting framework as an adapted five-phase educational workflow, preserving its original framework/transcript as a separate reference resource.
+- Add learning contracts, optional deeper obstacles, research-gap maps, audience-depth selection, transformation, actionable outline critique, causal transitions, prediction/reveal, and rhythm checks.
+- Support both educational outline coaching and requested drafting, with short/long-format adaptation and explicit treatment of source opinions and satire.
+
 - Add 24 screenshot-derived hook starters across Confession, Experiment, Contrarian, and Lesson, with truth, proof, and payoff requirements.
 - Add a deliberate creative-study method and connect the new reference to hook selection and public documentation.
 - Credit the supplied screenshot material and preserve source fingerprints without bundling the images.

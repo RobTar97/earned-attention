@@ -8,7 +8,7 @@
 
 Turn an idea or a weak draft into content a viewer has a reason to watch—and a payoff worth staying for.
 
-Earned Attention is a reusable agent skill for TikTok, Instagram Reels, YouTube Shorts, marketing copy, and content planning. It combines audience psychology with concrete scripting, production decisions, and honest measurement. Give your agent a brief, script, or retention data; get creative you can use and a focused next experiment.
+Earned Attention is a reusable agent skill for TikTok, Instagram Reels, YouTube Shorts, educational YouTube videos, marketing copy, and content planning. It combines audience psychology with concrete scripting, production decisions, and honest measurement. Give your agent a brief, script, outline, or retention data; get creative you can use and a focused next experiment.
 
 ## Install
 
@@ -44,6 +44,7 @@ Provide the audience, desired outcome, available proof, and production limits. T
 | Request | Deliverable |
 |---|---|
 | Create a short | Distinct hook angles, a selected opening, timed beat table, capture/edit notes, and one test |
+| Plan or write an educational video | Learning contract, research gaps, audience depth, Point A → Point B arc, causal outline or requested script |
 | Improve a draft | Prioritized problems tied to the supplied evidence, followed by a complete rewrite |
 | Write copy | Headlines, catchcopy, captions, or sales copy matched to audience awareness and voice |
 | Diagnose retention | Observations, plausible explanations, evidence gaps, and a controlled-variable experiment |
@@ -52,6 +53,8 @@ Provide the audience, desired outcome, available proof, and production limits. T
 English is supported by default; Japanese catchcopy and localization guidance are available when requested. Examples include product demonstrations, educational Shorts, project-checklist copy, and brand/trial content plans.
 
 The [hook-pattern guide](skills/psychological-content-strategy/references/hook-patterns.md) adds 24 confession, experiment, contrarian, and lesson starters, with truth requirements, matching payoffs, and a method for studying successful creative.
+
+The [five-phase educational-scriptwriting guide](skills/psychological-content-strategy/references/educational-scriptwriting.md) adds Foundation, Target, Structure, Draft, and Refine: packaging and shared value, research gaps, honest transformation, useful critique, causal transitions, and spoken rhythm. It scales those ideas to short and longer formats. The [supplied framework and transcript](skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is preserved separately for detailed reference.
 
 ## How it works
 
@@ -104,7 +107,8 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Seven focused guides + source fingerprints
+  references/                    # Eight focused guides + source fingerprints
+    source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
 evals/                           # Three sample tasks and evaluation summary
 scripts/validate.py              # Dependency-free structural validation

@@ -3,3 +3,5 @@
 *.json text eol=lf
 *.py text eol=lf
 *.yml text eol=lf
+# Preserve the supplied source file exactly for its recorded fingerprint.
+skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md -text whitespace=-blank-at-eol

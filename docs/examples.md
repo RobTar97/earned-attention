@@ -85,7 +85,23 @@ platform requirement before using it. We will edit in our existing tool.
 
 Expect platform-specific packaging decisions grounded in the same creative truth. Rendering or publishing requires your own authorized tool workflow.
 
-## A reusable brief
+## 7. Plan an educational video without replacing the author
+
+```text
+Use psychological-content-strategy to critique my eight-minute tutorial
+outline. Audience: intermediate creators who know basic editing but
+struggle to finish. My real experience: I spent six weeks revising one
+tutorial and finally shipped it after setting a clear acceptance check.
+Outline: intro, editing tools, perfectionism story, publishing, recap.
+Apply Foundation, Target, Structure, Draft, and Refine. Identify the
+learning contract, research gaps to verify, and Point A → Point B change.
+Give an improved causal outline and concrete feedback, not a full script.
+Preserve my voice; do not invent audience reactions or results.
+```
+
+Expect specific critique, useful depth, contrast/consequence between beats, and an honest transformation. The [five-phase guide](../skills/psychological-content-strategy/references/educational-scriptwriting.md) can also draft when requested; the source's anti-AI advice does not override your request.
+
+## 8. Turn one true story into four hook angles
 
 For an experience-led story, use the [four-family hook guide](../skills/psychological-content-strategy/references/hook-patterns.md):
 
@@ -100,7 +116,7 @@ and explain the proof and payoff each hook needs.
 
 Expect meaningful angle differences without invented past tests, results, or personal stakes.
 
-### Brief template
+## A reusable brief
 
 ```text
 Audience and current situation:

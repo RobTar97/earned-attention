@@ -2,6 +2,8 @@
 
 Use this reference for a shootable script, storyboard, edit plan, or script-level audit. Timing examples are starting shapes, not platform requirements.
 
+For an educational tutorial or longer YouTube script, use [the five-phase scriptwriting guide](educational-scriptwriting.md) to establish the learning contract, audience depth, research gap, transformation, and causal flow. Then use this reference for feasible beats and production. Keep complexity when it fulfills the learning promise; improve explanation and orientation before shortening it away.
+
 ## Three retention layers
 
 | Layer | Viewer reason to stay | Production question |

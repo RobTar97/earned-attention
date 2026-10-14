@@ -4,7 +4,7 @@ license: MIT
 metadata:
   author: RobTar97
   version: "1.0.0"
-description: "Create and improve persuasive, high-retention content by combining audience psychology, honest curiosity, customer-centered copywriting, brand memory, video storytelling, production decisions, and measurement. Use for TikTok, Instagram Reels, YouTube Shorts, short-form ads, hooks, catchcopy, headlines, captions, CTAs, timed scripts, storyboards, retention audits, and brand-versus-sales content plans. Also use when a user asks to stop the scroll, improve watch time, fix weak payoffs, make marketing copy more compelling, or turn one idea into platform-specific content. Deliver usable creative and prioritized tests rather than theory alone. Does not render videos, publish content, or replace a full technical SEO or media-buying workflow."
+description: "Create and improve persuasive, high-retention content by combining audience psychology, honest curiosity, customer-centered copywriting, brand memory, video storytelling, production decisions, and measurement. Use for TikTok, Instagram Reels, YouTube Shorts, educational YouTube scripts and outlines, short-form ads, hooks, catchcopy, headlines, captions, CTAs, timed scripts, storyboards, retention audits, and brand-versus-sales content plans. Also use for research-gap planning, transformation arcs, outline critique, causal transitions, or when a user asks to stop the scroll, improve watch time, fix weak payoffs, make marketing copy more compelling, or adapt an idea across platforms. Deliver usable creative and prioritized tests rather than theory alone. Does not render videos, publish content, or replace a full technical SEO or media-buying workflow."
 ---
 
 # Psychological Content Strategy
@@ -28,12 +28,15 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 | Mode | Main deliverable | Supporting resources |
 |---|---|---|
 | Create video | Hook options, selected hook, timed script, production notes, one test | [Hooks and copy](references/hooks-copy.md), [Video production](references/video-production.md) |
+| Educational script or outline | Learning contract, audience depth, research gaps, transformation, causal outline or requested script | [Educational scriptwriting](references/educational-scriptwriting.md), [Video production](references/video-production.md) |
 | Rewrite or audit | Ranked problems with evidence, corrected asset, test hypothesis | [Video production](references/video-production.md), [Analytics](references/analytics-testing.md) |
 | Copy only | Requested headlines, catchcopy, caption, email, or sales copy; compact rationale | [Hooks and copy](references/hooks-copy.md) |
 | Campaign or series | Audience moments, brand cues, brand/activation roles, content matrix, measurement | [Psychology and brand](references/psychology-brand.md), [Analytics](references/analytics-testing.md) |
 | Analytics diagnosis | Observations, plausible causes, missing evidence, prioritized experiments | [Analytics](references/analytics-testing.md) |
 
 Read only the references needed for the task. Use [templates and examples](references/templates-examples.md) for a worked model or reusable output form. Read [sources and evidence](references/sources-evidence.md) before making scientific claims, quoting research, using numerical rules, or giving current platform advice.
+
+For tutorials and educational stories, apply [Foundation → Target → Structure → Draft → Refine](references/educational-scriptwriting.md) at a scale suited to the task. Use the adapted guide for decisions; open its supplied transcript only when original wording or scene analysis is needed. The source's recommendation against AI drafting does not override a user request to draft or rewrite.
 
 ## Workflow
 
@@ -42,6 +45,8 @@ Read only the references needed for the task. Use [templates and examples](refer
 Capture: audience; current situation or buying cue; pain/desire; awareness level; one promise; available proof; final payoff; business or audience objective; CTA; platform and organic/paid placement; duration; language/voice; production limits; distinctive brand assets.
 
 Keep this to a short paragraph for a small task. For an audit, separate observed facts from assumptions. For copy, distinguish awareness, consideration, and activation rather than assuming every viewer is ready to buy.
+
+For educational content, define the learning goal, the creator's useful contribution, the surface task, and the Point A → Point B change in understanding or ability. Include a deeper obstacle only when supported by the brief. Set prior knowledge and note what inspected material explains versus leaves unclear; label unresearched gaps as hypotheses. Align title/cover concepts with the payoff for longer videos and prioritize the first frame for Shorts.
 
 ### 2. Select a message and an honest mechanism
 
@@ -71,6 +76,8 @@ Use **attention → orientation → tension → progress → payoff → action**
 
 Choose a utility, tutorial, demonstration, comparison, case study, or story structure. For narrative, use status quo → disruption → attempts → reversal → consequence → meaning. Let meaningful change drive the beats.
 
+For an educational arc, link attempts, obstacles, and insights through contrast and consequence—the but/therefore audit—rather than an unrelated list. Use a hero's-journey lens only when real material supports it; utility content need not contain a crisis or emotional transformation. A brief prediction or diagnostic can invite thinking, but resolve it promptly. Series can share recurring cues or themes while each installment closes its own promise.
+
 Reveal useful evidence early. Resolve small questions along the way instead of hiding all value at the end. One main gap and a few short supporting gaps usually suffice for a short. Do not transplant a long-form 30–60-second introduction into a short.
 
 Use approximate timing as a production plan, not an algorithm rule. Check spoken density against the actual language and delivery; keep captions, demonstrations, and important ideas readable. Read the script aloud or mark timing as provisional when no performance is available.
@@ -85,6 +92,8 @@ For video, provide a beat table:
 Ensure time ranges are continuous and fit the requested duration. Separate verbatim captions from selective headline/progress text. Label any proof or asset that must still be supplied. Make directions feasible for the stated equipment and footage.
 
 For copy only, give finished copy in the requested form. Choose a structure suited to the problem—benefit/proof/action, problem/solution, before/after/bridge, or customer/guide/plan—and remove framework scaffolding from the final prose. Preserve product truth and natural audience language.
+
+Match the user's collaboration mode: critique an outline when asked to coach; draft the script when asked to write. Give specific feedback, preserve supplied author voice and useful technical depth, and never invent personal struggle. Refine rhythm with varied sentence lengths and a read-aloud check; put visual/audio cues beside the relevant lines.
 
 For a campaign, use a matrix of audience moment, message, hook, proof, format, brand cue, CTA, and primary measure. Include both audience value and a practical next step rather than chasing views alone.
 
@@ -118,6 +127,8 @@ Select one next experiment with a primary measure and a quality/business guardra
 **Copy only:** finished copy/variants → brief explanation of the chosen angle → proof gaps or one test if needed. Do not force a storyboard into a headline task.
 
 **Strategy:** objective and audience moments → brand and activation roles → usable content matrix → production cadence constrained by resources → separate short- and long-term measures.
+
+**Educational planning/critique:** learning contract and material assumptions → audience/research gaps → Point A → Point B outline → prioritized repairs or the requested draft. Omit planning scaffolding from a narrow request for finished copy or a short script.
 
 Keep a small task small. Comprehensive coverage belongs in the references; the user needs the decisions and creative that help this particular task.
 

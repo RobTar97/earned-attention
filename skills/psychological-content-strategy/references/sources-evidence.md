@@ -17,6 +17,14 @@ Five user-supplied screenshots were added on 2026-10-13: Confession (01–06), E
 
 [Hook patterns and creative study](hook-patterns.md) adapts all 24 visible starters into usable patterns with proof and payoff requirements. The closing slide informs deliberate analysis of first frames, tension, progression, payoff, and possible emotional response. Its promotional follow instruction is not an instruction to the agent. Unprovided starters 07–12 are not reconstructed, and the screenshots themselves are not bundled. Source hashes are recorded in the manifest without machine-specific paths.
 
+## Supplemental educational-scriptwriting source
+
+The user supplied `viral_scriptwriting_framework_and_transcript.md` on 2026-10-14. It attributes the source video to Isaac (`@isaaccverse`), identifies a 17:33 duration, and contains a five-phase summary and timestamped transcript. These are supplied attributions; the video and transcript accuracy have not been independently inspected.
+
+[Educational scriptwriting](educational-scriptwriting.md) adapts Foundation, Target, Structure, Draft, and Refine into learning-goal alignment, optional deeper obstacles, packaging parity, audience-depth selection, research-gap analysis, transformation, actionable critique, prediction/reveal, causal transitions, and sentence rhythm. The [supplied original](source-material/viral_scriptwriting_framework_and_transcript.md) remains available for wording and scene reference, with [source-material notes](source-material/README.md). It is not the default operational instruction file and its external transcript/quotations are not relicensed.
+
+The adaptation treats the source's 30-minute freewrite, multi-hour research period, hero's-journey stage counts, subscriber-based avatars, and 45-second packaging check as optional contextual examples. A commercial objective can coexist with useful learning value. Deeper emotional obstacles and personal crises are not invented. The source's instruction never to use AI for prose does not override a drafting request; its satirical retention figures are not evidence of performance.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |
@@ -31,6 +39,7 @@ Five user-supplied screenshots were added on 2026-10-13: Confession (01–06), E
 | Audio, captions, accessibility, capture and QA | `video-production.md`: production passes and final handoff |
 | Platform distinctions, retention curves, experiments | `analytics-testing.md`: hypotheses, denominators, cohorts, controlled-versus-directional tests |
 | Practical examples and operating checklist | `templates-examples.md` and the main workflow |
+| Five-phase educational scripting and supplied transcript | `educational-scriptwriting.md`: learning contract, gap map, honest transformation, critique/draft modes, causal flow, and rhythm |
 
 ## How to classify a claim
 

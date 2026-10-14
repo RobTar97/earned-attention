@@ -7,6 +7,7 @@ The skill begins by identifying the viewer, their situation, the promised value,
 | Mode | Core output | Main decisions |
 |---|---|---|
 | Video creation | Hook variants and continuous timed beat table | Promise, first-frame proof, progression, sound/text hierarchy, payoff |
+| Educational planning/writing | Learning contract, gap map, causal outline or requested script | Foundation, Target, Structure, Draft, Refine; audience depth and observable transformation |
 | Rewrite/audit | Ranked evidence table and complete corrected asset | Largest viewer problem, proof order, comprehension, CTA |
 | Copy | Finished variants | Audience awareness, benefit, credible proof, natural voice |
 | Campaign | Feasible asset matrix | Buying situations, brand cues, useful messages, recognition/acquisition roles |
@@ -35,9 +36,12 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 | [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Hook families, headline/cover alignment, copy structures, CTAs, optional Japanese adaptation |
 | [Hook patterns and creative study](../skills/psychological-content-strategy/references/hook-patterns.md) | 24 confession, experiment, contrarian, and lesson starters; truth/proof requirements; deliberate creative analysis |
 | [Video production](../skills/psychological-content-strategy/references/video-production.md) | Timing, meaningful beats/cuts, framing, captions, sound, capture and QA |
+| [Educational scriptwriting](../skills/psychological-content-strategy/references/educational-scriptwriting.md) | Five phases, shared learning value, research gaps, transformation, outline critique, causal flow, rhythm, and short/long adaptation |
 | [Analytics and testing](../skills/psychological-content-strategy/references/analytics-testing.md) | Retention interpretation, metrics, baselines, denominators, experiments |
 | [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Briefs, handoffs, finished examples, campaign matrix |
 | [Sources and evidence](../skills/psychological-content-strategy/references/sources-evidence.md) | Provenance, qualified claims, primary sources, current verification |
+
+The [supplied scriptwriting framework/transcript](../skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is available for original wording and scene analysis. Normal tasks use the adapted guide rather than loading the full transcript. Source opinions and satire do not override the user's requested collaboration mode.
 
 ## Why the name has two forms
 
