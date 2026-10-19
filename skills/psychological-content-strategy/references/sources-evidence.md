@@ -25,6 +25,16 @@ The user supplied `viral_scriptwriting_framework_and_transcript.md` on 2026-10-1
 
 The adaptation treats the source's 30-minute freewrite, multi-hour research period, hero's-journey stage counts, subscriber-based avatars, and 45-second packaging check as optional contextual examples. A commercial objective can coexist with useful learning value. Deeper emotional obstacles and personal crises are not invented. The source's instruction never to use AI for prose does not override a drafting request; its satirical retention figures are not evidence of performance.
 
+## Supplemental content-principles source
+
+The user supplied a file named `SKILL.md`, with frontmatter name `content-principles`, on 2026-10-19. Its author, publication date, license, and performance claims were not independently established. The original file is fingerprinted in the [manifest](source-manifest.json) but is not bundled or required at runtime.
+
+[Viewer-first content principles](content-principles.md) selectively adapts its strongest editorial ideas: write as if sending the asset to one person; make value legible relative to effort; connect adjacent lines; create viewer-relevant questions; use concrete, supported detail; simplify sentences without flattening ideas; remove irrelevant detours; answer the likely objection at the point it arises; and let meaningful beats guide the edit.
+
+The source's “apply silently” stance informs finished creative, while explicit requests for critique, scoring, or production tables retain their requested form. Its rejection of recognizable structures becomes a diagnostic for generic substance, not a ban on useful templates. Audience labels, direct answers, humor, pauses, specialist vocabulary, and continuous shots remain valid when they serve the idea.
+
+The adaptation does not encode “six beats three,” a universal ten-word premise, a child-level comprehension rule, mandatory new loops at 60–70%, sub-nine-word average sentences, a fixed first-value deadline, or universal superiority of frequent cuts. Its claims about an initial three-second platform test and no second chance are unverified and are not distribution facts in this skill. Early value and manageable effort remain editorial hypotheses; relevant current algorithm claims need separate primary-source verification.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |
@@ -40,6 +50,7 @@ The adaptation treats the source's 30-minute freewrite, multi-hour research peri
 | Platform distinctions, retention curves, experiments | `analytics-testing.md`: hypotheses, denominators, cohorts, controlled-versus-directional tests |
 | Practical examples and operating checklist | `templates-examples.md` and the main workflow |
 | Five-phase educational scripting and supplied transcript | `educational-scriptwriting.md`: learning contract, gap map, honest transformation, critique/draft modes, causal flow, and rhythm |
+| Viewer-first reasoning and concrete short-form writing | `content-principles.md`, `hooks-copy.md`, and `video-production.md`: silent application, value/effort, line progression, truthful detail, objections, and meaningful beats |
 
 ## How to classify a claim
 

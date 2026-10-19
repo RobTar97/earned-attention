@@ -116,6 +116,21 @@ and explain the proof and payoff each hook needs.
 
 Expect meaningful angle differences without invented past tests, results, or personal stakes.
 
+## 9. Replace generic hype with finished spoken copy
+
+```text
+Use psychological-content-strategy to rewrite this opener and body:
+"Busy agency founders, this game-changing app will transform your
+productivity. Keep watching for my favorite feature."
+Write as though sending it to a team lead who repeats project kickoffs.
+LoopList saves and reuses checklists. It does not automate tasks, and
+we have no measured time savings or testimonials. Show a real benefit
+early and address the possible automation misconception where relevant.
+Return only the finished spoken copy, about 20 seconds, with no CTA.
+```
+
+Expect concrete save/reuse language, a connected explanation, an honest limit, and a complete ending. The [content principles](../skills/psychological-content-strategy/references/content-principles.md) guide the rewrite without adding framework headings, scores, a beat table, or invented numbers. Duration remains provisional until spoken aloud.
+
 ## A reusable brief
 
 ```text

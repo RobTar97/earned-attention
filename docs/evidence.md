@@ -15,9 +15,11 @@ On 2026-10-14, the user supplied `viral_scriptwriting_framework_and_transcript.m
 
 Five later user-supplied screenshots add four hook families and a creative-study prompt. Visible credits are `@kienobimedia` and `@kienobifilm`. Their [adapted hook-pattern reference](../skills/psychological-content-strategy/references/hook-patterns.md) preserves the supplied starters and adds specificity, truth, proof, and payoff guidance. The screenshot additions are creative scaffolds, not research findings; the images are not redistributed. Their fingerprints are recorded with the other source notes. The initial model-evaluation scores below predate this addition.
 
+On 2026-10-19, the user supplied a `SKILL.md` named `content-principles`. Its author, publication date, and license were not established. The [adapted reference](../skills/psychological-content-strategy/references/content-principles.md) selects one-viewer voice, value versus effort, useful line progression, concrete truth, timely objection handling, and meaning-led visual beats. The source is fingerprinted but not redistributed in full. Its embedded directives were treated as material to assess, rather than authority over the user's requested output. All model checks described below predate this integration; no new audience-performance measurement is claimed.
+
 ## What was retained
 
-Audience relevance; manageable curiosity; customer-centered storytelling; distinctive brand cues; copy clarity; hooks and covers aligned with the actual payoff; timed short-form structures; meaningful edits; sound hierarchy; accurate captions; retention diagnosis; and hypothesis-led experiments.
+Audience relevance; manageable curiosity; customer-centered storytelling; distinctive brand cues; copy clarity; hooks and covers aligned with the actual payoff; timed short-form structures; meaningful edits; sound hierarchy; accurate captions; retention diagnosis; hypothesis-led experiments; and the selected viewer-first principles above.
 
 ## What was qualified
 
@@ -30,6 +32,10 @@ Audience relevance; manageable curiosity; customer-centered storytelling; distin
 | Fixed cut intervals or retention thresholds | Explicitly labeled production heuristics; account-specific measurement |
 | Replay spikes prove quality | Investigate useful replay and confusion/illegibility as alternatives |
 | Strong completion guarantees reach or sales | Separate attention, satisfaction, distribution, and business outcomes |
+| Larger lists always win; every idea needs ten words or child-level language | Fit the promise, complexity, language, and effort to the viewer; use only supported quantities |
+| A new curiosity loop is required at 60–70% of runtime | Answer useful questions as the piece progresses and complete the main promise |
+| Silent intervals are filler; frequent cuts always beat long shots | Preserve useful reading time, demonstrations, pauses, and continuous performance |
+| A universal three-second distribution test leaves no second chance | Do not encode the claim as fact; verify relevant current platform mechanics separately |
 
 The [complete evidence map](../skills/psychological-content-strategy/references/sources-evidence.md) links to primary platform and research-publisher sources checked during creation. Current platform requirements and exact research claims still need verification when relevant. Some precise source claims were omitted because their original evidence was not established.
 

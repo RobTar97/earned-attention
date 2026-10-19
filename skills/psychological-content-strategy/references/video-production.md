@@ -14,6 +14,8 @@ For an educational tutorial or longer YouTube script, use [the five-phase script
 
 Repair meaning before adding stimulation. An uninteresting or confusing premise rarely becomes useful through more zooms. Give complex evidence enough time to be understood.
 
+Use [content principles](content-principles.md) to connect adjacent lines and deliver something useful before repeating a promise. Give the viewer a reason to care about a question; an interviewer asking it is not sufficient by itself. A complete payoff needs no compulsory new loop.
+
 ## Structural starting points
 
 ### Approximately 15 seconds: utility or demonstration
@@ -70,6 +72,8 @@ Cut for a new idea, object, action, example, perspective, emotion, or removal of
 Ask during the rough cut: does this interval add information, evidence, emotion, orientation, or deliberate anticipation? A 1–3-second review interval can reveal dead time, but is only a heuristic. It does not require a cut, effect, or new image every 1–3 seconds.
 
 Compress familiar setup; let novel proof breathe. Alternate compression with release. Move strong evidence earlier. Replace abstract explanation with demonstration when it improves understanding.
+
+A pause for reading, demonstration, breathing, or emotion can be purposeful. Do not remove every silent interval or force a target sentence length. Frequent cuts, talking-head cutaways, or several short visits to the same footage are not inherently superior to a continuous shot; choose the view that makes progress easiest to follow.
 
 ## Pattern changes and transitions
 

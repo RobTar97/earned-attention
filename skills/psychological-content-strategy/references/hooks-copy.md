@@ -17,12 +17,14 @@ This is a planning shorthand. Real audiences overlap; infer awareness from the b
 
 Align four channels: first-frame subject/action; short on-screen headline; spoken line; first sound. They need not repeat the same wording, but should support the same promise.
 
-Formula: **recognizable viewer/situation + specific tension/desire + credible outcome + optional constraint**.
+Diagnostic: **recognizable viewer/situation + specific tension/desire + credible outcome + optional constraint**. Understand the premise before choosing a pattern; this is not a mandatory sentence formula.
 
 Weak: “Here are some app tips.”
 Stronger: “Still rebuilding the same project checklist? Duplicate this template instead.”
 
 Do not turn an unverified capability into a claim just to make the hook stronger. Use a demonstration that can actually be captured.
+
+For a concrete-viewer lens, value versus effort, the topic-swap diagnostic, and line-to-line progression, use [content principles](content-principles.md). Prefer specific objects and actions supported by the brief; naming the audience is useful when fit matters. A time budget must be deliverable, and more numbered items do not automatically make a better promise.
 
 ## Hook families
 
@@ -78,6 +80,8 @@ Check contrast, phone-size legibility, and UI overlap. Text placement and color 
 | Customer → obstacle → guide → plan → action → outcome | Customer goal and useful assistance | Brand narrative, landing pages, case studies | Remove brand-centered boasting |
 
 Treat structures as scaffolding. Finished copy should read naturally and need not announce framework names.
+
+Address the most plausible objection beside the claim that creates it. Demonstrate the required skill or resource, explain fit, or state a real limit. Avoid an unrelated FAQ preamble, invented ease-of-use claims, or pretending a sales asset has no commercial intent.
 
 ## Catchcopy and caption hierarchy
 

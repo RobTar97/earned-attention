@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Selectively integrate the supplied `content-principles` skill: one-viewer voice, value versus effort, useful line-to-line progression, truthful specificity, and objection handling at the relevant moment.
+- Add a focused reference and worked example; apply the principles silently while preserving requested copy, critique, and production formats.
+- Qualify claims about list size, word counts, curiosity-loop timing, silent intervals, cut frequency, and platform distribution rather than treating them as universal rules.
+
 - Integrate the supplied viral-scriptwriting framework as an adapted five-phase educational workflow, preserving its original framework/transcript as a separate reference resource.
 - Add learning contracts, optional deeper obstacles, research-gap maps, audience-depth selection, transformation, actionable outline critique, causal transitions, prediction/reveal, and rhythm checks.
 - Support both educational outline coaching and requested drafting, with short/long-format adaptation and explicit treatment of source opinions and satire.

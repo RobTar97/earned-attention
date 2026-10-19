@@ -22,6 +22,18 @@
       "attribution_as_supplied": "Isaac (@isaaccverse)",
       "source_video_verified": false,
       "transcription_verified": false
+    },
+    {
+      "filename": "SKILL.md",
+      "source_skill_name": "content-principles",
+      "type": "supplied-skill-selective-adaptation",
+      "added_date": "2026-10-19",
+      "bytes": 10479,
+      "sha256": "7b75473627809aeedc9e3f8179f16fcdd4a4b6155f565ee312cebc14bcb82aee",
+      "original_bundled": false,
+      "authorship_verified": false,
+      "performance_claims_verified": false,
+      "adapted_reference": "content-principles.md"
     }
   ],
   "supplemental_sources": [

@@ -4,6 +4,8 @@
 
 The skill begins by identifying the viewer, their situation, the promised value, available proof, and intended next step. It then chooses an output mode. A three-headline request stays small; a script receives a production handoff; a campaign receives a practical matrix.
 
+Write with one person and their existing knowledge in mind. Content principles shape the creative silently: make value visible, connect adjacent lines, use supported detail, and address a likely objection where it arises. Templates remain optional scaffolds. An explicit request for spoken copy only takes priority over the default beat table; an audit can explain its reasoning.
+
 | Mode | Core output | Main decisions |
 |---|---|---|
 | Video creation | Hook variants and continuous timed beat table | Promise, first-frame proof, progression, sound/text hierarchy, payoff |
@@ -32,6 +34,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 
 | Reference | Use it for |
 |---|---|
+| [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | One-viewer voice, value versus effort, line handoffs, specific evidence, relevant objections, and meaningful visual beats |
 | [Psychology and brand](../skills/psychological-content-strategy/references/psychology-brand.md) | Mechanisms, customer narrative, buying cues, distinctive assets, contextual brand/activation mix |
 | [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Hook families, headline/cover alignment, copy structures, CTAs, optional Japanese adaptation |
 | [Hook patterns and creative study](../skills/psychological-content-strategy/references/hook-patterns.md) | 24 confession, experiment, contrarian, and lesson starters; truth/proof requirements; deliberate creative analysis |

@@ -57,7 +57,7 @@ if skill_path.exists():
 
 expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
                  'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
-                 'hook-patterns.md', 'educational-scriptwriting.md']
+                 'hook-patterns.md', 'educational-scriptwriting.md', 'content-principles.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
 
