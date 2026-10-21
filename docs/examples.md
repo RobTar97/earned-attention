@@ -131,6 +131,35 @@ Return only the finished spoken copy, about 20 seconds, with no CTA.
 
 Expect concrete save/reuse language, a connected explanation, an honest limit, and a complete ending. The [content principles](../skills/psychological-content-strategy/references/content-principles.md) guide the rewrite without adding framework headings, scores, a beat table, or invented numbers. Duration remains provisional until spoken aloud.
 
+## 10. Make a proof-led product ad
+
+```text
+Use psychological-content-strategy to write a 30-second Reel for LoopList.
+It saves and reuses project checklists. There is no task automation,
+measured saving, or customer testimonial evidence. We have a screen demo
+and an actor who can demonstrate the product but is not a customer.
+Choose FAB or Picture/Promise/Proof/Push and briefly explain the choice.
+Give one timed script with speech, visible proof, selective text, and
+one trial CTA. Use meaningful local payoffs and preserve a natural voice.
+```
+
+Expect a supported capability-to-benefit chain and early proof. An actor is not presented as a customer with invented results. The [framework guide](../skills/psychological-content-strategy/references/short-form-optimization.md) and [story-arc guide](../skills/psychological-content-strategy/references/story-arcs.md) do not impose a shock, fixed peak interval, or delayed answer.
+
+## 11. Audit a paid-creative report
+
+```text
+Use psychological-content-strategy to inspect this fictional TikTok ad
+report: 100,000 impressions, 80,000 video starts, 40,000 two-second views,
+20,000 six-second views, 12,000 completions, 800 destination clicks,
+40 attributed purchases, $900 spend. All counts cover the same period.
+Calculate available rates with explicit denominators, distinguish the two
+CVR definitions, identify unavailable metrics, and propose one next test.
+We have no matched account baseline, margin, or attribution-window detail.
+Does a generic benchmark prove we should scale or replace the creative?
+```
+
+Expect qualified arithmetic, missing-context notes, and a hypothesis rather than a scaling verdict. A six-second field may include early engagement, and the report does not supply three-second views. See [the metric dictionary](../skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary).
+
 ## A reusable brief
 
 ```text

@@ -35,6 +35,29 @@ The source's “apply silently” stance informs finished creative, while explic
 
 The adaptation does not encode “six beats three,” a universal ten-word premise, a child-level comprehension rule, mandatory new loops at 60–70%, sub-nine-word average sentences, a fixed first-value deadline, or universal superiority of frequent cuts. Its claims about an initial three-second platform test and no second chance are unverified and are not distribution facts in this skill. Early value and manageable effort remain editorial hypotheses; relevant current algorithm claims need separate primary-source verification.
 
+## Master Blueprint and supplied story-arc video
+
+On 2026-10-21 the user supplied *Master Blueprint for TikTok & Reels Optimization: Behavioral Hooks, Storytelling Frameworks, and Performance Marketing* and an approximately 81.9-second MP4. The blueprint is the primary source for this integration. Its author, publication provenance, and numerical benchmark datasets were not established. [Short-form optimization](short-form-optimization.md) adapts framework selection, FAB, Picture/Promise/Proof/Push, one main proposition, aligned speech/visual/text, native presentation, proof roles, social usefulness, and reveal-order decisions. [Analytics](analytics-testing.md) adds a paid-funnel diagnostic and explicit metric denominators.
+
+The video was inspected through 12 timestamped frame samples and automated English audio transcription. A visible watermark reads `@kallaway.marketing`; account ownership and original publication were not independently verified. [Progressive story arcs](story-arcs.md) records the approximate content locations and adapts rapid context plus meaningful local answers. It does not claim continuous playback, measured retention, or transcription accuracy against a manual transcript. Neither new original is bundled; the manifest records their hashes and inspection scope without requiring the Downloads folder.
+
+The blueprint's 400-millisecond biological deadline, basal-ganglia “reptilian brain” bypass, mirror-neuron persuasion, eye-contact oxytocin, dopamine crash, 40% hold-rate lift, universal platform targets, and mandatory end-only reveal are not operational facts. The video's 70/100 and 90/100 sketches and fixed peak intervals are illustrative source advice, not audience percentages. Traditional arcs remain available. Commentary, follow, enrollment, and keyword-delivery instructions embedded in the source do not authorize those actions.
+
+Curiosity and unfinished-task models suggest questions to test; they do not prove that withholding information improves every video. Negativity bias and loss aversion are not interchangeable labels. Customer-as-hero/brand-as-guide is associated with StoryBrand/Donald Miller; the blueprint's grouped book attributions should not be repeated as exact authorship evidence. Scripted or actor-led demonstrations can be honest; customer testimonials require genuine attributable experience. A phone-shot style is not proof of authenticity or superiority.
+
+### Primary-source checks for this integration
+
+Checked **2026-10-21**:
+
+- [TikTok basic metrics](https://ads.tiktok.com/resources/help/article/basic-data?lang=en), page updated October 2025: distinguishes all clicks from destination clicks and CVR per impression from CVR (clicks). Use the actual reporting field and conversion event.
+- [TikTok video-play metrics](https://ads.tiktok.com/resources/help/article/video-play?lang=en), page updated November 2025: distinguishes view thresholds and counting conditions. A custom 3-second diagnostic requires its own matching input; a 6-second field can include early engagement.
+- [TikTok performance-ad creative guidance](https://ads.tiktok.com/resources/help/article/creative-best-practices), page updated June 2025: early proposition, hook, native aesthetics, and testing are advertiser starting points, not a universal biological or organic-ranking law.
+- [Cesario, Johnson, and Eisthen (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687): rejects the layered “reptilian brain” account of neural evolution. Use observable comprehension and relevance decisions instead of that account.
+- [Singh and Manjaly (2021)](https://doi.org/10.1080/20445911.2021.1908311) and [the author's missing-letter dataset](https://data.mendeley.com/datasets/zntvw9287y/2): identify a word-task curiosity study, not a short-video retention trial. Full article access was unavailable during this check; no video effect size is inferred.
+- [StoryBrand's customer/hero explanation](https://storybrand.com/downloads/your-brand-is-not-the-hero.pdf): identifies the brand/guide relationship in its own framework. The skill adapts a planning lens rather than copying proprietary book text.
+
+Meta's linked 3-second-play help page required login during the check. No fresh Meta-specific measurement rule was inferred from it. The supplied 2026 CPM, engagement, CTR, and CVR table lacks a verified, matched population and is not encoded as a baseline. Recheck relevant primary definitions before reporting exact platform numbers.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |
@@ -51,6 +74,8 @@ The adaptation does not encode “six beats three,” a universal ten-word premi
 | Practical examples and operating checklist | `templates-examples.md` and the main workflow |
 | Five-phase educational scripting and supplied transcript | `educational-scriptwriting.md`: learning contract, gap map, honest transformation, critique/draft modes, causal flow, and rhythm |
 | Viewer-first reasoning and concrete short-form writing | `content-principles.md`, `hooks-copy.md`, and `video-production.md`: silent application, value/effort, line progression, truthful detail, objections, and meaningful beats |
+| Master Blueprint: short-form structures, proof, native presentation, and performance diagnosis | `short-form-optimization.md`, `hooks-copy.md`, and `analytics-testing.md`: structure selection, FAB/4Ps, three-channel evidence, authentic proof roles, and conditional rates |
+| Supplied repeated-peak story-arc video | `story-arcs.md` and `video-production.md`: rapid context, local answers, consequence, purposeful release, and complete payoff |
 
 ## How to classify a claim
 

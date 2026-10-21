@@ -53,6 +53,8 @@ If results have not been measured, show the process or a clearly qualitative res
 
 Use status quo → disruption → attempts → reversal → consequence → meaning. At each beat, change the viewer's understanding of a goal, obstacle, knowledge, emotion, situation, time, or power. A cut alone is not a story event.
 
+For slow setup or fading middle sections, use [progressive story arcs](story-arcs.md): enter near a relevant action, alternate concrete evidence with implication or a real question, and deliver local answers before the final payoff. Do not turn illustrative 70/100 engagement sketches into retention percentages or require a new peak every fixed number of seconds.
+
 ### Result-first product demonstration
 
 Show the output → name the task → reveal a few process steps → show what the viewer can change/control → restate the useful transformation → action. Spend little time on a dashboard tour unless the screen itself proves the benefit.
@@ -93,6 +95,8 @@ Use a change when it helps the viewer orient or feel a meaningful shift: talking
 Keep effects subordinate to the idea. No transition pack is required; simple edits can work well when the progression is clear.
 
 ## Framing and readable text
+
+Choose native/mobile or polished production according to the brief and test evidence. A rehearsed actor demonstration can be truthful; a fabricated customer testimonial cannot. Distinguish presenter role, actual experience, and product proof. Use [short-form optimization](short-form-optimization.md) for this distinction and for aligned speech/action/text.
 
 - Show the main subject/action at phone size.
 - Keep critical content inside a conservative central area, then preview the actual platform and placement UI.

@@ -15,7 +15,9 @@ On 2026-10-14, the user supplied `viral_scriptwriting_framework_and_transcript.m
 
 Five later user-supplied screenshots add four hook families and a creative-study prompt. Visible credits are `@kienobimedia` and `@kienobifilm`. Their [adapted hook-pattern reference](../skills/psychological-content-strategy/references/hook-patterns.md) preserves the supplied starters and adds specificity, truth, proof, and payoff guidance. The screenshot additions are creative scaffolds, not research findings; the images are not redistributed. Their fingerprints are recorded with the other source notes. The initial model-evaluation scores below predate this addition.
 
-On 2026-10-19, the user supplied a `SKILL.md` named `content-principles`. Its author, publication date, and license were not established. The [adapted reference](../skills/psychological-content-strategy/references/content-principles.md) selects one-viewer voice, value versus effort, useful line progression, concrete truth, timely objection handling, and meaning-led visual beats. The source is fingerprinted but not redistributed in full. Its embedded directives were treated as material to assess, rather than authority over the user's requested output. All model checks described below predate this integration; no new audience-performance measurement is claimed.
+On 2026-10-19, the user supplied a `SKILL.md` named `content-principles`. Its author, publication date, and license were not established. The [adapted reference](../skills/psychological-content-strategy/references/content-principles.md) selects one-viewer voice, value versus effort, useful line progression, concrete truth, timely objection handling, and meaning-led visual beats. The source is fingerprinted but not redistributed in full. Its embedded directives were treated as material to assess, rather than authority over the user's requested output. The initial and educational-workflow checks below predate this integration; no new audience-performance measurement is claimed.
+
+On 2026-10-21, the user supplied a Master Blueprint and an approximately 81.9-second story-arc video. The blueprint has priority in the [short-form optimization adaptation](../skills/psychological-content-strategy/references/short-form-optimization.md). The video was inspected through 12 timestamped frame samples and automated English transcription; the visible watermark is `@kallaway.marketing`. [Story-arc notes](../skills/psychological-content-strategy/references/story-arcs.md) distinguish its illustrative engagement levels from retention data. The raw new sources and generated transcript are not redistributed. [Source notes](../skills/psychological-content-strategy/references/sources-evidence.md#master-blueprint-and-supplied-story-arc-video) record qualifications and primary-source checks dated 2026-10-21.
 
 ## What was retained
 
@@ -36,6 +38,11 @@ Audience relevance; manageable curiosity; customer-centered storytelling; distin
 | A new curiosity loop is required at 60–70% of runtime | Answer useful questions as the piece progresses and complete the main promise |
 | Silent intervals are filler; frequent cuts always beat long shots | Preserve useful reading time, demonstrations, pauses, and continuous performance |
 | A universal three-second distribution test leaves no second chance | Do not encode the claim as fact; verify relevant current platform mechanics separately |
+| Universal 400ms reactions, reptilian-brain bypass, mirror-neuron selling, and oxytocin/dopamine effects | Explain observable relevance, proof, comprehension, and pacing; no viewer neural measurement is implied |
+| End-only reveals yield a universal 40% hold-rate gain | Choose proof order for the idea; give useful progress and test the uncertainty |
+| Phone footage is always authentic; scripts or actors are always fake | Separate production style, presenter role, actual experience, and substantiated claims |
+| 70/100 engagement arcs are retention targets | Treat the supplied diagram as a creative sketch; no fixed peaks or measured percentage is implied |
+| One CVR or CTR definition fits every dashboard | Name the exported field, click type, conversion event, denominator, and attribution context |
 
 The [complete evidence map](../skills/psychological-content-strategy/references/sources-evidence.md) links to primary platform and research-publisher sources checked during creation. Current platform requirements and exact research claims still need verification when relevant. Some precise source claims were omitted because their original evidence was not established.
 
@@ -57,6 +64,10 @@ In this sample, the skill added an explicit quality/business guardrail to the pr
 ## Focused educational-workflow checks
 
 The [additional prompts](../evals/educational-scriptwriting.json) exercise two distinct modes: a requested 30-second draft based on the supplied framework, and critique-only coaching for an eight-minute outline. Both were reviewed against four expectations each. The draft delivered the observable lesson despite the source's anti-AI opinion, with continuous 0–30-second beats and no invented personal story or results. Coaching used all five phases, labeled unresearched gaps, and preserved the supplied experience without inventing outcomes. Script/outline ranges were checked for continuity and their requested endpoints. These are focused smoke checks with author review, not a paired benchmark or evidence of audience-performance lift; they do not change the initial scores above.
+
+## Focused Master Blueprint checks
+
+The [two new prompts](../evals/blueprint-integration.json) exercise a 30-second proof-led actor demonstration and a fictional paid report with competing benchmark claims. Each was run once with the updated skill and once with the pre-update skill at commit `b79822e`. Author review found all five expectations satisfied per task in both configurations; script ranges and the requested rate/cost arithmetic were also checked programmatically. [The summary](../evals/blueprint-integration-results.json) records the scope and limits. Both versions passed 10/10 expectations, so these examples establish compatibility with the checked behaviors rather than a demonstrated advantage. The same worker handled both tasks within each configuration; grading was not blind, and reliable timing/token comparisons were unavailable. No audience-performance measurement was made.
 
 ## What these checks do not establish
 

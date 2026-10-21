@@ -29,6 +29,7 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 | Mode | Main deliverable | Supporting resources |
 |---|---|---|
 | Create video | Hook options, selected hook, timed script, production notes, one test | [Hooks and copy](references/hooks-copy.md), [Video production](references/video-production.md) |
+| Short-form ad or product demo | One value proposition, chosen structure, aligned speech/visual proof/text, objective-linked test | [Short-form optimization](references/short-form-optimization.md), [Analytics](references/analytics-testing.md) |
 | Educational script or outline | Learning contract, audience depth, research gaps, transformation, causal outline or requested script | [Educational scriptwriting](references/educational-scriptwriting.md), [Video production](references/video-production.md) |
 | Rewrite or audit | Ranked problems with evidence, corrected asset, test hypothesis | [Video production](references/video-production.md), [Analytics](references/analytics-testing.md) |
 | Copy only | Requested headlines, catchcopy, caption, email, or sales copy; compact rationale | [Hooks and copy](references/hooks-copy.md) |
@@ -38,6 +39,8 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 Read only the references needed for the task. Use [templates and examples](references/templates-examples.md) for a worked model or reusable output form. Read [sources and evidence](references/sources-evidence.md) before making scientific claims, quoting research, using numerical rules, or giving current platform advice.
 
 For short-form writing and editing, use [viewer-first content principles](references/content-principles.md) to sharpen relevance, perceived value versus effort, line-to-line progression, truthful specificity, and objection handling. These are flexible editorial priors, not mandatory formats or measured performance laws.
+
+For TikTok/Reels optimization and performance creative, read [the Master Blueprint adaptation](references/short-form-optimization.md): choose PAS/BAB/AIDA/FAB/4Ps or a person-led story according to available proof, align speech/action/text, distinguish presentation style from genuine customer evidence, and diagnose the paid funnel. Use [progressive story arcs](references/story-arcs.md) to repair a slow opening or add meaningful local payoffs without delaying all value.
 
 For tutorials and educational stories, apply [Foundation → Target → Structure → Draft → Refine](references/educational-scriptwriting.md) at a scale suited to the task. Use the adapted guide for decisions; open its supplied transcript only when original wording or scene analysis is needed. The source's recommendation against AI drafting does not override a user request to draft or rewrite.
 
@@ -83,6 +86,8 @@ Use **attention → orientation → tension → progress → payoff → action**
 
 Choose a utility, tutorial, demonstration, comparison, case study, or story structure. For narrative, use status quo → disruption → attempts → reversal → consequence → meaning. Let meaningful change drive the beats.
 
+Enter near the relevant action and alternate useful evidence with its consequence or next genuine question. A comparison, diagnostic, or correction can supply a mini payoff. Treat engagement-arc drawings as creative sketches, never retention curves or fixed peak schedules; invent no struggle or surprise to fill them.
+
 For an educational arc, link attempts, obstacles, and insights through contrast and consequence—the but/therefore audit—rather than an unrelated list. Use a hero's-journey lens only when real material supports it; utility content need not contain a crisis or emotional transformation. A brief prediction or diagnostic can invite thinking, but resolve it promptly. Series can share recurring cues or themes while each installment closes its own promise.
 
 Reveal useful evidence early. Resolve small questions along the way instead of hiding all value at the end. One main gap and a few short supporting gaps usually suffice for a short. Do not transplant a long-form 30–60-second introduction into a short.
@@ -101,6 +106,8 @@ For video, provide a beat table unless the user requests a different form, such 
 Ensure time ranges are continuous and fit the requested duration. Separate verbatim captions from selective headline/progress text. Label any proof or asset that must still be supplied. Make directions feasible for the stated equipment and footage.
 
 For copy only, give finished copy in the requested form. Choose a structure suited to the problem—benefit/proof/action, problem/solution, before/after/bridge, or customer/guide/plan—and remove framework scaffolding from the final prose. Preserve product truth and natural audience language.
+
+For product claims, connect feature → functional advantage → relevant benefit, then choose evidence each channel can carry. A presenter or actor may demonstrate a real capability; do not imply personal customer results they have not experienced. Native styling must preserve commercial transparency and legibility.
 
 Match the user's collaboration mode: critique an outline when asked to coach; draft the script when asked to write. Give specific feedback, preserve supplied author voice and useful technical depth, and never invent personal struggle. Refine rhythm with varied sentence lengths and a read-aloud check; put visual/audio cues beside the relevant lines.
 
@@ -124,6 +131,8 @@ For an audit, rank fixes by likely impact: concept/audience fit → hook/body al
 |---|---|---|---|---|
 
 For analytics, distinguish observation, possible explanation, and experiment. A dip suggests hypotheses; it does not prove one cause. A replay spike may indicate value or confusion. Missing denominators prevent defensible rate comparisons.
+
+For paid reports, label the view threshold, click type, conversion event, denominator, and attribution window before comparing rates. Use [the metric dictionary](references/analytics-testing.md#paid-creative-metric-dictionary); diagnose attention, qualified clicks, and post-click conversion separately. Source benchmark tables are contextual inputs to verify, not automatic success/failure gates.
 
 Select one next experiment with a primary measure and a quality/business guardrail. Keep the body stable when testing hooks; change one variable family at a time. Compare similar assets within the account. Organic posting comparisons are directional unless allocation is controlled.
 

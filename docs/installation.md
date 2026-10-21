@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Use Node.js and npm plus Git to install from GitHub. This guide was verified with `skills` **1.7.2** on **2026-10-13**; that npm release declares Node.js **22.20.0 or newer**. Check the [npm package metadata](https://www.npmjs.com/package/skills) for the requirements of a newer release.
+Use Node.js and npm plus Git to install from GitHub. This guide was verified with `skills` **1.7.4** on **2026-10-21**; that npm release declares Node.js **22.20.0 or newer**. Check the [npm package metadata](https://www.npmjs.com/package/skills) for the requirements of a newer release.
 
 The installed skill itself is a set of instructions and references. It does not require Node.js, Python, API keys, or a server to perform its writing workflow. The CLI uses Node.js for installation; maintainers use Python for repository validation.
 
@@ -80,7 +80,7 @@ For unattended installation, add `--yes`. Select the intended agent and scope ex
 ## Reproducing the verified installer
 
 ```bash
-npx skills@1.7.2 add RobTar97/earned-attention --skill psychological-content-strategy --agent codex --copy
+npx skills@1.7.4 add RobTar97/earned-attention --skill psychological-content-strategy --agent codex --copy
 ```
 
 This fixes the **installer** version. It still downloads the repository's current default-branch content. A [GitHub release](https://github.com/RobTar97/earned-attention/releases) records a versioned snapshot of the skill and documentation.

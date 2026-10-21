@@ -76,10 +76,14 @@ Check contrast, phone-size legibility, and UI overlap. Text placement and color 
 | Benefit → proof → action | Specific customer outcome; substantiation; clear next step | Product captions, offers, short ads | Replace empty adjectives with evidence |
 | Problem → consequence → solution | Recognizable issue; realistic cost; usable response | Diagnosis and problem-aware sales copy | Reduce melodrama; show the solution earlier |
 | Before → after → bridge | Current state; believable improvement; how to get there | Demonstrations and transformation copy | Avoid implying unmeasured results |
+| Feature → advantage → benefit | Actual capability; what it enables; why it matters here | Technical products and demonstrations | Separate a functional advantage from an unmeasured time, money, or staffing claim |
+| Picture → promise → proof → push | Recognizable situation; bounded value; evidence; voluntary next step | Offers with credible proof | Reduce the promise when proof is missing; use one clear CTA |
 | Attention → interest → desire → action | Relevant opening; useful explanation; concrete fit; CTA | Longer activation copy | Cut slow context and generic desire language |
 | Customer → obstacle → guide → plan → action → outcome | Customer goal and useful assistance | Brand narrative, landing pages, case studies | Remove brand-centered boasting |
 
 Treat structures as scaffolding. Finished copy should read naturally and need not announce framework names.
+
+Use [short-form optimization](short-form-optimization.md) to choose among PAS, BAB, AIDA, FAB, 4Ps, or a person-led story and assign each claim to speech, visible proof, and selective text. Choose reveal order according to utility or narrative; do not withhold every useful result until the CTA.
 
 Address the most plausible objection beside the claim that creates it. Demonstrate the required skill or resource, explain fit, or state a real limit. Avoid an unrelated FAQ preamble, invented ease-of-use claims, or pretending a sales asset has no commercial intent.
 

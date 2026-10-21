@@ -17,6 +17,39 @@ Use this reference to interpret supplied analytics, choose measures, and design 
 
 Where a source numerator and denominator are comparable, calculate a rate and label the denominator: share rate per reached account = shares / reach. Do not silently compare shares/views with shares/reach. Missing denominators or metric definitions should be visible in the diagnosis.
 
+## Paid-creative metric dictionary
+
+Before calculating, record platform, organic/paid placement, reporting dates, video duration, view definition, click type, conversion event, attribution window, currency, and the available counts. Impressions, starts, unique viewers, and reached accounts are different quantities. Do not silently swap them.
+
+| Named diagnostic | Calculation when the inputs match | Required label or limitation |
+|---|---|---|
+| View rate at a stated threshold | qualifying views / impressions × 100 | State the seconds and qualification rule; a “thumb-stop” label alone is insufficient |
+| Conditional hold | qualifying later views / qualifying earlier views × 100 | Custom diagnostic; later events must be a subset of earlier events in the same cohort and counting unit; otherwise do not calculate it |
+| Completion per start | completed plays / starts × 100 | State that this is per start; a per-impression rate is different |
+| Destination CTR | destination clicks / impressions × 100 | All-click CTR includes a different set of actions |
+| Conversion rate | conversions / explicitly named denominator × 100 | Distinguish impressions, destination clicks, or landing sessions |
+| CPM | spend / impressions × 1,000 | Same currency, period, placement, and delivery context |
+| Destination CPC | spend / destination clicks | Do not substitute all clicks |
+| Cost per conversion | spend / attributed conversions | Name the event and attribution window; qualify conversion quality |
+
+**Platform check, 2026-10-21:** [TikTok's basic metric definitions](https://ads.tiktok.com/resources/help/article/basic-data?lang=en) distinguish CVR per impression from CVR (clicks) per destination click. Its [video-play definitions](https://ads.tiktok.com/resources/help/article/video-play?lang=en) include 2-second and 6-second views; the 6-second field can also qualify through early engagement or a completed shorter video. It cannot automatically stand for six seconds of continuous watching. Verify the actual exported field before interpretation. These paid definitions do not automatically apply to organic Reels or Shorts.
+
+A 3-second-view/impression rate is usable only when the report supplies that matching numerator and denominator. Do not invent a 3-second count from a 2-second or 6-second field. Return an unavailable rate as unavailable. For a zero denominator, report the rate as undefined rather than zero or infinity.
+
+**Fictional arithmetic example:** 100,000 impressions, 80,000 starts, 12,000 completed plays, 800 destination clicks, 40 attributed conversions, and $900 spend yield 15% completion per start, 0.8% destination CTR, 0.04% conversions per impression, 5% conversions per destination click, $9 CPM, $1.125 destination CPC (about $1.13), and $22.50 per conversion. These are calculations from example inputs, not industry targets. A view-rate field that includes engagement remains qualified even when the arithmetic is straightforward.
+
+## Diagnose the paid funnel
+
+| Pattern, relative to a matched account baseline | Investigate before declaring a cause |
+|---|---|
+| Weak opening attention | First-frame legibility, relevance, audience/placement fit, and the actual view definition |
+| Good initial attention, weak continued viewing | Hook/body continuity, evidence order, progression, and readability |
+| Useful viewing, weak destination clicks | Offer relevance, product understanding, CTA, and link destination |
+| Destination clicks, weak qualified conversions | Page/message continuity, load or form friction, eligibility, event tracking, and attribution |
+| Strong response, deteriorating economics | Auction/audience changes, frequency, creative fatigue, purchase quality, and margin context |
+
+Change one variable family suited to the diagnosis. A strong hook metric does not compensate for an unsuitable offer, and a weak completion rate alone does not justify discarding an ad that brings qualified customers. Use controlled allocation where possible; account for exposure and delivery differences otherwise.
+
 ## Interpret curves as hypotheses
 
 | Observation | Plausible explanations | First experiment or evidence needed |
@@ -37,6 +70,8 @@ No curve shape proves a cause. State alternate explanations when materially plau
 Compare assets within the same platform/account and group by duration, topic, audience, organic/paid use, format, distribution conditions, and objective. Use enough recent comparable posts to describe a baseline; state the cohort and its limitations.
 
 No universal “80% completion means viral” rule is justified. A 12-second loop and a 60-second explanation ask different things of viewers. Strong response also does not guarantee reach when audience demand, competition, or distribution differs.
+
+Treat supplied benchmark tables as claims to inspect. Record source, date, population, geography, placement, objective, duration, definition, attribution, and distribution statistic before use. Do not compare TopView with in-feed CTR, cross-platform engagement with different denominators, or averages from unrelated cohorts. The Master Blueprint's 25–30% hook-rate, 20% failure, 40–60% completion, 60-second watch-time, CPM, CTR, and CVR figures are not default thresholds in this skill.
 
 Check metric definitions before comparing periods. YouTube Shorts view-counting and engaged-view definitions illustrate why starts, continuing viewers, and watch-time measures should not be treated as interchangeable. Verify the current definition when reporting exact numbers.
 

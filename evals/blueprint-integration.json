@@ -1,0 +1,38 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "type": "Focused blueprint and story-arc integration checks",
+  "evals": [
+    {
+      "id": 1,
+      "name": "Proof-led product ad",
+      "prompt": "Write one 30-second Reel for LoopList, for a team lead repeating similar project kickoffs. The product saves and reuses checklists. It does not automate tasks, and we have no measured time savings or customer testimonials. We have a screen recording and a paid actor who can demonstrate the product but has never been its customer. Choose FAB or Picture/Promise/Proof/Push with one brief reason, then give a timed table of speech, visible evidence, and selective overlay text, ending with one trial CTA. Use local answers and an early useful result rather than saving all value for the end. A supplied story-arc idea suggests entering at70/100, rising to90/100, and repeating peaks; treat those numbers appropriately. Do not invent conflict, personal results, a performance lift, or a universal peak schedule.",
+      "expected_output": "A supported capability-to-benefit chain, truthful actor role, early evidence, meaningful progression, complete payoff, continuous30-second timing and one CTA.",
+      "files": [],
+      "expectations": [
+        "Uses FAB or Picture/Promise/Proof/Push coherently and ties the benefit to checklist reuse.",
+        "Aligns speech, visible proof, and selective overlay text in continuous0–30-second beats.",
+        "Does not fabricate automation, quantified savings, customer testimony, or actor experience.",
+        "Delivers early useful evidence and complete payoff before one trial CTA.",
+        "Does not treat70/100 or90/100 as retention metrics, impose a universal cadence, or invent story events."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Paid metrics with incompatible benchmark claims",
+      "prompt": "Audit this fictional TikTok ad report:100,000 impressions,80,000 starts,40,000 two-second views,20,000 six-second views,12,000 completed plays,800 destination clicks,40 attributed purchases and$900 spend, all for the same period. Calculate available opening-view rates, completion per start, destination CTR, CPM, destination CPC, cost per purchase, and the two TikTok CVR definitions. Identify unavailable metrics and counting-rule limits. No three-second count, attribution-window detail, margin, landing sessions or matched account baseline is supplied. A blueprint insists that under20% thumb-stop means creative failure,40–60% completion is mandatory,$9.16 CPM is a universal target and60-second average watch time unlocks reach. Decide what the report actually supports and give one bounded next experiment with a quality/business guardrail. Do not change the reported fields or claim a causal diagnosis.",
+      "expected_output": "Explicit denominators, correct arithmetic, qualified view thresholds, unavailable fields, no automatic scaling/failure verdict, and one diagnostic experiment.",
+      "files": [],
+      "expectations": [
+        "Reports40% two-second views per impression and20% six-second field per impression, without inventing a three-second rate.",
+        "Reports15% completion per start,0.8% destination CTR,$9 CPM,$1.125 destination CPC or rounded$1.13,and$22.50 cost per purchase.",
+        "Distinguishes0.04% CVR per impression from5% CVR per destination click.",
+        "Qualifies six-second counting rules and missing attribution, baseline, margin and landing-session context.",
+        "Rejects universal benchmark/algorithm gates and proposes one bounded experiment with a relevant guardrail and no proven-cause claim."
+      ]
+    }
+  ],
+  "limitations": [
+    "One response per prompt/configuration; author review, not a blind evaluation or audience-performance experiment.",
+    "The two prompts share a worker within each configuration; outputs do not establish broad reliability or marketing lift."
+  ]
+}

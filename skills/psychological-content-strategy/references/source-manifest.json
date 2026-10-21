@@ -34,6 +34,53 @@
       "authorship_verified": false,
       "performance_claims_verified": false,
       "adapted_reference": "content-principles.md"
+    },
+    {
+      "filename": "Master Blueprint for TikTok & Reels Optimization_ Behavioral Hooks, Storytelling Frameworks, and Performance Marketing.md",
+      "added_date": "2026-10-21",
+      "bytes": 28487,
+      "sha256": "f732fdd687ab6ac3bf14b9105644dea8c25693c80aa753d9b4347d8ca67dd3de",
+      "original_bundled": false,
+      "type": "supplied-master-blueprint",
+      "priority_for_this_integration": "primary",
+      "adapted_reference": "short-form-optimization.md",
+      "authorship_verified": false,
+      "benchmark_datasets_verified": false
+    },
+    {
+      "filename": "WhatsApp Video 2026-10-21 at 4.22.56 PM.mp4",
+      "added_date": "2026-10-21",
+      "bytes": 8315241,
+      "sha256": "b1618282bc28fda537f21f64f75e0a582a215e9b7aa59dd63d9cced335891c02",
+      "original_bundled": false,
+      "type": "supplied-story-arc-video",
+      "priority_for_this_integration": "supporting",
+      "adapted_reference": "story-arcs.md",
+      "duration_seconds": 81.905011,
+      "width": 576,
+      "height": 1024,
+      "visible_credit": "@kallaway.marketing",
+      "creator_account_verified": false,
+      "performance_comparison_supplied": false,
+      "inspection": {
+        "frame_samples_seconds": [
+          0,
+          1,
+          2,
+          4,
+          8,
+          16,
+          24,
+          32,
+          40,
+          48,
+          64,
+          78
+        ],
+        "audio_transcription": "automated-English-whisper-1",
+        "continuous_playback": false,
+        "transcript_manually_verified": false
+      }
     }
   ],
   "supplemental_sources": [

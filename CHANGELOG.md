@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- Prioritize the supplied Master Blueprint in a new short-form optimization reference: framework/format selection, FAB, Picture/Promise/Proof/Push, aligned speech/action/text, honest presenter roles, reveal order, and social usefulness.
+- Add a progressive-story-arc video study based on timestamped frame samples and automated transcription, with meaningful mini payoffs and no invented retention or neurochemical claims.
+- Add paid-funnel diagnosis, explicit metric formulas, TikTok CVR distinctions, qualified view thresholds, and a fictional arithmetic example; reject unmatched universal benchmark gates.
+- Update provenance and primary-source checks for the 2026-10-21 inputs without redistributing the new originals.
+
 - Selectively integrate the supplied `content-principles` skill: one-viewer voice, value versus effort, useful line-to-line progression, truthful specificity, and objection handling at the relevant moment.
 - Add a focused reference and worked example; apply the principles silently while preserving requested copy, critique, and production formats.
 - Qualify claims about list size, word counts, curiosity-loop timing, silent intervals, cut frequency, and platform distribution rather than treating them as universal rules.

@@ -58,6 +58,8 @@ The [five-phase educational-scriptwriting guide](skills/psychological-content-st
 
 The [viewer-first content principles](skills/psychological-content-strategy/references/content-principles.md) help the agent write to one recognizable person, show useful value early, connect each line, use concrete evidence, and answer likely objections. They guide the writing silently; your requested output determines whether you get finished copy, a production plan, or an explained critique.
 
+The [Master Blueprint adaptation](skills/psychological-content-strategy/references/short-form-optimization.md) connects PAS, BAB, AIDA, FAB, and Picture/Promise/Proof/Push to visible evidence, honest presenter roles, useful sharing, and paid-funnel diagnosis. [Progressive story arcs](skills/psychological-content-strategy/references/story-arcs.md) add rapid context and meaningful mini payoffs from the supplied video. The [metric dictionary](skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary) names each denominator instead of treating source benchmark tables as universal targets.
+
 ## How it works
 
 ```mermaid
@@ -109,7 +111,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Nine focused guides + source fingerprints
+  references/                    # Eleven focused guides + source fingerprints
     source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
 evals/                           # Three sample tasks and evaluation summary
