@@ -160,6 +160,37 @@ Does a generic benchmark prove we should scale or replace the creative?
 
 Expect qualified arithmetic, missing-context notes, and a hypothesis rather than a scaling verdict. A six-second field may include early engagement, and the report does not supply three-second views. See [the metric dictionary](../skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary).
 
+## 12. Build angles from bounded customer evidence
+
+```text
+Use psychological-content-strategy to analyze these fictional notes.
+R1, one review: "Setup took longer than expected."
+S1, a sales question: "Will it overwrite the original file?"
+D1, verified product behavior: maps CSV headers and exports a separate file.
+Preserving originals and saved presets have not been verified.
+These notes are permitted for internal analysis; testimonial reuse is unconfirmed.
+Give a compact research brief and three different creative angles, with
+source/claim/proof links, ready versus conditional status, and unknowns.
+Do not invent market prevalence, savings, customer results or contact.
+```
+
+Expect separation of statements, capabilities, interpretations, and hypotheses. The [evidence-to-angle guide](../skills/psychological-content-strategy/references/evidence-to-angles.md) treats a different buying reason or proof path as an angle; synonym headlines do not supply concept diversity.
+
+## 13. Diagnose lead quality and preserve a useful lesson
+
+```text
+Use psychological-content-strategy to review these fictional campaigns.
+Control: spend 1000; 100 inquiries; 5 qualified; 2 sales.
+Variant: spend 1000; 60 inquiries; 12 qualified; 3 sales. Same currency.
+Allocation was not randomized; the offer changed; the variant is only 3
+days old against a 14-day sales cycle. Attribution and budget are absent.
+Explain descriptive costs/rates, the unresolved causes and qualification
+checks, and one bounded next investigation. Draft a reusable learning
+record without claiming profit, causal lift, or a universal winning hook.
+```
+
+Expect a stage-specific diagnosis, preserved maturity/confounding limits, and a qualified-demand guardrail. The [commercial-learning guide](../skills/psychological-content-strategy/references/commercial-learning.md) keeps previous account lessons contextual and treats contribution ceilings as explicit assumptions, not inferred business results.
+
 ## A reusable brief
 
 ```text

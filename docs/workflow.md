@@ -8,6 +8,7 @@ Write with one person and their existing knowledge in mind. Content principles s
 
 | Mode | Core output | Main decisions |
 |---|---|---|
+| Customer research/angles | Bounded findings, claim register, source-linked angles | Observations versus hypotheses, claim scope, different buying reasons, feasible proof |
 | Video creation | Hook variants and continuous timed beat table | Promise, first-frame proof, progression, sound/text hierarchy, payoff |
 | Short-form ad/product demo | Proof-aligned script and objective-linked test | Structure selection, feature/advantage/benefit, reveal order, presenter role, paid-funnel uncertainty |
 | Educational planning/writing | Learning contract, gap map, causal outline or requested script | Foundation, Target, Structure, Draft, Refine; audience depth and observable transformation |
@@ -15,6 +16,7 @@ Write with one person and their existing knowledge in mind. Content principles s
 | Copy | Finished variants | Audience awareness, benefit, credible proof, natural voice |
 | Campaign | Feasible asset matrix | Buying situations, brand cues, useful messages, recognition/acquisition roles |
 | Analytics | Observations, explanations, experiments | Definitions, denominators, comparable cohorts, causal limits |
+| Commercial learning | Stage diagnosis, supported economics, contextual learning record | Qualified demand, destination continuity, attribution versus incrementality, transferable limits |
 
 ## What “psychology-informed” means
 
@@ -35,6 +37,8 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 
 | Reference | Use it for |
 |---|---|
+| [Evidence to angles](../skills/psychological-content-strategy/references/evidence-to-angles.md) | Bounded customer-source analysis, claim register, distinct angles, proof/production feasibility, and project-storage boundaries |
+| [Commercial learning](../skills/psychological-content-strategy/references/commercial-learning.md) | Qualified-lead diagnosis, contribution assumptions, attribution/causality distinctions, bounded lessons, and context-aware retrieval |
 | [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | One-viewer voice, value versus effort, line handoffs, specific evidence, relevant objections, and meaningful visual beats |
 | [Short-form optimization](../skills/psychological-content-strategy/references/short-form-optimization.md) | Master Blueprint adaptation: PAS/BAB/AIDA/FAB/4Ps, format/proof selection, three-channel evidence, honest native presentation, and social usefulness |
 | [Progressive story arcs](../skills/psychological-content-strategy/references/story-arcs.md) | Supplied video study: rapid context, meaningful local answers, consequence, deliberate release, and complete payoff |
@@ -50,6 +54,8 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 The [supplied scriptwriting framework/transcript](../skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is available for original wording and scene analysis. Normal tasks use the adapted guide rather than loading the full transcript. Source opinions and satire do not override the user's requested collaboration mode.
 
 ## Why the name has two forms
+
+Keep one installed skill while these additions operate as focused references. A standalone research, scriptwriting, or testing skill becomes useful when real tasks demonstrate a separate invocation need and a clear handoff. Any future package must include its required references, preserve a complete fallback path, and pass an isolated installation; optional adjacent skills must not become hidden requirements. No shared authoring/build layer is needed until more than one published package actually requires it.
 
 **Earned Attention** is the public project name: attention follows from relevance, evidence, progress, and payoff.
 

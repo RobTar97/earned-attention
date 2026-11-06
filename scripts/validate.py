@@ -30,6 +30,7 @@ def read_json(path):
 required = ['README.md', 'LICENSE', 'CONTRIBUTING.md', 'CHANGELOG.md',
             'docs/installation.md', 'docs/examples.md', 'docs/workflow.md',
             'docs/evidence.md', 'evals/evals.json', 'evals/summary.json', 'evals/blueprint-integration.json',
+            'evals/research-upgrade.json',
             'skills.sh.json', 'skills/psychological-content-strategy/SKILL.md',
             'skills/psychological-content-strategy/LICENSE']
 for rel in required:
@@ -58,7 +59,8 @@ if skill_path.exists():
 expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
                  'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
                  'hook-patterns.md', 'educational-scriptwriting.md', 'content-principles.md',
-                 'short-form-optimization.md', 'story-arcs.md']
+                 'short-form-optimization.md', 'story-arcs.md', 'evidence-to-angles.md',
+                 'commercial-learning.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
 
@@ -107,22 +109,31 @@ if isinstance(summary, dict):
     check(len(summary.get('tasks', [])) == 3, 'Result summary needs three tasks')
     check(bool(summary.get('limitations')), 'Evaluation limitations must remain explicit')
 
-blueprint_evals = read_json(ROOT / 'evals/blueprint-integration.json')
-if isinstance(blueprint_evals, dict):
-    check(blueprint_evals.get('skill_name') == SKILL_NAME, 'Blueprint checks must name the published skill')
-    for entry in blueprint_evals.get('evals', []):
-        check(bool(entry.get('prompt')) and bool(entry.get('expected_output')),
-              'Blueprint checks need a prompt and expected behavior')
-        check(bool(entry.get('expectations')), 'Blueprint checks need review expectations')
-    check(bool(blueprint_evals.get('limitations')), 'Blueprint check limitations must remain explicit')
+for relative in ['evals/blueprint-integration.json', 'evals/research-upgrade.json']:
+    supplemental = read_json(ROOT / relative)
+    if isinstance(supplemental, dict):
+        check(supplemental.get('skill_name') == SKILL_NAME, f'{relative} must name the published skill')
+        entries = supplemental.get('evals', [])
+        check(bool(entries), f'{relative} needs review cases')
+        check(len({entry.get('id') for entry in entries}) == len(entries), f'{relative} case IDs must be unique')
+        for entry in entries:
+            check(bool(entry.get('prompt')) and bool(entry.get('expected_output')),
+                  f'{relative} needs prompts and expected behavior')
+            check(bool(entry.get('expectations')), f'{relative} needs review expectations')
+        check(bool(supplemental.get('limitations')), f'{relative} limitations must remain explicit')
 
 manifest = read_json(SKILL / 'references/source-manifest.json')
 if isinstance(manifest, dict):
     check(manifest.get('originals_required_at_runtime') is False, 'Runtime must not depend on the original supplied files')
     for source in manifest.get('sources', []):
         check(bool(re.fullmatch(r'[0-9a-f]{64}', source.get('sha256', ''))), 'Source fingerprints must be SHA-256 hashes')
+        adapted_names = source.get('adapted_references', [])
+        check(isinstance(adapted_names, list), 'Adapted references must be a list')
+        adapted_names = list(adapted_names) if isinstance(adapted_names, list) else []
         if source.get('adapted_reference'):
-            adapted = (SKILL / 'references' / source['adapted_reference']).resolve()
+            adapted_names.append(source['adapted_reference'])
+        for name in adapted_names:
+            adapted = (SKILL / 'references' / name).resolve()
             check(adapted.is_relative_to((SKILL / 'references').resolve()) and adapted.is_file(),
                   'Adapted source reference must exist inside the skill references')
         if source.get('bundled_path'):

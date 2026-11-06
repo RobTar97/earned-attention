@@ -47,11 +47,13 @@ For a concrete-viewer lens, value versus effort, the topic-swap diagnostic, and 
 
 Generate different angles, not tiny synonym changes. Keep candidate promises compatible with the supplied evidence and final body.
 
+When angles must come from reviews, sales notes, or other customer material, use [evidence to angles](evidence-to-angles.md) to trace each promise and proof path. Reuse supplied findings where adequate. Do not turn a headline request into a full research task.
+
 For confession, experiment, contrarian, and lesson angles, read [hook patterns and creative study](hook-patterns.md). It expands these families into 24 starters with specific proof and payoff requirements. Generic starters need a concrete subject; planned experiments must not sound completed, and personal experiences must belong to the actual speaker.
 
 ## Hook quality rubric
 
-Score 0–2 each: specificity; relevance; credibility; answerable curiosity; hook-to-body continuity. Explain weak dimensions when auditing. Below 7/10 is a useful internal rewriting prompt, not a validated predictor of views.
+Review specificity, relevance, credibility, answerable curiosity, and hook-to-body continuity. Explain the concrete weak dimension when auditing. If the user requests scores, a 0–2 scale for each can organize editorial judgment; it is not a validated predictor of views or conversion and supplies no universal pass threshold.
 
 Some useful content relies on clear utility rather than suspense. It can score well through an immediate answer, demonstration, or precise question; do not add mystery merely to satisfy a formula.
 

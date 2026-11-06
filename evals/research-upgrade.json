@@ -1,0 +1,61 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "type": "Focused evidence/feasibility/learning integration checks",
+  "evals": [
+    {
+      "id": 1,
+      "name": "Evidence and distinct angles",
+      "prompt": "Fictional brief: a CSV tool maps column headers and exports a separate output file. Saving mapping presets and preserving original files have NOT been verified. R1 is one review: \"Setup took longer than I expected.\" S1 is a sales question: \"Will this overwrite my original supplier file?\" D1 is a verified capability note: \"Maps 商品名 to product_name and exports a separate file.\" C1 is a competitor post with two million views and no sales or cost data. These notes are allowed for internal analysis; permission for testimonial use is not established. Build a compact source-linked research brief and propose three genuinely different creative angles, separating ready-to-use claims from conditional ones. Explain which angle to try first, evidence needed and material unknowns. Do not write scripts or contact anyone.",
+      "expected_output": "Separates observations and hypotheses, maps scoped claims to evidence, produces distinct reasons to care with conditional unsupported promises, and respects analysis-only use.",
+      "expectations": [
+        "Preserves R1/S1/D1/C1 provenance and distinguishes statements/questions, capabilities and researcher hypotheses.",
+        "Does not infer market-wide importance from one review, or competitor profitability from views.",
+        "Does not approve original preservation, saved presets, quantified savings or customer testimonials as established product evidence.",
+        "Offers three meaningfully different reasons/decisions/proof paths and marks unsupported ones conditional rather than disguising synonyms as concepts.",
+        "Gives a bounded recommendation and research/proof unknowns without publishing customer quotes, writing full scripts or claiming contact/research not performed."
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "Natural voice and constrained proof",
+      "prompt": "Write one 25-second product-demo script for the fictional CSV tool that maps headers and exports a separate output file. Available assets are two permission-cleared still screenshots described in this brief: G1 shows supplier field 商品名 beside expected field product_name; G2 shows an output file with product_name. There is no running app access, motion footage, customer interview or option to capture more footage. Narrator sample: \"I check one field first. Here is the mismatch. Then I look at the output.\" Preserve that calm, concrete voice. Give a timed table with speech, available visual/action, and selective text; make any fallback explicit. End with one invitation to inspect the actual sample export. Do not invent UI controls, customer outcomes, measured timing, or a filmed operation.",
+      "expected_output": "A feasible 0–25-second still-image demonstration with sample-grounded voice, honest proof status/fallback, estimated timing, and matching sample CTA.",
+      "expectations": [
+        "Uses continuous 0–25-second ranges with feasible speech and time for reading the two stills.",
+        "Grounds voice in the supplied calm/concrete sample and uses only available stills, highlights/crops or neutral cards, not unavailable new capture.",
+        "Does not imply a live/filmed operation, inspected images beyond the supplied descriptions, invented controls or customer/economic results.",
+        "Makes the still-based fallback and estimated/unverified timing clear, completes the limited lesson, and uses one sample-export CTA consistent with the destination."
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "Qualified demand and contextual learning",
+      "prompt": "Fictional account: a Japanese-language B2B service. Control spent1000 and generated100 inquiries,5 qualified inquiries and2 sales. Variant spent1000 and generated60 inquiries,12 qualified inquiries and3 sales. Currency is the same. Allocation was not randomized, the offer changed concurrently, and the variant cohort is only3 days old against a14-day sales cycle. No budget or attribution settings are supplied. A prior learning record L1 says \"pain hooks always win\" from an English-language US app free-trial campaign; L2 is a contradictory, inconclusive result in this service account. Diagnose what can be concluded, calculate relevant inquiry/qualified-inquiry/sale costs and qualification rates, and propose one bounded next investigation with a quality guardrail. Preserve a compact reusable learning record including L1/L2 relevance and limits. Separately, illustrative planning inputs per sale are retained receipts120, variable costs50, non-media acquisition cost15 and required remaining contribution20. Calculate the media ceiling, and an alternative lead-level ceiling using stipulated p=0.20 and non-media cost3 per qualified lead. Do not infer this p from the immature campaigns or declare a profitable winner.",
+      "expected_output": "Correct descriptive rates/costs and planning ceilings with allocation/maturity limits; context-specific learning with contradictions; no budget, causal or profit invention.",
+      "expectations": [
+        "Reports qualification5% versus20%; inquiry costs10 versus about16.67; qualified-inquiry costs200 versus about83.33; sale costs500 versus about333.33, with units labeled.",
+        "Reports contribution70, sale-level media ceiling35 and alternative qualified-lead media ceiling7; avoids double-counting the same non-media costs and separates stipulated p from observed campaign rates.",
+        "Identifies offer confounding, nonrandom allocation, immature cohort and missing attribution/economics context; does not declare causality or a profitable winner.",
+        "Treats L1 as context-mismatched rather than a universal rule, preserves L2/contradictions and records a bounded or inconclusive lesson with account conditions.",
+        "Proposes one investigation/test with a relevant qualified-demand guardrail and review conditions, without inventing an approved spend cap or claiming that a creative comparison establishes advertising incrementality."
+      ],
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "Copy-only scope regression",
+      "prompt": "Translate \"Check the sample export\" into calm, natural Japanese for a button or short CTA. Return only one finished Japanese phrase. No explanation, framework, research brief, table, or alternatives.",
+      "expected_output": "One suitable Japanese phrase and no planning scaffolding.",
+      "expectations": [
+        "Returns only one Japanese CTA phrase, without frameworks, explanation, research, tables or extra variants."
+      ],
+      "files": []
+    }
+  ],
+  "limitations": [
+    "One sample per case/configuration; author review is not blind.",
+    "The same worker handles the four cases within each configuration; these checks do not measure audience or commercial lift."
+  ]
+}

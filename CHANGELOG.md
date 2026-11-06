@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- Integrate the relevant 2026-11-06 research proposal as evidence-to-angle and commercial-learning references, preserving one installed skill and the stable identifier.
+- Add source/claim/angle traceability, qualitative concept selection, creator voice cards, essential-shot status/fallbacks, destination continuity, contribution assumptions, and contextual lesson retrieval.
+- Keep real customer and account records outside the public/global package; record source inspection limits and exclude the unrelated generic research-tooling report.
+- Add four paired workflow checks and a self-contained installation check; document equal checked behavior in both skill versions without claiming commercial lift.
+
 - Prioritize the supplied Master Blueprint in a new short-form optimization reference: framework/format selection, FAB, Picture/Promise/Proof/Push, aligned speech/action/text, honest presenter roles, reveal order, and social usefulness.
 - Add a progressive-story-arc video study based on timestamped frame samples and automated transcription, with meaningful mini payoffs and no invented retention or neurochemical claims.
 - Add paid-funnel diagnosis, explicit metric formulas, TikTok CVR distinctions, qualified view thresholds, and a fictional arithmetic example; reject unmatched universal benchmark gates.

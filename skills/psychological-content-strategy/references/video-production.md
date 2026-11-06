@@ -67,6 +67,18 @@ Estimate speech in the relevant language, then account for pauses, demonstration
 
 Record the payoff or result shot first when practical, so the promised proof actually exists. Capture alternative hook performances, close-ups, screen inserts, and short handles around actions. Use room tone to help smooth dialogue edits.
 
+## Voice and essential-shot feasibility
+
+Use existing creator/brand samples to build a small voice card when needed: sample basis; rhythm; technical depth; characteristic transitions; uncertainty language; humor/emotional range; and constructions the speaker avoids. Keep personal experience separate from explanations of external facts. Without samples, identify the treatment as proposed; do not invent a verified creator voice or force catchphrases into every line.
+
+For each essential shot, identify the visual/action, asset status (`available`, `capturable`, or `missing`), supported claim, practical constraint, and fallback. Use actual footage when provided; otherwise state the capture plan. Narrow the claim, simplify the shot, or remove the beat when proof cannot be obtained. A generated reconstruction must not be presented as a recording of real product behavior or customer results. Use these fields in the existing beat notes or a short capture list rather than forcing an extra table into every task.
+
+A timing allocation or silent read is not a measured performance. Check the intended presenter's spoken read and required screen actions when available; record the basis of any measured duration. Without that evidence, keep timestamps provisional. Reduce redundancy before accelerating delivery and preserve time to understand the proof.
+
+For English/Japanese or other localization, preserve claim limits and useful audience depth, adapt terminology/register/examples and the destination language, then time each performance independently. Do not infer preferences from national stereotypes. Use a relevant human language review when available; disclose when naturalness has not been validated.
+
+Check that the CTA, destination, form, and follow-up describe the same offer and conditions. Inspect only accessible supplied destinations; identify checks that remain undone. An available screen demo, a proposed capture, and a missing proof asset are different evidence states.
+
 ## Edit on information change
 
 Cut for a new idea, object, action, example, perspective, emotion, or removal of redundant material. Let the viewer finish understanding a novel point before advancing.

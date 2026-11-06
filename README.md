@@ -43,11 +43,13 @@ Provide the audience, desired outcome, available proof, and production limits. T
 
 | Request | Deliverable |
 |---|---|
+| Find angles from customer material | Source-linked findings, scoped claim register, distinct angles, proof requirements, and remaining unknowns |
 | Create a short | Distinct hook angles, a selected opening, timed beat table, capture/edit notes, and one test |
 | Plan or write an educational video | Learning contract, research gaps, audience depth, Point A → Point B arc, causal outline or requested script |
 | Improve a draft | Prioritized problems tied to the supplied evidence, followed by a complete rewrite |
 | Write copy | Headlines, catchcopy, captions, or sales copy matched to audience awareness and voice |
 | Diagnose retention | Observations, plausible explanations, evidence gaps, and a controlled-variable experiment |
+| Diagnose lead quality or reuse account lessons | Stage-specific hypotheses, supported contribution limits, contextual learning records, and a bounded next step |
 | Plan a series | Audience moments, useful messages, proof, brand cues, CTAs, and separate recognition/acquisition measures |
 
 English is supported by default; Japanese catchcopy and localization guidance are available when requested. Examples include product demonstrations, educational Shorts, project-checklist copy, and brand/trial content plans.
@@ -61,6 +63,8 @@ The [viewer-first content principles](skills/psychological-content-strategy/refe
 The [Master Blueprint adaptation](skills/psychological-content-strategy/references/short-form-optimization.md) connects PAS, BAB, AIDA, FAB, and Picture/Promise/Proof/Push to visible evidence, honest presenter roles, useful sharing, and paid-funnel diagnosis. [Progressive story arcs](skills/psychological-content-strategy/references/story-arcs.md) add rapid context and meaningful mini payoffs from the supplied video. The [metric dictionary](skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary) names each denominator instead of treating source benchmark tables as universal targets.
 
 ## How it works
+
+The [evidence-to-angle workflow](skills/psychological-content-strategy/references/evidence-to-angles.md) connects customer observations to supportable claims and genuinely different creative concepts. The [commercial-learning guide](skills/psychological-content-strategy/references/commercial-learning.md) keeps qualified outcomes, contribution assumptions, attribution, and reusable lessons separate. Voice cards and essential-shot availability/fallback checks extend the existing production guide. Real customer/account records stay in project storage; the installed skill contains empty templates and fictional examples.
 
 ```mermaid
 flowchart LR
@@ -111,7 +115,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Eleven focused guides + source fingerprints
+  references/                    # Thirteen focused guides + source fingerprints
     source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
 evals/                           # Three sample tasks and evaluation summary

@@ -1,0 +1,61 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "checked_date": "2026-11-06",
+  "baseline_commit": "77c4a58",
+  "runs_per_case_configuration": 1,
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Evidence and distinct angles",
+      "with_skill": {
+        "passed": 5,
+        "total": 5
+      },
+      "old_skill": {
+        "passed": 5,
+        "total": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "Natural voice and constrained proof",
+      "with_skill": {
+        "passed": 4,
+        "total": 4
+      },
+      "old_skill": {
+        "passed": 4,
+        "total": 4
+      }
+    },
+    {
+      "id": 3,
+      "name": "Qualified demand and contextual learning",
+      "with_skill": {
+        "passed": 5,
+        "total": 5
+      },
+      "old_skill": {
+        "passed": 5,
+        "total": 5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Copy-only scope regression",
+      "with_skill": {
+        "passed": 1,
+        "total": 1
+      },
+      "old_skill": {
+        "passed": 1,
+        "total": 1
+      }
+    }
+  ],
+  "limitations": [
+    "Four cases per version, one sample per case; same worker across cases within a configuration.",
+    "Author review is not blind. Timing and token comparisons are unavailable.",
+    "Both versions satisfy15/15 checked expectations; this does not establish writing-quality superiority, marketing lift, or native-speaker Japanese validation."
+  ]
+}

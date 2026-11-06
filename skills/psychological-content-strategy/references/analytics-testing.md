@@ -40,6 +40,8 @@ A 3-second-view/impression rate is usable only when the report supplies that mat
 
 ## Diagnose the paid funnel
 
+For qualified-lead definitions, contribution ceilings, attribution versus incrementality, and reusable account lessons, read [commercial learning](commercial-learning.md). Keep this guide as the shared metric dictionary. Do not infer profit from views, raw form volume, attributed ROAS, or an ad's continued availability alone.
+
 | Pattern, relative to a matched account baseline | Investigate before declaring a cause |
 |---|---|
 | Weak opening attention | First-frame legibility, relevance, audience/placement fit, and the actual view definition |
@@ -91,6 +93,8 @@ For a hook test:
 8. Retain the principle, then test a different variable family.
 
 Do not claim an organic sequential comparison proves causation. Reposting can change exposure and create fatigue. If the aim is exploration, say so; if the aim is causal attribution, use stronger control and sufficient sample planning.
+
+A controlled creative-versus-creative test addresses that comparison; advertising-versus-no-advertising incrementality requires a design that answers that different question. When saving lessons, preserve the tested context, contradictory evidence, and inconclusive outcomes rather than converting a single observation into a universal scripting rule.
 
 ## Experiment record
 

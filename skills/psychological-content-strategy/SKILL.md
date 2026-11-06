@@ -4,7 +4,7 @@ license: MIT
 metadata:
   author: RobTar97
   version: "1.0.0"
-description: "Create and improve persuasive, high-retention content by combining audience psychology, honest curiosity, customer-centered copywriting, brand memory, video storytelling, production decisions, and measurement. Use for TikTok, Instagram Reels, YouTube Shorts, educational YouTube scripts and outlines, short-form ads, hooks, catchcopy, headlines, captions, CTAs, timed scripts, storyboards, retention audits, and brand-versus-sales content plans. Also use for research-gap planning, transformation arcs, outline critique, causal transitions, or when a user asks to stop the scroll, improve watch time, fix weak payoffs, make marketing copy more compelling, or adapt an idea across platforms. Deliver usable creative and prioritized tests rather than theory alone. Does not render videos, publish content, or replace a full technical SEO or media-buying workflow."
+description: "Research, write, audit, and improve video and marketing copy using traceable customer evidence, supported promises, visible proof, meaningful progression, natural voice, and account learning. Use for TikTok, Instagram Reels, YouTube Shorts, educational video outlines, product demos, short-form ads, hooks, catchcopy, captions, CTAs, timed scripts, storyboards, retention audits, and content plans. Also use for review/comment analysis, buying-trigger research, distinct angle banks, claim registers, creator voice cards, shootability checks, lead-quality diagnosis, contribution limits, and reusable creative learning records. Preserve copy-only scope, specialist depth, requested coaching or drafting, and brand-versus-sales objectives. Deliver usable creative and bounded tests; never invent customer claims, research, metrics, or guaranteed virality. Does not render videos, publish content, buy ads, or replace full media-buying or technical SEO workflows."
 ---
 
 # Psychological Content Strategy
@@ -28,6 +28,7 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 
 | Mode | Main deliverable | Supporting resources |
 |---|---|---|
+| Customer research or angle discovery | Bounded findings, source/claim records, distinct angle bank, recommendation and unknowns | [Evidence to angles](references/evidence-to-angles.md) |
 | Create video | Hook options, selected hook, timed script, production notes, one test | [Hooks and copy](references/hooks-copy.md), [Video production](references/video-production.md) |
 | Short-form ad or product demo | One value proposition, chosen structure, aligned speech/visual proof/text, objective-linked test | [Short-form optimization](references/short-form-optimization.md), [Analytics](references/analytics-testing.md) |
 | Educational script or outline | Learning contract, audience depth, research gaps, transformation, causal outline or requested script | [Educational scriptwriting](references/educational-scriptwriting.md), [Video production](references/video-production.md) |
@@ -35,8 +36,11 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 | Copy only | Requested headlines, catchcopy, caption, email, or sales copy; compact rationale | [Hooks and copy](references/hooks-copy.md) |
 | Campaign or series | Audience moments, brand cues, brand/activation roles, content matrix, measurement | [Psychology and brand](references/psychology-brand.md), [Analytics](references/analytics-testing.md) |
 | Analytics diagnosis | Observations, plausible causes, missing evidence, prioritized experiments | [Analytics](references/analytics-testing.md) |
+| Commercial learning or lead-quality diagnosis | Stage-specific diagnosis, explicit economics if supported, bounded lessons and next investigation | [Commercial learning](references/commercial-learning.md), [Analytics](references/analytics-testing.md) |
 
 Read only the references needed for the task. Use [templates and examples](references/templates-examples.md) for a worked model or reusable output form. Read [sources and evidence](references/sources-evidence.md) before making scientific claims, quoting research, using numerical rules, or giving current platform advice.
+
+For customer material or uncertain buyer assumptions, use [evidence to angles](references/evidence-to-angles.md). Preserve observation, exact wording, translation, interpretation, and hypothesis separately. Accept a supplied traceable brief; do not require fresh research for a narrow edit or a complete approved brief. For prior outcomes and reusable lessons, use [commercial learning](references/commercial-learning.md); retrieve only records relevant to the current context.
 
 For short-form writing and editing, use [viewer-first content principles](references/content-principles.md) to sharpen relevance, perceived value versus effort, line-to-line progression, truthful specificity, and objection handling. These are flexible editorial priors, not mandatory formats or measured performance laws.
 
@@ -52,6 +56,8 @@ Capture: audience; current situation or buying cue; pain/desire; awareness level
 
 Keep this to a short paragraph for a small task. For an audit, separate observed facts from assumptions. For copy, distinguish awareness, consideration, and activation rather than assuming every viewer is ready to buy.
 
+Identify the offer and destination, proof sources/assets, creator voice basis, and essential production limits. Mark material unknowns without inventing business context. Keep real customer/account records in the user's requested project storage, outside the public skill package and global installation.
+
 Picture one person in the stated situation: what they know, need, and may doubt. Write as though sending the asset directly to them. Let a concrete object or action signal relevance; name the audience when doing so clarifies fit.
 
 For educational content, define the learning goal, the creator's useful contribution, the surface task, and the Point A → Point B change in understanding or ability. Include a deeper obstacle only when supported by the brief. Set prior knowledge and note what inspected material explains versus leaves unclear; label unresearched gaps as hypotheses. Align title/cover concepts with the payoff for longer videos and prioritize the first frame for Shorts.
@@ -66,6 +72,8 @@ Match the mechanism to the viewer's actual question. Curiosity needs context and
 
 Make the useful benefit legible relative to the viewer's time and mental effort. Bound the promise to what the asset can deliver. Counts and time budgets must be truthful; a larger list or shorter claimed runtime is not automatically stronger.
 
+Check that each angle links a viewer situation to a supported promise, obtainable proof, feasible production, and coherent next action. Different angles change the buying reason, criterion, objection, or proof path. If the claim exceeds its evidence, narrow it, identify the needed evidence, frame an investigation, or omit it. This is an internal support check, not an additional permission gate.
+
 For a campaign, connect content to buying situations and consistent brand cues. Give brand building and immediate activation distinct jobs and measures. Treat 60:40 as a contextual planning reference, never an automatic budget prescription.
 
 ### 3. Build and choose the hook
@@ -76,7 +84,7 @@ Use [confession, experiment, contrarian, and lesson patterns](references/hook-pa
 
 Use **recognizable situation + specific tension/desire + credible outcome + optional constraint** as a diagnostic, not a required sentence pattern. Replace vague language with supported details; never invent a number, name, date, or result to make an opening specific.
 
-Score candidate hooks internally from 0–2 for specificity, relevance, credibility, answerable curiosity, and continuity with the body. A score below 7/10 is a revision prompt, not a scientific threshold or prediction of performance. Reveal scores when requested or useful to an audit.
+Compare candidate hooks for specificity, relevance, credibility, answerable curiosity, and continuity with the body. Prefer concrete reasons for revision. If a score is requested, identify it as an editorial aid rather than a prediction of views or conversion.
 
 Select an angle and give a one-sentence reason. Test its promise against the actual payoff before polishing wording. Remove greetings, generic superlatives, irrelevant shock, and empty requests to wait.
 
@@ -111,6 +119,8 @@ For product claims, connect feature → functional advantage → relevant benefi
 
 Match the user's collaboration mode: critique an outline when asked to coach; draft the script when asked to write. Give specific feedback, preserve supplied author voice and useful technical depth, and never invent personal struggle. Refine rhythm with varied sentence lengths and a read-aloud check; put visual/audio cues beside the relevant lines.
 
+Use the [voice-card and essential-shot checks](references/video-production.md#voice-and-essential-shot-feasibility) when they affect the handoff. Label a voice treatment proposed when no samples exist and timing estimated when no timed performance exists. Give an asset-status/fallback note for essential missing proof. Keep CTA, destination, and follow-up consistent with the same offer and conditions.
+
 For a campaign, use a matrix of audience moment, message, hook, proof, format, brand cue, CTA, and primary measure. Include both audience value and a practical next step rather than chasing views alone.
 
 ### 6. Make production decisions serve meaning
@@ -136,7 +146,11 @@ For paid reports, label the view threshold, click type, conversion event, denomi
 
 Select one next experiment with a primary measure and a quality/business guardrail. Keep the body stable when testing hooks; change one variable family at a time. Compare similar assets within the account. Organic posting comparisons are directional unless allocation is controlled.
 
+Separate attributed outcomes, causal incremental effects, and uncontrolled associations. A creative A/B comparison does not itself measure advertising versus no advertising. When learning records are requested, preserve context, measurement rules, uncertainty, contradictions, and superseded lessons; do not declare a universal winner or persist private account data inside the installed skill.
+
 ## Default response shapes
+
+**Research/angles:** bounded corpus and findings → distinct source-linked angles with support status → recommendation and material unknowns. Keep quotations, interpretations, and hypotheses distinguishable.
 
 **Video creation:** concise concept/assumptions → hook options and selection → timed beat table → short capture/edit/QA notes → one experiment. Include a platform adaptation only when requested or relevant.
 
@@ -145,6 +159,8 @@ Select one next experiment with a primary measure and a quality/business guardra
 **Copy only:** finished copy/variants → brief explanation of the chosen angle → proof gaps or one test if needed. Do not force a storyboard into a headline task.
 
 **Strategy:** objective and audience moments → brand and activation roles → usable content matrix → production cadence constrained by resources → separate short- and long-term measures.
+
+**Commercial learning:** explicit decision and measure definitions → stage-specific hypotheses → supported calculations or missing inputs → bounded next test/learning record. Treat inconclusive evidence as a valid result.
 
 **Educational planning/critique:** learning contract and material assumptions → audience/research gaps → Point A → Point B outline → prioritized repairs or the requested draft. Omit planning scaffolding from a narrow request for finished copy or a short script.
 

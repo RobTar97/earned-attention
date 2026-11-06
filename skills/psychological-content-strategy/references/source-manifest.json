@@ -81,6 +81,35 @@
         "continuous_playback": false,
         "transcript_manually_verified": false
       }
+    },
+    {
+      "filename": "# Deep research brief_ the next Earned Attention u.pdf",
+      "added_date": "2026-11-06",
+      "bytes": 1673057,
+      "sha256": "bf5876b95ff1ea32ddf29511ec4105f4c56f23cfe20383c478aa17e7cb1953a5",
+      "original_bundled": false,
+      "authorship_verified": false,
+      "type": "supplied-earned-attention-research-proposal",
+      "pages": 42,
+      "report_repository_inspection_performed": false,
+      "integration_audited_against_commit": "77c4a58",
+      "adapted_references": [
+        "evidence-to-angles.md",
+        "commercial-learning.md",
+        "video-production.md"
+      ],
+      "inspection": "All pages text-extracted; proposal reviewed; visual checks of opening, equations, evidence table and architecture."
+    },
+    {
+      "filename": "deep-research-report.md",
+      "added_date": "2026-11-06",
+      "bytes": 22315,
+      "sha256": "57e26bf620aea263510cbb5cab8ff5e16bdc5f28cb0bdeacb84f2ae8152b387e",
+      "original_bundled": false,
+      "authorship_verified": false,
+      "type": "supplied-generic-research-tooling-report",
+      "integration_status": "excluded-out-of-scope",
+      "reason": "Discusses research tools, Azure and connectors rather than the Earned Attention marketing brief."
     }
   ],
   "supplemental_sources": [

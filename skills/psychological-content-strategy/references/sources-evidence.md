@@ -58,6 +58,23 @@ Checked **2026-10-21**:
 
 Meta's linked 3-second-play help page required login during the check. No fresh Meta-specific measurement rule was inferred from it. The supplied 2026 CPM, engagement, CTR, and CVR table lacks a verified, matched population and is not encoded as a baseline. Recheck relevant primary definitions before reporting exact platform numbers.
 
+## Supplied deep-research results
+
+On 2026-11-06 the user supplied a 42-page PDF export named `# Deep research brief_ the next Earned Attention u.pdf` and `deep-research-report.md`. The PDF repeats the research brief before an Earned Attention proposal, followed by a long URL list; its last page has no extractable text. All pages were text-extracted for review, with visual checks of the opening, contribution equations, evidence-table layout, and architecture. Its inspection table states that the repository and evaluations were not inspected during that research. The integration therefore checked its proposals against the actual repository at `77c4a58` instead of treating its gap audit as an observed repository finding.
+
+The useful additions are [evidence to angles](evidence-to-angles.md), [commercial learning](commercial-learning.md), and voice-card/essential-shot fields in [video production](video-production.md). Existing narrative, metric, localization, and scope guidance is extended in place. The proposal supports one installed skill now, with standalone names deferred until independent use and self-contained installation are justified. Numerical hook scores remain optional editorial aids, not predictive conversion gates.
+
+The Markdown report instead interprets “deep research” as research tooling, Azure, and connectors. Its tool, privacy, lifecycle, and performance assertions were not used for marketing guidance. Both received files are fingerprinted; neither original, extracted PDF text, private account record, or bibliography dump is bundled. The PDF's long list includes uncited and unrelated URLs, so it was not imported as a verified literature review.
+
+Selected primary checks on **2026-11-06**:
+
+- [GOV.UK research recording guidance](https://www.gov.uk/service-manual/user-research/taking-notes-and-recording-user-research-sessions): supports separating observations from interpretations, maintaining useful context, and respecting agreed handling of participant material. These are research practices, not measured video-performance effects.
+- [Griffin and Hauser, The Voice of the Customer (1993)](https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=5259): the original-paper text addresses identifying, organizing, and prioritizing customer needs, including sampling/mention-frequency limitations. Its product-development setting does not establish a short-form conversion lift or a universal interview count.
+- [Gordon et al., advertising measurement (2019)](https://pubsonline.informs.org/doi/10.1287/mksc.2018.1135): the publisher abstract compares observational models with randomized advertising experiments. It supports caution about causal interpretations; full methods were not reviewed for this integration, and no universal correction factor is inferred.
+- [Agent Skills specification](https://agentskills.io/specification): supports portable instructions with references loaded when needed. Local dependency/link checks and an isolated installation test validate this package; the supplied PDF did not certify its compliance.
+
+The PDF's cited AI-assisted microfiction research was not used to claim measured effects on video creativity or sales. Its contribution formulas were visually checked because math symbols disappear from text extraction, then expressed as explicit accounting assumptions with fictional arithmetic. They are planning identities, not ad-budget authorization, validated forecasts, or evidence of profit.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |
@@ -76,13 +93,14 @@ Meta's linked 3-second-play help page required login during the check. No fresh 
 | Viewer-first reasoning and concrete short-form writing | `content-principles.md`, `hooks-copy.md`, and `video-production.md`: silent application, value/effort, line progression, truthful detail, objections, and meaningful beats |
 | Master Blueprint: short-form structures, proof, native presentation, and performance diagnosis | `short-form-optimization.md`, `hooks-copy.md`, and `analytics-testing.md`: structure selection, FAB/4Ps, three-channel evidence, authentic proof roles, and conditional rates |
 | Supplied repeated-peak story-arc video | `story-arcs.md` and `video-production.md`: rapid context, local answers, consequence, purposeful release, and complete payoff |
+| Deep-research proposal: traceability, feasibility, and account learning | `evidence-to-angles.md`, `commercial-learning.md`, and `video-production.md`: source/claim/angle records, voice and proof-asset status, contribution assumptions, and contextual lesson retrieval |
 
 ## How to classify a claim
 
 - **Verified user fact:** use as supplied unless contradictory; do not expand beyond its scope.
 - **Current platform guidance:** check the platform's primary documentation and actual placement. Label ad evidence as ad evidence.
 - **Research finding:** inspect the original study, conditions, outcome, population, and effect before stating an exact claim. A book model or marketing case study is not a universal law.
-- **Production heuristic:** useful starting point to test, clearly labeled. Examples include a 7/10 hook revision score, approximate beat allocations, and reviewing progression every 1–3 seconds.
+- **Production heuristic:** useful starting point to test, clearly labeled. Examples include an optional editorial hook rubric, approximate beat allocations, and reviewing progression every 1–3 seconds.
 - **Creative hypothesis:** plausible audience response, to be tested rather than asserted as established fact.
 
 ## Corrections and qualifications applied
