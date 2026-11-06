@@ -77,6 +77,14 @@ The [four additional cases](../evals/research-upgrade.json) test source/claim/an
 
 An isolated project installation through `skills` 1.7.6 contained all 18 runtime files with matching hashes. Its 69 local Markdown link targets resolved inside the installed skill, without relying on sibling skills or the original supplied reports. This tests packaging and portability, not creative quality or audience outcomes.
 
+## Focused guided-intake checks
+
+The [five conversation cases](../evals/guided-intake.json) cover an empty first request, reuse of a partial project brief, supported brand-matched hook choices, a complete brief with delegated selection, and first-use copy-only scope. Each ran once with the updated skill and once with the pre-update snapshot at `2eca9a2`. Author review found 15/15 specified expectations satisfied by the updated version and 13/15 by the prior version. In this sample, the prior version asked only about the offer at the empty start and did not supply a concrete first-frame treatment for each hook. Both versions respected the reserved hook choice, direct-draft request, and copy-only scope.
+
+The [result record](../evals/guided-intake-results.json) preserves the case counts and limits. Script timing continuity and copy-only line counts were also checked programmatically. One worker handled all five cases within each configuration, and review was not blind. Prompts explicitly request some of the checked behavior. Brand fit is illustrative; the complete-script sample could be more concise before its table. No general writing-quality or audience-performance advantage is established. Final review aligned the step-by-step routing wording and refined a guide example, followed by structural/package checks.
+
+The updated package was installed in an isolated project through `skills` 1.7.6: all 19 runtime files matched, and all 81 local Markdown link targets resolved inside the installed skill. No sibling skill or original source file was required.
+
 ## What these checks do not establish
 
 There was one response per task/configuration. The skill author graded the outputs with cited evidence; the grading was not blind. These checks do not establish broad model reliability, actual audience-retention lift, conversion gains, or native-audience validation of Japanese copy. Token totals were unavailable and measured execution intervals used different scopes, so resource-efficiency comparisons are omitted.

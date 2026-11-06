@@ -2,6 +2,24 @@
 
 Examples below are illustrative creative, not reported campaign results. Adapt names, capabilities, and assets to verified user information.
 
+## Guided start and hook choice
+
+Use [guided intake](guided-intake.md) for a new or unclear brief. Ask only unresolved essentials, with up to three concise questions in one reply. Reuse known brand/context details. The compact brief below is a working record, not a form the user must complete or approve.
+
+For a hook-first request, use three short cards or a table:
+
+```text
+[Direction label]: "[Actual opening words]"
+First frame: [Feasible action/material]
+Fit: [Why this viewer, voice, and objective]
+Proof/payoff: [What the body delivers; any material gap]
+
+Recommendation: [Direction and concrete reason]
+Choice: [Number, combination, revision, or ask the agent to choose]
+```
+
+Wait if the user reserved the hook choice. For a full-script request or delegated choice, choose and deliver without an extra approval step. Small copy requests retain their requested format.
+
 ## Compact creative brief
 
 ```text

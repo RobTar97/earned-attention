@@ -28,6 +28,16 @@ Need global installation, Claude Code, Windows copy mode, updates, or troublesho
 
 ## Try it
 
+Starting without a brief? Try:
+
+```text
+Use psychological-content-strategy. Help me get started with a video
+for my brand. Ask what matters, then show me three hook directions
+that fit my audience and voice before we choose one.
+```
+
+The agent asks up to three focused questions at a time, reuses your answers, and builds a short working brief. Hook choices include real opening words, a first-frame idea, why they fit, and the proof/payoff needed. It recommends a direction and waits when you ask to choose together. A complete brief can go straight to drafting:
+
 ```text
 Use psychological-content-strategy to write a 30-second Reel for a
 project checklist app. It saves and reuses checklists; it does not
@@ -43,6 +53,7 @@ Provide the audience, desired outcome, available proof, and production limits. T
 
 | Request | Deliverable |
 |---|---|
+| Help me get started | Short intake, working brief, three brand-matched hook directions, and a recommendation before the requested next step |
 | Find angles from customer material | Source-linked findings, scoped claim register, distinct angles, proof requirements, and remaining unknowns |
 | Create a short | Distinct hook angles, a selected opening, timed beat table, capture/edit notes, and one test |
 | Plan or write an educational video | Learning contract, research gaps, audience depth, Point A → Point B arc, causal outline or requested script |
@@ -63,6 +74,8 @@ The [viewer-first content principles](skills/psychological-content-strategy/refe
 The [Master Blueprint adaptation](skills/psychological-content-strategy/references/short-form-optimization.md) connects PAS, BAB, AIDA, FAB, and Picture/Promise/Proof/Push to visible evidence, honest presenter roles, useful sharing, and paid-funnel diagnosis. [Progressive story arcs](skills/psychological-content-strategy/references/story-arcs.md) add rapid context and meaningful mini payoffs from the supplied video. The [metric dictionary](skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary) names each denominator instead of treating source benchmark tables as universal targets.
 
 ## How it works
+
+The [guided-intake workflow](skills/psychological-content-strategy/references/guided-intake.md) helps a new user specify the deliverable, viewer, goal, voice, and available material. It loads the relevant hook, brand, and evidence references to shape concrete choices. You can choose a direction, combine options, or ask the agent to choose and write. Complete briefs and small copy requests skip unnecessary intake.
 
 The [evidence-to-angle workflow](skills/psychological-content-strategy/references/evidence-to-angles.md) connects customer observations to supportable claims and genuinely different creative concepts. The [commercial-learning guide](skills/psychological-content-strategy/references/commercial-learning.md) keeps qualified outcomes, contribution assumptions, attribution, and reusable lessons separate. Voice cards and essential-shot availability/fallback checks extend the existing production guide. Real customer/account records stay in project storage; the installed skill contains empty templates and fictional examples.
 
@@ -115,10 +128,10 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Thirteen focused guides + source fingerprints
+  references/                    # Fourteen focused guides + source fingerprints
     source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
-evals/                           # Three sample tasks and evaluation summary
+evals/                           # Initial tasks and focused workflow checks
 scripts/validate.py              # Dependency-free structural validation
 skills.sh.json                   # Catalog display configuration
 ```

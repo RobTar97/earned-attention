@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- Add a guided start for new or partial briefs: concise questions, context reuse, a compact creative brief, and three reference-grounded hook directions matched to the brand.
+- Give hook choices actual opening words, feasible first frames, fit reasons, proof/payoff requirements, and a recommendation; respect explicit hook-first choices while keeping complete-script and copy-only requests direct.
+- Add first-use examples and focused checks for intake, context reuse, hook choice, direct drafting, and narrow copy scope.
+- Record 15/15 checked expectations for the updated flow and 13/15 for the previous version across five paired cases; verify all 19 runtime files and 81 local links in an isolated project install, without claiming audience lift.
+
 - Integrate the relevant 2026-11-06 research proposal as evidence-to-angle and commercial-learning references, preserving one installed skill and the stable identifier.
 - Add source/claim/angle traceability, qualitative concept selection, creator voice cards, essential-shot status/fallbacks, destination continuity, contribution assumptions, and contextual lesson retrieval.
 - Keep real customer and account records outside the public/global package; record source inspection limits and exclude the unrelated generic research-tooling report.

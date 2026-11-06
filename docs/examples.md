@@ -2,6 +2,24 @@
 
 Replace the fictional products and constraints with your real information. Explicitly naming the skill is useful when your agent has several overlapping marketing skills.
 
+## Start with guided questions
+
+```text
+Use psychological-content-strategy. I'm new to writing short videos.
+Help me work out what to make for my brand. Ask the essential
+questions first, then show three strong hook directions that fit
+my audience and voice. I want to choose before you write the script.
+```
+
+Expect up to three focused questions in the first reply, followed by only material gaps. Once the brief is clear, expect actual openings with first-frame ideas, fit, proof/payoff, and a recommendation. Choose an option, combine directions, or request a change; the agent carries the existing brief forward.
+
+```text
+Choose option 2, keep the calm tone, and write the 25-second Reel.
+Use only the screen recording I described.
+```
+
+If you already know what you need, provide the brief and ask the agent to choose and write, as in the next example. There is no required onboarding or hook-approval round.
+
 ## 1. Create a product-demo Reel
 
 ```text

@@ -30,7 +30,7 @@ def read_json(path):
 required = ['README.md', 'LICENSE', 'CONTRIBUTING.md', 'CHANGELOG.md',
             'docs/installation.md', 'docs/examples.md', 'docs/workflow.md',
             'docs/evidence.md', 'evals/evals.json', 'evals/summary.json', 'evals/blueprint-integration.json',
-            'evals/research-upgrade.json',
+            'evals/research-upgrade.json', 'evals/guided-intake.json',
             'skills.sh.json', 'skills/psychological-content-strategy/SKILL.md',
             'skills/psychological-content-strategy/LICENSE']
 for rel in required:
@@ -60,7 +60,7 @@ expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
                  'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
                  'hook-patterns.md', 'educational-scriptwriting.md', 'content-principles.md',
                  'short-form-optimization.md', 'story-arcs.md', 'evidence-to-angles.md',
-                 'commercial-learning.md']
+                 'commercial-learning.md', 'guided-intake.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
 
@@ -109,7 +109,7 @@ if isinstance(summary, dict):
     check(len(summary.get('tasks', [])) == 3, 'Result summary needs three tasks')
     check(bool(summary.get('limitations')), 'Evaluation limitations must remain explicit')
 
-for relative in ['evals/blueprint-integration.json', 'evals/research-upgrade.json']:
+for relative in ['evals/blueprint-integration.json', 'evals/research-upgrade.json', 'evals/guided-intake.json']:
     supplemental = read_json(ROOT / relative)
     if isinstance(supplemental, dict):
         check(supplemental.get('skill_name') == SKILL_NAME, f'{relative} must name the published skill')

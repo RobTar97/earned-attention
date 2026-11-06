@@ -1,0 +1,70 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "baseline_commit": "2eca9a2b227dda9a1e35e387bc279fe7a7164168",
+  "evals": [
+    {
+      "id": 1,
+      "name": "empty-first-use",
+      "prompt": "Use psychological-content-strategy. I'm new to this and want help making content for my brand. Where do we start?",
+      "expected_output": "A short, answerable intake with no fabricated brief or premature creative.",
+      "expectations": [
+        "Asks no more than three concise question groups, with usable choices or examples.",
+        "Clarifies the desired deliverable/result, subject/audience, and brand voice without requiring marketing-framework knowledge.",
+        "Does not invent a brand, offer, proof, or full script before the essential answers are available."
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "partial-brief-context-reuse",
+      "prompt": "Current project notes: CedarCards saves and reuses project checklists and does not automate tasks. Our viewers are independent design-studio leads at project kickoff. We want qualified free trials, with an English 25-second organic Instagram Reel. We have a real screen recording of save/reuse and a verified trial page; no measured savings or customer stories.\n\nUse psychological-content-strategy. Help me choose a direction step by step. What else do you need from me?",
+      "expected_output": "Reuse the supplied brief and ask briefly about unresolved voice or creative preferences.",
+      "expectations": [
+        "Asks about unresolved brand voice or a representative wording example, rather than fabricating it.",
+        "Does not ask the user to repeat the known audience, product, objective, language, duration, placement, or available proof.",
+        "Keeps the intake concise and does not draft the complete script before this step-by-step user chooses a direction."
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "supported-brand-hook-choice",
+      "prompt": "Use psychological-content-strategy. CedarCards saves and reuses project checklists; it does not automate the tasks. Audience: independent design-studio leads at project kickoff. Brand voice: calm, clear, practical. Goal: qualified free trials. We have a real screen recording of save/reuse and a verified free-trial page. No customer story, personal test, measured savings, or testimonials. Format: English, 25-second organic Instagram Reel.\n\nShow me three different hook directions first. Recommend one; I'll choose before you write the full script.",
+      "expected_output": "Three distinct brand-fit openings with first frames, fit reasons, proof/payoff, recommendation, and a real choice.",
+      "expectations": [
+        "Offers exactly three meaningfully different directions with actual spoken opening words.",
+        "Each direction has a feasible first-frame idea, a brand/viewer fit reason, and a proof or payoff requirement.",
+        "Preserves the calm practical voice and known save/reuse capability without invented automation, results, personal experience, or scarcity.",
+        "Recommends a direction tied to available proof and waits for the reserved choice without delivering a full script."
+      ],
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "complete-brief-direct-draft",
+      "prompt": "Use psychological-content-strategy. CedarCards saves and reuses project checklists; it does not automate the tasks. Audience: independent design-studio leads at project kickoff. Brand voice: calm, clear, practical. Goal: qualified free trials. We have a real screen recording of save/reuse and a verified free-trial page. No customer story, personal test, measured savings, or testimonials. Format: English, 25-second organic Instagram Reel.\n\nChoose the hook for me and write the full Reel now. Give a continuous timed beat table with speech, visual proof, on-screen text, and audio/edit notes. End with one free-trial CTA.",
+      "expected_output": "A complete, feasible 25-second script with no onboarding or hook-approval pause.",
+      "expectations": [
+        "Chooses a supported hook and delivers the complete requested artifact in this response without asking an intake or approval question.",
+        "Timed rows cover 0 through 25 seconds continuously, with speech, visual proof, text, and audio/edit guidance.",
+        "Uses the stated voice, real save/reuse proof, and one free-trial CTA without unsupported capability, result, or experience claims."
+      ],
+      "files": []
+    },
+    {
+      "id": 5,
+      "name": "first-use-copy-only",
+      "prompt": "First time using psychological-content-strategy. Give exactly three short English opening lines, copy only. CedarCards saves and reuses project checklists. Audience: design-studio leads. Calm, practical voice; no automation or measured savings. Do not add questions, explanations, or filming notes.",
+      "expected_output": "Exactly three usable copy lines, with no intake or expanded production plan.",
+      "expectations": [
+        "Returns exactly three short English opening lines and no questions, commentary, framework, or production notes.",
+        "The copy fits the known audience/voice and supported capability without invented results or automation."
+      ],
+      "files": []
+    }
+  ],
+  "limitations": [
+    "One sample per case/version; author-graded behavior checks, not an audience experiment.",
+    "Brand-fit judgments are illustrative and do not establish creative quality or marketing lift."
+  ]
+}

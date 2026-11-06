@@ -6,6 +6,14 @@ The skill begins by identifying the viewer, their situation, the promised value,
 
 Write with one person and their existing knowledge in mind. Content principles shape the creative silently: make value visible, connect adjacent lines, use supported detail, and address a likely objection where it arises. Templates remain optional scaffolds. An explicit request for spoken copy only takes priority over the default beat table; an audit can explain its reasoning.
 
+## Guided start and creative choice
+
+When the user needs help getting started, ask up to three concise questions at a time about missing essentials: what to make, who it is for, the desired result, and brand voice. Reuse relevant conversation/project context, then resolve only proof or production gaps that change the creative. A compact working brief confirms understanding without creating another approval step.
+
+Offer three distinct hook directions by default. Each includes the opening words, a feasible first frame, brand/viewer fit, and the proof or payoff required. Read the hook and content references, adding brand, evidence, or format guidance as needed. Recommend the direction best supported by the brief; this is a creative judgment, not a performance prediction.
+
+If the user asks to choose hooks first, wait for that choice. If they ask for a complete script or delegate the choice, select and draft once the brief is sufficient. Keep copy-only, audit, and analytics tasks in their requested mode. Relevant brand notes can stay in the user's project when requested; no personal brand profile is stored in the global skill.
+
 | Mode | Core output | Main decisions |
 |---|---|---|
 | Customer research/angles | Bounded findings, claim register, source-linked angles | Observations versus hypotheses, claim scope, different buying reasons, feasible proof |
@@ -37,6 +45,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 
 | Reference | Use it for |
 |---|---|
+| [Guided intake and hook choices](../skills/psychological-content-strategy/references/guided-intake.md) | Short first-use/partial-brief questions, brand-matched hook menus, recommendations, choice versus direct-drafting routes, and context reuse |
 | [Evidence to angles](../skills/psychological-content-strategy/references/evidence-to-angles.md) | Bounded customer-source analysis, claim register, distinct angles, proof/production feasibility, and project-storage boundaries |
 | [Commercial learning](../skills/psychological-content-strategy/references/commercial-learning.md) | Qualified-lead diagnosis, contribution assumptions, attribution/causality distinctions, bounded lessons, and context-aware retrieval |
 | [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | One-viewer voice, value versus effort, line handoffs, specific evidence, relevant objections, and meaningful visual beats |

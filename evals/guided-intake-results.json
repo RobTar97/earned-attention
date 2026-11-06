@@ -1,0 +1,75 @@
+{
+  "skill_name": "psychological-content-strategy",
+  "checked_date": "2026-11-06",
+  "baseline_commit": "2eca9a2b227dda9a1e35e387bc279fe7a7164168",
+  "runs_per_case_configuration": 1,
+  "tasks": [
+    {
+      "id": 1,
+      "name": "empty-first-use",
+      "with_skill": {
+        "passed": 3,
+        "total": 3
+      },
+      "old_skill": {
+        "passed": 2,
+        "total": 3
+      }
+    },
+    {
+      "id": 2,
+      "name": "partial-brief-context-reuse",
+      "with_skill": {
+        "passed": 3,
+        "total": 3
+      },
+      "old_skill": {
+        "passed": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": 3,
+      "name": "supported-brand-hook-choice",
+      "with_skill": {
+        "passed": 4,
+        "total": 4
+      },
+      "old_skill": {
+        "passed": 3,
+        "total": 4
+      }
+    },
+    {
+      "id": 4,
+      "name": "complete-brief-direct-draft",
+      "with_skill": {
+        "passed": 3,
+        "total": 3
+      },
+      "old_skill": {
+        "passed": 3,
+        "total": 3
+      }
+    },
+    {
+      "id": 5,
+      "name": "first-use-copy-only",
+      "with_skill": {
+        "passed": 2,
+        "total": 2
+      },
+      "old_skill": {
+        "passed": 2,
+        "total": 2
+      }
+    }
+  ],
+  "limitations": [
+    "Five cases per version, one sample per case; one worker handled all cases within each configuration.",
+    "Author review was not blind. Timing and token comparisons are unavailable.",
+    "Updated skill satisfies 15/15 specified expectations; prior skill satisfies 13/15. This small sample tests the intended conversation behavior, not general writing superiority or audience outcomes.",
+    "Prompts explicitly request some behavior. Brand fit is illustrative and needs real user feedback; the direct-script sample could be more concise before its table.",
+    "Final review aligned a step-by-step routing sentence and refined a guide example; the package was structurally rechecked after those wording edits."
+  ]
+}
