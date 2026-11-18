@@ -69,6 +69,8 @@ The [hook-pattern guide](skills/psychological-content-strategy/references/hook-p
 
 The [short-form hook guide](skills/psychological-content-strategy/references/short-form-hooks.md) adds eight ways to open a video, a practical check for how picture, speech, and text work together, and a method for getting from the hook to the first useful beat. It also covers clean endings, optional replay transitions, and editorial review before filming.
 
+The [hook library](skills/psychological-content-strategy/references/hook-library.md) gives you 24 worked openings across physical products, software, and education. Each pairs a spoken line with a first frame, an optional label, and the first useful beat.
+
 The [five-phase educational-scriptwriting guide](skills/psychological-content-strategy/references/educational-scriptwriting.md) adds Foundation, Target, Structure, Draft, and Refine: packaging and shared value, research gaps, honest transformation, useful critique, causal transitions, and spoken rhythm. It scales those ideas to short and longer formats. The [supplied framework and transcript](skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is preserved separately for detailed reference.
 
 The [viewer-first content principles](skills/psychological-content-strategy/references/content-principles.md) help the agent write to one recognizable person, show useful value early, connect each line, use concrete evidence, and answer likely objections. They guide the writing silently; your requested output determines whether you get finished copy, a production plan, or an explained critique.
@@ -130,7 +132,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Fifteen focused guides + source fingerprints
+  references/                    # Sixteen focused guides + source fingerprints
     source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
 evals/                           # Initial tasks and focused workflow checks

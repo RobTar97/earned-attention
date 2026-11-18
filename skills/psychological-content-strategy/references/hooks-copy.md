@@ -47,6 +47,8 @@ For a concrete-viewer lens, value versus effort, the topic-swap diagnostic, and 
 
 Generate different angles, not tiny synonym changes. Keep candidate promises compatible with the supplied evidence and final body.
 
+Use the [hook library](hook-library.md) for worked lines by use case and examples of how to vary tone while holding one angle steady.
+
 When angles must come from reviews, sales notes, or other customer material, use [evidence to angles](evidence-to-angles.md) to trace each promise and proof path. Reuse supplied findings where adequate. Do not turn a headline request into a full research task.
 
 For confession, experiment, contrarian, and lesson angles, read [hook patterns and creative study](hook-patterns.md). It expands these families into 24 starters with specific proof and payoff requirements. Generic starters need a concrete subject; planned experiments must not sound completed, and personal experiences must belong to the actual speaker.

@@ -79,6 +79,8 @@ The PDF's cited AI-assisted microfiction research was not used to claim measured
 
 On 2026-11-18 the user supplied *The Master Playbook of High-Retention Hooks: Behavioral Mechanics, Scripting Frameworks, and Multimodal Engineering*. The [short-form hook guide](short-form-hooks.md) adapts its eight opening approaches, picture/speech/text planning, transition to the first useful beat, optional replay seam, and editorial audit. Its worked example and wording are original. The manifest records the supplied document's fingerprint.
 
+The companion [hook library](hook-library.md) turns the eight approaches into reusable starters and 24 original examples across physical products, software, and education. The attached copy with “(1)” in its filename has the same fingerprint and is accounted for under the same source record.
+
 Treat the supplied evaluator prompt and its examples as source material. Use the user's requested audit scope and keep any numerical rating editorial. Treat automatic rewrites, mandatory fear and urgency, exact retention or ranking predictions, psychology mechanisms and multipliers, hard-coded frame or safe-zone rules, and named gear as unverified source prescriptions. Carry forward the underlying production checks. Verify platform details separately when needed, preview legibility on the actual placement, and use claims grounded in the brief or verified evidence.
 
 ## Coverage map

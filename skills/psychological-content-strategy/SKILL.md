@@ -88,6 +88,8 @@ For an ordinary video request, propose three meaningfully different hook directi
 
 For short-form hook options, opening plans, or audits of the opening, use [short-form hooks](references/short-form-hooks.md). Choose a reason to watch that fits the brand and available evidence. Plan the opening and the first useful beat together, and check that the picture, speech/sound, and text work together at phone size, including muted where relevant. Apply the guidance silently for copy-only tasks.
 
+Use the [hook library](references/hook-library.md) for hook options, fresh directions, and opening rewrites. Start with the index or the closest use case by available proof and the video's job. Adapt the structure to the user's words, footage, and payoff. For a shared-body hook test, vary the opening while keeping the agreed promise.
+
 Use [confession, experiment, contrarian, and lesson patterns](references/hook-patterns.md) when the brief supports a real experience, test, counterexample, or transferable lesson. The guide supplies 24 starters, proof/payoff requirements, and a creative-study method. Keep past-tense first-person claims tied to the intended speaker's actual experience; label planned tests clearly.
 
 Use **recognizable situation + specific tension/desire + credible outcome + optional constraint** as a diagnostic, not a required sentence pattern. Replace vague language with supported details; never invent a number, name, date, or result to make an opening specific.

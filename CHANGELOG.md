@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add a hook library with 24 original worked openings across product, software, and educational videos. Use it for hook menus, opening rewrites, and copy options.
+
 - Adapt the supplied High-Retention Hooks playbook into a short-form reference covering eight opening approaches, picture/speech/text alignment, the first useful beat, endings, and optional editorial audits. Route video hook menus and opening audits through the new guide.
 
 - Add a guided start for new or partial briefs: concise questions, context reuse, a compact creative brief, and three reference-grounded hook directions matched to the brand.

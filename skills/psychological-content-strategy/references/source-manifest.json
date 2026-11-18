@@ -110,6 +110,7 @@
       "type": "supplied-short-form-hook-playbook",
       "adapted_references": [
         "short-form-hooks.md",
+        "hook-library.md",
         "guided-intake.md",
         "hooks-copy.md"
       ]
