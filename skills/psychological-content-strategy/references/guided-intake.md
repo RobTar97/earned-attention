@@ -43,6 +43,7 @@ State only material assumptions and proof gaps. This is a working read-back, not
 
 Read [hooks and copy](hooks-copy.md) before proposing the openings. Use [content principles](content-principles.md) for one-viewer relevance, concrete language, and useful progression. Read the other references selectively:
 
+- [Short-form hooks](short-form-hooks.md) for video opening options. Choose approaches that fit the brief and check each opening against its first useful beat. Add an on-screen label or sound cue to the options when it materially changes the creative.
 - [Hook patterns](hook-patterns.md) when a genuine confession, experiment, counterexample, or lesson is available. Past-tense first-person claims require the speaker's actual experience; planned tests must sound planned.
 - [Evidence to angles](evidence-to-angles.md) when customer material needs interpretation or the proposed promise exceeds the proof.
 - [Psychology and brand](psychology-brand.md) for audience situations, brand cues, and brand-versus-sales objectives.

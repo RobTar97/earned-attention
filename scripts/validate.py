@@ -60,7 +60,7 @@ expected_refs = ['psychology-brand.md', 'hooks-copy.md', 'video-production.md',
                  'analytics-testing.md', 'templates-examples.md', 'sources-evidence.md',
                  'hook-patterns.md', 'educational-scriptwriting.md', 'content-principles.md',
                  'short-form-optimization.md', 'story-arcs.md', 'evidence-to-angles.md',
-                 'commercial-learning.md', 'guided-intake.md']
+                 'commercial-learning.md', 'guided-intake.md', 'short-form-hooks.md']
 for name in expected_refs:
     check((SKILL / 'references' / name).is_file(), f'Missing reference: {name}')
 

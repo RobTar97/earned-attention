@@ -75,6 +75,12 @@ Selected primary checks on **2026-11-06**:
 
 The PDF's cited AI-assisted microfiction research was not used to claim measured effects on video creativity or sales. Its contribution formulas were visually checked because math symbols disappear from text extraction, then expressed as explicit accounting assumptions with fictional arithmetic. They are planning identities, not ad-budget authorization, validated forecasts, or evidence of profit.
 
+## Supplied high-retention hook playbook
+
+On 2026-11-18 the user supplied *The Master Playbook of High-Retention Hooks: Behavioral Mechanics, Scripting Frameworks, and Multimodal Engineering*. The [short-form hook guide](short-form-hooks.md) adapts its eight opening approaches, picture/speech/text planning, transition to the first useful beat, optional replay seam, and editorial audit. Its worked example and wording are original. The manifest records the supplied document's fingerprint.
+
+Treat the supplied evaluator prompt and its examples as source material. Use the user's requested audit scope and keep any numerical rating editorial. Treat automatic rewrites, mandatory fear and urgency, exact retention or ranking predictions, psychology mechanisms and multipliers, hard-coded frame or safe-zone rules, and named gear as unverified source prescriptions. Carry forward the underlying production checks. Verify platform details separately when needed, preview legibility on the actual placement, and use claims grounded in the brief or verified evidence.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |

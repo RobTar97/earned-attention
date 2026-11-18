@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Adapt the supplied High-Retention Hooks playbook into a short-form reference covering eight opening approaches, picture/speech/text alignment, the first useful beat, endings, and optional editorial audits. Route video hook menus and opening audits through the new guide.
+
 - Add a guided start for new or partial briefs: concise questions, context reuse, a compact creative brief, and three reference-grounded hook directions matched to the brand.
 - Give hook choices actual opening words, feasible first frames, fit reasons, proof/payoff requirements, and a recommendation; respect explicit hook-first choices while keeping complete-script and copy-only requests direct.
 - Add first-use examples and focused checks for intake, context reuse, hook choice, direct drafting, and narrow copy scope.

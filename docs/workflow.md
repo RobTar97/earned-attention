@@ -46,6 +46,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 | Reference | Use it for |
 |---|---|
 | [Guided intake and hook choices](../skills/psychological-content-strategy/references/guided-intake.md) | Short first-use/partial-brief questions, brand-matched hook menus, recommendations, choice versus direct-drafting routes, and context reuse |
+| [Short-form hooks](../skills/psychological-content-strategy/references/short-form-hooks.md) | Eight opening approaches, coordinated picture/speech/text, the first useful beat, endings, and a hook audit |
 | [Evidence to angles](../skills/psychological-content-strategy/references/evidence-to-angles.md) | Bounded customer-source analysis, claim register, distinct angles, proof/production feasibility, and project-storage boundaries |
 | [Commercial learning](../skills/psychological-content-strategy/references/commercial-learning.md) | Qualified-lead diagnosis, contribution assumptions, attribution/causality distinctions, bounded lessons, and context-aware retrieval |
 | [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | One-viewer voice, value versus effort, line handoffs, specific evidence, relevant objections, and meaningful visual beats |

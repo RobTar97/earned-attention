@@ -101,6 +101,20 @@
       "inspection": "All pages text-extracted; proposal reviewed; visual checks of opening, equations, evidence table and architecture."
     },
     {
+      "filename": "THE MASTER PLAYBOOK OF HIGH-RETENTION HOOKS_ BEHAVIORAL MECHANICS, SCRIPTING FRAMEWORKS, AND MULTIMODAL ENGINEERING.md",
+      "added_date": "2026-11-18",
+      "bytes": 53672,
+      "sha256": "c63303031ac1760d92ab24df3e94ba1984d6fee71336204502b5520588c26803",
+      "original_bundled": false,
+      "authorship_verified": false,
+      "type": "supplied-short-form-hook-playbook",
+      "adapted_references": [
+        "short-form-hooks.md",
+        "guided-intake.md",
+        "hooks-copy.md"
+      ]
+    },
+    {
       "filename": "deep-research-report.md",
       "added_date": "2026-11-06",
       "bytes": 22315,

@@ -55,6 +55,8 @@ For confession, experiment, contrarian, and lesson angles, read [hook patterns a
 
 Review specificity, relevance, credibility, answerable curiosity, and hook-to-body continuity. Explain the concrete weak dimension when auditing. If the user requests scores, a 0–2 scale for each can organize editorial judgment; it is not a validated predictor of views or conversion and supplies no universal pass threshold.
 
+For video openings, use [short-form hooks](short-form-hooks.md) to check the planned frame, speech/sound, text, and first useful beat together. In a copy-only audit, apply the checks that the supplied text supports.
+
 Some useful content relies on clear utility rather than suspense. It can score well through an immediate answer, demonstration, or precise question; do not add mystery merely to satisfy a formula.
 
 ## Title, cover, and thumbnail

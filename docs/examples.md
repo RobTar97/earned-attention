@@ -209,6 +209,19 @@ record without claiming profit, causal lift, or a universal winning hook.
 
 Expect a stage-specific diagnosis, preserved maturity/confounding limits, and a qualified-demand guardrail. The [commercial-learning guide](../skills/psychological-content-strategy/references/commercial-learning.md) keeps previous account lessons contextual and treats contribution ceilings as explicit assumptions, not inferred business results.
 
+## 14. Develop an opening the footage can support
+
+```text
+Use psychological-content-strategy. I have a wide and a close-up
+of the same wood drawer sticking, plus a clip of the drawer opening
+after the loose pull was tightened. My shop's voice is calm and useful.
+Give me three opening directions for first-time furniture buyers.
+Show how each uses the picture, spoken line and text, plus the first
+useful beat. Recommend one and let me pick before writing the script.
+```
+
+Expect the hook options to stay close to the footage and its limits. A shot of the drawer opening after a repair supports a lesson about that drawer. When the cause remains uncertain, give viewers a check they can use. [Short-form hook guide](../skills/psychological-content-strategy/references/short-form-hooks.md).
+
 ## A reusable brief
 
 ```text

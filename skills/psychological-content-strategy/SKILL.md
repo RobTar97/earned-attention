@@ -86,6 +86,8 @@ For a campaign, connect content to buying situations and consistent brand cues. 
 
 For an ordinary video request, propose three meaningfully different hook directions unless a different count or narrower scope is requested. In guided collaboration, present the opening, first frame, brand/viewer fit, and proof/payoff using [the hook-menu guide](references/guided-intake.md). Combine first-frame subject/action, short headline, spoken opening, and sound into one coherent promise.
 
+For short-form hook options, opening plans, or audits of the opening, use [short-form hooks](references/short-form-hooks.md). Choose a reason to watch that fits the brand and available evidence. Plan the opening and the first useful beat together, and check that the picture, speech/sound, and text work together at phone size, including muted where relevant. Apply the guidance silently for copy-only tasks.
+
 Use [confession, experiment, contrarian, and lesson patterns](references/hook-patterns.md) when the brief supports a real experience, test, counterexample, or transferable lesson. The guide supplies 24 starters, proof/payoff requirements, and a creative-study method. Keep past-tense first-person claims tied to the intended speaker's actual experience; label planned tests clearly.
 
 Use **recognizable situation + specific tension/desire + credible outcome + optional constraint** as a diagnostic, not a required sentence pattern. Replace vague language with supported details; never invent a number, name, date, or result to make an opening specific.
@@ -141,7 +143,7 @@ For feeds, prioritize the opening frame; for profile, search, and discovery surf
 
 Check: identifiable relevance; credible promise; early proof; meaningful progression; complete payoff; feasible timing; accurate copy/captions; legible layout; intelligible audio; truthful claims; appropriate brand cue; one coherent next step.
 
-For an audit, rank fixes by likely impact: concept/audience fit → hook/body alignment → proof/payoff → pacing/comprehension → CTA → cosmetic polish. Use this form:
+For an audit, rank fixes by likely impact: concept/audience fit → hook/body alignment → proof/payoff → pacing/comprehension → CTA → cosmetic polish. Use the [opening review](references/short-form-hooks.md#review-the-hook-before-filming) for an audit focused on the hook. Use this form:
 
 | Priority | Evidence or timestamp | Viewer problem | Proposed change | Metric/test |
 |---|---|---|---|---|
