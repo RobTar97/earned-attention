@@ -6,7 +6,7 @@ Use this guide to develop video hook options, plan the opening beat, or audit th
 
 Start with what this viewer wants to see, learn, or decide. Select a hook that the available proof can support. For a hook menu, offer meaningfully different reasons to watch and recommend one based on brand fit, viewer need, and what can be shown. For a controlled hook comparison, hold the body, promise, and CTA steady and vary the opening treatment.
 
-Use the [hook library](hook-library.md) for adaptable starters and worked examples across product, software, and educational videos.
+Use the [hook library](hook-library.md#choose-from-the-brief-before-writing) for selecting from the footage, payoff, and voice before drafting. Use [storytelling hooks by goal](storytelling-hooks.md) for niche examples when the brief supplies an actual event, decision, or process.
 
 | Approach | Build the opening around | What the body owes |
 |---|---|---|

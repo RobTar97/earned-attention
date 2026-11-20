@@ -83,6 +83,10 @@ The companion [hook library](hook-library.md) turns the eight approaches into re
 
 Treat the supplied evaluator prompt and its examples as source material. Use the user's requested audit scope and keep any numerical rating editorial. Treat automatic rewrites, mandatory fear and urgency, exact retention or ranking predictions, psychology mechanisms and multipliers, hard-coded frame or safe-zone rules, and named gear as unverified source prescriptions. Carry forward the underlying production checks. Verify platform details separately when needed, preview legibility on the actual placement, and use claims grounded in the brief or verified evidence.
 
+## Supplied storytelling hook gallery
+
+On 2026-11-20 the user supplied ten gallery cards from *80 Storytelling Hooks*, visibly credited to Chase Dimond and `@chasehunterdimond`. The supplied cards are slides 02–11 of 12. [Storytelling hooks by goal](storytelling-hooks.md) adapts their ten story types and pairs them with original fictional examples. The [hook library](hook-library.md) uses brand voice, available assets, and the intended payoff to decide which type fits. The manifest records the gallery fingerprints. The images and their starter wording are kept outside the distributed skill.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |

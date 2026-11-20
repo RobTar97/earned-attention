@@ -164,6 +164,82 @@
           "sha256": "3ebb5539af4b3b607da3f1ca5c81ae1ab410883c6d049d3701f0880f14e504d3"
         }
       ]
+    },
+    {
+      "type": "user-provided storytelling hook gallery",
+      "title": "80 Storytelling Hooks",
+      "added_date": "2026-11-20",
+      "visible_credits": [
+        "Chase Dimond",
+        "@chasehunterdimond"
+      ],
+      "images_bundled": false,
+      "adapted_references": [
+        "storytelling-hooks.md",
+        "hook-library.md"
+      ],
+      "images": [
+        {
+          "slide": 2,
+          "subject": "Transformation",
+          "bytes": 188103,
+          "sha256": "ddb193aca277ef207af349562c037fe91e4c207d1ae1e017e6b5b134288bb284"
+        },
+        {
+          "slide": 3,
+          "subject": "Mistake",
+          "bytes": 172441,
+          "sha256": "7701a84d120001118596487aa1fd6283212b3fce9691cee75f4821c0e9909f4f"
+        },
+        {
+          "slide": 4,
+          "subject": "Turning point",
+          "bytes": 171149,
+          "sha256": "62978e13fff2d5d54167f7895565832ce65ea18509542342ba0542e21dd243a5"
+        },
+        {
+          "slide": 5,
+          "subject": "Behind the scenes",
+          "bytes": 175822,
+          "sha256": "54a8cadca1eef1596e79601bce84214bc66b0172caf521ef8578c53ec79b785b"
+        },
+        {
+          "slide": 6,
+          "subject": "Contrarian",
+          "bytes": 175700,
+          "sha256": "06fa1dabbeca99a61d8755c17387e6fabea9f5c0ac61df5bae7c562aeeade6d0"
+        },
+        {
+          "slide": 7,
+          "subject": "Relatable",
+          "bytes": 177136,
+          "sha256": "f5d8a3941d9bf3b33c8869e9934031d0e5aa4eb30fd6021d5b9fa53a1b8a385c"
+        },
+        {
+          "slide": 8,
+          "subject": "Client or customer",
+          "bytes": 188212,
+          "sha256": "6f84b36d715fba2b2c991c757fd4f801b5d6bd22e65a48a79295a5c66fee376a"
+        },
+        {
+          "slide": 9,
+          "subject": "Curiosity",
+          "bytes": 173257,
+          "sha256": "afae6c5fd59abd380f78e7e014710fc07af8c5727ff2cf0433b80a4eb94c4629"
+        },
+        {
+          "slide": 10,
+          "subject": "Lesson",
+          "bytes": 185616,
+          "sha256": "99473169489809a03c698ee45aaa31d3d8b5537f8a5ba49f3a3c21f5417ee93e"
+        },
+        {
+          "slide": 11,
+          "subject": "Decision",
+          "bytes": 172594,
+          "sha256": "dd55a18add4c33f096fe254412ae0a19d565ad6343a18232d9763272569dee55"
+        }
+      ]
     }
   ]
 }

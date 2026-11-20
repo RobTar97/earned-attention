@@ -1,10 +1,20 @@
 # Hook library
 
-Use this library when writing several distinct openings, breaking out of a repeated hook, or replacing a weak opening. Start with the brief's viewer, voice, available proof, and body payoff. Pick the most relevant use case below. Adapt the line to the user's subject and phrasing, then plan the opening and the first useful beat. For production checks, see [short-form hooks](short-form-hooks.md).
+Use this library when writing several distinct openings, breaking out of a repeated hook, or replacing a weak opening. Make the selection from the brief first, then use one or two relevant examples to sharpen the idea. For production checks, see [short-form hooks](short-form-hooks.md).
 
 These are original, fictional examples that illustrate eight approaches from the supplied playbook. Each set shares one brief so the differences in approach are visible. Use the user's requested count and output format. For copy only, return the opening lines. Add the frame, label, and next beat when they help the user choose or shoot.
 
-Jump to [the starter index](#find-a-starting-point), [product examples](#product-demonstration), [software examples](#software-demonstration), [educational examples](#educational-or-creator-video), or [brand voice variants](#adapt-a-line-to-the-brand). Use the closest example's structure with the assets actually available in the brief.
+Jump to [the starter index](#find-a-starting-point), [product examples](#product-demonstration), [software examples](#software-demonstration), [educational examples](#educational-or-creator-video), or [brand voice variants](#adapt-a-line-to-the-brand). For storytelling and more examples by niche and goal, use [storytelling hooks by goal](storytelling-hooks.md).
+
+## Choose from the brief before writing
+
+1. **Define the job and payoff.** Identify who should care, what they should learn, feel, or decide, and what the existing body can deliver. A discovery hook should make the subject and audience recognizable. A lead or sales hook should help the right viewer understand fit, proof, and the next step.
+2. **Map the footage and proof.** Identify the usable first frame, the next beat, and what they actually establish. Distinguish inspected media, described media, feasible new capture, and missing material. Use an existing still, screen crop, caption, or available voiceover as appropriate. Treat a planned shot separately from ready-to-edit options. If the viewer cannot see or hear the evidence the hook depends on, replace the treatment or narrow the promise.
+3. **Turn the brand voice into delivery choices.** Prefer approved copy, representative project samples, or the user's explicit voice cues. Translate them into diction, sentence length, point of view, energy, and how much emotion or humor to use. Respect words and constructions the brand avoids. With no sample, use a provisional register that fits the brief. Ask for a sample or asset detail only if the answer would materially change the direction.
+4. **Filter, then recommend.** Keep options that can fulfill the promise with the available materials and intended voice. Within that set, choose the option that makes the goal clearest to the viewer and puts relevant proof or orientation earliest. For several options, vary the reason to watch or when the evidence appears. For one shared body, use the same promise and payoff. Explain the recommendation using a specific brand cue and asset when the requested format allows it.
+5. **Write original words.** Choose a mechanism from the library, close the example, then write from the brief's object, action, and stakes. Read the line aloud or as a muted overlay. If the same line could serve an unrelated brand after swapping one noun, rewrite it around a recognizable detail, phrasing cue, or on-screen action. For text-only or copy-only requests, apply the selection silently.
+
+A factual first-person story needs the actual speaker's experience. A customer story needs authorized facts and assets or a clearly identified reconstruction. With partial material, use a direct observation, a labeled example, or a present-tense demonstration that the project can deliver.
 
 ## Find a starting point
 

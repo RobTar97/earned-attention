@@ -44,7 +44,7 @@ State only material assumptions and proof gaps. This is a working read-back, not
 Read [hooks and copy](hooks-copy.md) before proposing the openings. Use [content principles](content-principles.md) for one-viewer relevance, concrete language, and useful progression. Read the other references selectively:
 
 - [Short-form hooks](short-form-hooks.md) for video opening options. Choose approaches that fit the brief and check each opening against its first useful beat. Add an on-screen label or sound cue to the options when it materially changes the creative.
-- [Hook library](hook-library.md) when offering options. Choose from the closest use case and adapt the opening, first frame, and payoff to the user's own brand and assets.
+- [Hook library](hook-library.md#choose-from-the-brief-before-writing) when selecting options. Establish a concrete voice cue, viable first frame, and supported payoff before reading sample lines. Draft original language from that material. Use [storytelling hooks by goal](storytelling-hooks.md) when the available material supports an actual story or process.
 - [Hook patterns](hook-patterns.md) when a genuine confession, experiment, counterexample, or lesson is available. Past-tense first-person claims require the speaker's actual experience; planned tests must sound planned.
 - [Evidence to angles](evidence-to-angles.md) when customer material needs interpretation or the proposed promise exceeds the proof.
 - [Psychology and brand](psychology-brand.md) for audience situations, brand cues, and brand-versus-sales objectives.
@@ -57,8 +57,8 @@ Default to three distinct, brand-matched hook directions, or follow the requeste
 Each option should contain:
 
 1. A short useful label and the actual opening words.
-2. A first-frame/action idea feasible with the available material.
-3. One concise reason it fits this viewer, brand voice, and goal.
+2. A first-frame/action idea feasible with a specific available asset. For silent edits, give the exact on-screen line.
+3. One concise reason it fits this viewer and goal, grounded in a specific brand cue such as pacing, diction, or emotional range.
 4. The proof or payoff the body must deliver, including any material missing asset.
 
 One compact table or three short cards is enough. Adapt the wording to the brand: a calm technical brand may use a precise diagnostic; a warm practical brand may use recognition and a useful action; a bold brand may use a supported contrast. These are options to judge in context, not rules predicting performance. Do not default to shock, shame, controversy, fabricated numbers, or false familiarity. When evidence cannot support a proposed direction, narrow it or mark it as conditional research—not a ready-to-film promise.
