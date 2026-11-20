@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Lead the README with a footage-first hook and an illustrated GIF that shows how a brand voice card and visible proof drive the choice.
+
 - Refresh the GitHub landing page with a shorter quick start, a visual storyboard, and task-based navigation through examples and references.
 
 - Add footage-first openings and a reusable project voice card, with source locators, evidence limits, scoped reuse, and user-directed updates.

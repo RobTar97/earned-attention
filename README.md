@@ -1,16 +1,18 @@
 # Earned Attention
 
-**An agent skill for short-form video hooks, scripts, and retention audits.**
+**You’ve got the footage. What do you open with?**
+
+Earned Attention finds a moment worth showing, writes a hook that sounds like your brand, and tells you where to cut next. It’s an agent skill for short-form video, from the first line to the edit plan.
 
 [![Validation](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml/badge.svg)](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml)
 [![MIT license](https://img.shields.io/badge/license-MIT-limegreen)](LICENSE)
 [![skills.sh](https://skills.sh/b/RobTar97/earned-attention)](https://skills.sh/RobTar97/earned-attention)
 
-Turn an idea, a rough script, or footage you already have into something you can film or edit. Use it for TikTok, Instagram Reels, YouTube Shorts, educational videos, and marketing copy.
+![An illustrated demo shows a checklist task without an owner, a voice card calling for short questions and plain words, and the selected hook “Who owns the kickoff?” The next cut shows Morgan assigned to the task.](docs/assets/hook-selection-demo.gif)
 
-[Quick start](#quick-start) · [Pick a workflow](#pick-a-workflow) · [See a sample](#see-a-sample) · [Documentation](#documentation)
+The clip shows an assignment. The voice card calls for short questions. **“Who owns the kickoff?”** fits both, and the next cut answers it.
 
-![Three illustrated stages show a source clip, opening choices, and a timed edit.](docs/assets/workflow-banner.webp)
+[Try it on your footage](#quick-start) · [Open the GIF](docs/assets/hook-selection-demo.gif) · [Read the demo](#see-a-sample)
 
 ## Quick start
 
@@ -20,19 +22,20 @@ Run this from your project and pick your agent when prompted.
 npx skills add RobTar97/earned-attention
 ```
 
-Then give your agent a task. This prompt works with an idea you’re still shaping.
+Attach a clip and point the agent to your project voice card. A few lines describing how you write also work.
 
 ```text
 Use psychological-content-strategy.
-Help me plan a short video for my brand.
-Ask the essential questions, then give me
-three hooks that fit my voice and
-available footage. Let me choose.
+Use my attached clip and project voice.
+Pick the first frame and write the hook.
+Show me where to cut next and why.
 ```
 
-In Codex, invoke it with `$psychological-content-strategy`. A complete brief can go straight to drafting. [Install for a specific agent, install globally, or troubleshoot](docs/installation.md).
+In Codex, invoke it with `$psychological-content-strategy`. [Start with an idea instead](docs/examples.md#start-with-guided-questions) · [Install for a specific agent or globally](docs/installation.md)
 
 ## Pick a workflow
+
+Write for TikTok, Instagram Reels, YouTube Shorts, or a longer educational video. You can also request copy, a script audit, or a focused retention test.
 
 | Start with | Get back | Try it |
 |---|---|---|
@@ -44,11 +47,17 @@ In Codex, invoke it with `$psychological-content-strategy`. A complete brief can
 
 ## See a sample
 
-Two approved checklist stills show a task changing from **Unassigned** to **Morgan**. Open with **“Who owns the kickoff?”**, then cut to the same crop on the assigned row. Hold both stills side by side for the payoff.
+The GIF illustrates a fictional checklist demo. The footage shows **Schedule kickoff** changing from **Unassigned** to **Morgan**. The project voice card says to use short questions and plain words.
+
+| Decision | Why it fits |
+|---|---|
+| Set aside “Run projects faster.” | The clip shows an assignment and supplies no timing evidence. |
+| Open with “Who owns the kickoff?” | A short, plain question gives the viewer a specific row to watch. |
+| Cut to Morgan in the same crop. | The visible change answers the question and leaves room to read the row. |
 
 ![A silent checklist storyboard opens on the unassigned task, cuts to Morgan in the same row, and holds the two stills side by side.](docs/assets/checklist-storyboard.webp)
 
-[Read the full handoff in text](docs/examples.md#15-pick-an-opening-from-stills) · [Browse all 44 worked hooks](skills/psychological-content-strategy/references/hook-library.md)
+[Read the stills-only handoff](docs/examples.md#15-pick-an-opening-from-stills) · [Browse all 44 worked hooks](skills/psychological-content-strategy/references/hook-library.md)
 
 ## Documentation
 

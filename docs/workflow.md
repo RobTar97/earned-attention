@@ -8,6 +8,8 @@
 
 Choose the viewer, goal, promise, and available proof. The brief determines the output, from three finished headlines to a script with editing directions.
 
+![Illustrated workflow showing a source clip, a hook selected from three options, and an edit with hook, proof, and payoff beats.](assets/workflow-banner.webp)
+
 ```mermaid
 flowchart LR
   A["Viewer, goal, and material"] --> B["Hook and early proof"]
