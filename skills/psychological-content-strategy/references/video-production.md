@@ -69,6 +69,8 @@ Record the payoff or result shot first when practical, so the promised proof act
 
 ## Voice and essential-shot feasibility
 
+Use [footage-first openings](footage-first.md) for source selection and source-time handoffs and [project brand voice cards](project-brand-voice.md) for reusable preferences and user-authorized updates.
+
 Use existing creator/brand samples to build a small voice card when needed: sample basis; rhythm; technical depth; characteristic transitions; uncertainty language; humor/emotional range; and constructions the speaker avoids. Keep personal experience separate from explanations of external facts. Without samples, identify the treatment as proposed; do not invent a verified creator voice or force catchphrases into every line.
 
 For each essential shot, identify the visual/action, asset status (`available`, `capturable`, or `missing`), supported claim, practical constraint, and fallback. Use actual footage when provided; otherwise state the capture plan. Narrow the claim, simplify the shot, or remove the beat when proof cannot be obtained. A generated reconstruction must not be presented as a recording of real product behavior or customer results. Use these fields in the existing beat notes or a short capture list rather than forcing an extra table into every task.

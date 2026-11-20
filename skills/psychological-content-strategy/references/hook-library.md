@@ -1,6 +1,6 @@
 # Hook library
 
-Use this library when writing several distinct openings, breaking out of a repeated hook, or replacing a weak opening. Make the selection from the brief first, then use one or two relevant examples to sharpen the idea. For production checks, see [short-form hooks](short-form-hooks.md).
+Use this library when writing several distinct openings, breaking out of a repeated hook, or replacing a weak opening. Make the selection from the brief first, then use one or two relevant examples to sharpen the idea. For real assets and a reusable voice, follow [footage-first openings](footage-first.md) and the [project brand voice card](project-brand-voice.md). For production checks, see [short-form hooks](short-form-hooks.md).
 
 These are original, fictional examples that illustrate eight approaches from the supplied playbook. Each set shares one brief so the differences in approach are visible. Use the user's requested count and output format. For copy only, return the opening lines. Add the frame, label, and next beat when they help the user choose or shoot.
 

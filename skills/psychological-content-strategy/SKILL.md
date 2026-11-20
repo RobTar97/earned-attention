@@ -46,6 +46,8 @@ Offer three reference-grounded, brand-matched hook directions by default, with a
 
 Read only the references needed for the task. Use [templates and examples](references/templates-examples.md) for a worked model or reusable output form. Read [sources and evidence](references/sources-evidence.md) before making scientific claims, quoting research, using numerical rules, or giving current platform advice.
 
+For media supplied for a video opening, script, or edit, use [footage-first openings](references/footage-first.md). Inspect scoped media when possible. Anchor the opening and next cut to a source clip/time, a still region, or a clearly labeled described action. For project voice, use [project brand voice cards](references/project-brand-voice.md). Reuse the matching card within the project, follow the current brief's voice, and write or update project notes only when requested.
+
 For customer material or uncertain buyer assumptions, use [evidence to angles](references/evidence-to-angles.md). Preserve observation, exact wording, translation, interpretation, and hypothesis separately. Accept a supplied traceable brief; do not require fresh research for a narrow edit or a complete approved brief. For prior outcomes and reusable lessons, use [commercial learning](references/commercial-learning.md); retrieve only records relevant to the current context.
 
 For short-form writing and editing, use [viewer-first content principles](references/content-principles.md) to sharpen relevance, perceived value versus effort, line-to-line progression, truthful specificity, and objection handling. These are flexible editorial priors, not mandatory formats or measured performance laws.

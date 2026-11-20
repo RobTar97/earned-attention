@@ -71,6 +71,8 @@ The [short-form hook guide](skills/psychological-content-strategy/references/sho
 
 The [hook library](skills/psychological-content-strategy/references/hook-library.md) helps the agent select openings using your brand voice, footage, and goal. It includes 24 worked openings, and [storytelling hooks by goal](skills/psychological-content-strategy/references/storytelling-hooks.md) adds 20 original examples for discovery, education, trust, and conversion. Each example pairs the opening with a first frame and the next useful beat.
 
+Give the agent footage or stills to get a source-linked opening, exact copy, and the next cut. Save a project voice card when you want the same approved phrasing and guardrails available across briefs. These workflows use project Markdown and the media inspection tools available to your agent. [Footage-first openings](skills/psychological-content-strategy/references/footage-first.md) · [Project brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md)
+
 The [five-phase educational-scriptwriting guide](skills/psychological-content-strategy/references/educational-scriptwriting.md) adds Foundation, Target, Structure, Draft, and Refine: packaging and shared value, research gaps, honest transformation, useful critique, causal transitions, and spoken rhythm. It scales those ideas to short and longer formats. The [supplied framework and transcript](skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is preserved separately for detailed reference.
 
 The [viewer-first content principles](skills/psychological-content-strategy/references/content-principles.md) help the agent write to one recognizable person, show useful value early, connect each line, use concrete evidence, and answer likely objections. They guide the writing silently; your requested output determines whether you get finished copy, a production plan, or an explained critique.
@@ -132,7 +134,7 @@ Timing is a production plan until rehearsed. See [Example prompts](docs/examples
 skills/psychological-content-strategy/
   SKILL.md                       # Main workflow and routing
   LICENSE                        # License travels with installed copies
-  references/                    # Seventeen focused guides + source fingerprints
+  references/                    # Nineteen focused guides + source fingerprints
     source-material/             # Supplied framework/transcript and attribution
 docs/                            # Human-facing documentation
 evals/                           # Initial tasks and focused workflow checks

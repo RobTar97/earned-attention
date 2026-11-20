@@ -19,6 +19,8 @@ Do not claim this is the user's first-ever use: there is no automatic onboarding
 
 Ask up to three short questions in a reply, in the user's language. Skip questions already answered. Offer concise choices with a free-text alternative, and let “undecided” be a useful answer. A host's question UI can help, but ordinary text questions must work too. Do not ask the user to choose technical framework names or complete a long marketing questionnaire.
 
+Read an applicable [project brand voice card](project-brand-voice.md) and inspect supplied media using [footage-first openings](footage-first.md) before asking for brand or asset details already available.
+
 For an empty first brief, a suitable opening is:
 
 > What would you like to make: a video script, hook options, a rewrite, or a content plan?

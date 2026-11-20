@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add footage-first openings and a reusable project voice card, with source locators, evidence limits, scoped reuse, and user-directed updates.
+
 - Adapt ten storytelling approaches from the supplied gallery and add 20 original niche examples. Select hooks from brand voice, footage, and payoff before drafting from the brief.
 
 - Add a hook library with 24 original worked openings across product, software, and educational videos. Use it for hook menus, opening rewrites, and copy options.
