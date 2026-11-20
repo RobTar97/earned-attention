@@ -1,6 +1,16 @@
 # Example prompts
 
+[Home](../README.md) · [Installation](installation.md) · [Workflow and references](workflow.md)
+
 Replace the fictional products and constraints with your real information. Explicitly naming the skill is useful when your agent has several overlapping marketing skills.
+
+| If you want to… | Jump to a prompt |
+|---|---|
+| Start with an idea or a voice | [Guided questions](#start-with-guided-questions) · [Spoken copy](#9-replace-generic-hype-with-finished-spoken-copy) |
+| Make hooks from footage or a real story | [Match an opening to footage](#14-develop-an-opening-the-footage-can-support) · [Choose an opening from stills](#15-pick-an-opening-from-stills) · [Turn a true story into hooks](#8-turn-one-true-story-into-four-hook-angles) |
+| Write or improve a video | [Product Reel](#1-create-a-product-demo-reel) · [Rewrite a Short](#2-repair-a-weak-educational-short) · [Tutorial outline](#7-plan-an-educational-video-without-replacing-the-author) · [Platform adaptations](#6-adapt-one-concept-across-platforms) |
+| Develop copy, ads, or a campaign | [Headlines and catchcopy](#4-write-concise-headlines-and-catchcopy) · [Proof-led ad](#10-make-a-proof-led-product-ad) · [Brand and trial campaign](#5-plan-a-small-brand-and-trial-campaign) |
+| Work from data and customer evidence | [Retention chart](#3-interpret-a-retention-chart) · [Paid creative report](#11-audit-a-paid-creative-report) · [Customer evidence](#12-build-angles-from-bounded-customer-evidence) · [Lead quality](#13-diagnose-lead-quality-and-preserve-a-useful-lesson) |
 
 ## Start with guided questions
 
@@ -221,6 +231,26 @@ useful beat. Recommend one and let me pick before writing the script.
 ```
 
 Expect the hook options to stay close to the footage and its limits. A shot of the drawer opening after a repair supports a lesson about that drawer. When the cause remains uncertain, give viewers a check they can use. [Short-form hook guide](../skills/psychological-content-strategy/references/short-form-hooks.md).
+
+## 15. Pick an opening from stills
+
+```text
+Use psychological-content-strategy to plan a silent short for
+agency team leads. I have two approved screenshots of one checklist.
+“Schedule kickoff” is unassigned in the first and assigned to Morgan
+in the second. Use our dry, practical project voice and the stills
+only. Give me the exact overlay, crop, first cut, and payoff.
+```
+
+**Example handoff** for the fictional brief:
+
+| Beat | What to show | What the viewer reads |
+|---|---|---|
+| Opening | Crop the first still around **Schedule kickoff → Unassigned** | “Who owns the kickoff?” |
+| First cut | Match that crop on the second still so **Morgan** appears in the same place | Clear the question and hold the assigned row |
+| Payoff | Show both rows side by side, labelled **Before** and **After** | “Check who owns the kickoff before you share the list.” |
+
+Give the viewer time to read on a phone. The stills establish the visible assignment. They supply no evidence of how the assignment was made. [Footage-first guide](../skills/psychological-content-strategy/references/footage-first.md) · [Project voice card](../skills/psychological-content-strategy/references/project-brand-voice.md)
 
 ## A reusable brief
 

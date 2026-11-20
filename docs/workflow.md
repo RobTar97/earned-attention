@@ -1,10 +1,20 @@
 # Workflow and reference map
 
+[Home](../README.md) · [Installation](installation.md) · [Example prompts](examples.md) · [Evidence](evidence.md)
+
+[Creative choices](#guided-start-and-creative-choice) · [Reference map](#reference-map) · [Scope](#boundaries)
+
 ## The asset's job comes first
 
-The skill begins by identifying the viewer, their situation, the promised value, available proof, and intended next step. It then chooses an output mode. A three-headline request stays small; a script receives a production handoff; a campaign receives a practical matrix.
+Choose the viewer, goal, promise, and available proof. The brief determines the output, from three finished headlines to a script with editing directions.
 
-Write with one person and their existing knowledge in mind. Content principles shape the creative silently: make value visible, connect adjacent lines, use supported detail, and address a likely objection where it arises. Templates remain optional scaffolds. An explicit request for spoken copy only takes priority over the default beat table; an audit can explain its reasoning.
+```mermaid
+flowchart LR
+  A["Viewer, goal, and material"] --> B["Hook and early proof"]
+  B --> C["Script or edit"]
+  C --> D["Payoff and next step"]
+  D --> E["Review and test"]
+```
 
 ## Guided start and creative choice
 
@@ -39,31 +49,48 @@ The instructions translate practical models into observable creative choices:
 
 These are planning tools and testable hypotheses. Exact scientific effects require their original evidence; psychological vocabulary does not establish brain control or guaranteed persuasion.
 
-## Reference loading
+## Reference map
 
 The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.md) and reads only the relevant guides. This keeps small tasks from absorbing the entire playbook.
 
+### Brief, voice, and research
+
 | Reference | Use it for |
 |---|---|
-| [Guided intake and hook choices](../skills/psychological-content-strategy/references/guided-intake.md) | Short first-use/partial-brief questions, brand-matched hook menus, recommendations, choice versus direct-drafting routes, and context reuse |
-| [Short-form hooks](../skills/psychological-content-strategy/references/short-form-hooks.md) | Eight opening approaches, coordinated picture/speech/text, the first useful beat, endings, and a hook audit |
-| [Hook library](../skills/psychological-content-strategy/references/hook-library.md) | Select by brand voice, available proof and intended payoff, with 24 worked openings |
-| [Footage-first openings](../skills/psychological-content-strategy/references/footage-first.md) | Inspect candidate moments and hand off the source locator, supported claim, crop, opening line, and next cut |
-| [Project brand voice card](../skills/psychological-content-strategy/references/project-brand-voice.md) | Reuse project-specific approved language, honor one-off instructions, and save changes when requested |
-| [Storytelling hooks by goal](../skills/psychological-content-strategy/references/storytelling-hooks.md) | Ten story types and 20 original worked examples for discovery, education, trust, and conversion |
-| [Evidence to angles](../skills/psychological-content-strategy/references/evidence-to-angles.md) | Bounded customer-source analysis, claim register, distinct angles, proof/production feasibility, and project-storage boundaries |
-| [Commercial learning](../skills/psychological-content-strategy/references/commercial-learning.md) | Qualified-lead diagnosis, contribution assumptions, attribution/causality distinctions, bounded lessons, and context-aware retrieval |
-| [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | One-viewer voice, value versus effort, line handoffs, specific evidence, relevant objections, and meaningful visual beats |
-| [Short-form optimization](../skills/psychological-content-strategy/references/short-form-optimization.md) | Master Blueprint adaptation: PAS/BAB/AIDA/FAB/4Ps, format/proof selection, three-channel evidence, honest native presentation, and social usefulness |
-| [Progressive story arcs](../skills/psychological-content-strategy/references/story-arcs.md) | Supplied video study: rapid context, meaningful local answers, consequence, deliberate release, and complete payoff |
-| [Psychology and brand](../skills/psychological-content-strategy/references/psychology-brand.md) | Mechanisms, customer narrative, buying cues, distinctive assets, contextual brand/activation mix |
-| [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Hook families, headline/cover alignment, copy structures, CTAs, optional Japanese adaptation |
-| [Hook patterns and creative study](../skills/psychological-content-strategy/references/hook-patterns.md) | 24 confession, experiment, contrarian, and lesson starters; truth/proof requirements; deliberate creative analysis |
-| [Video production](../skills/psychological-content-strategy/references/video-production.md) | Timing, meaningful beats/cuts, framing, captions, sound, capture and QA |
-| [Educational scriptwriting](../skills/psychological-content-strategy/references/educational-scriptwriting.md) | Five phases, shared learning value, research gaps, transformation, outline critique, causal flow, rhythm, and short/long adaptation |
-| [Analytics and testing](../skills/psychological-content-strategy/references/analytics-testing.md) | Retention interpretation, paid metric dictionary, funnel diagnosis, matched baselines, denominators, experiments |
-| [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Briefs, handoffs, finished examples, campaign matrix |
-| [Sources and evidence](../skills/psychological-content-strategy/references/sources-evidence.md) | Provenance, qualified claims, primary sources, current verification |
+| [Guided intake and hook choices](../skills/psychological-content-strategy/references/guided-intake.md) | Close the gaps in a brief and choose how to collaborate |
+| [Project brand voice card](../skills/psychological-content-strategy/references/project-brand-voice.md) | Reuse approved language in one project and handle one-off directions |
+| [Evidence to angles](../skills/psychological-content-strategy/references/evidence-to-angles.md) | Trace creative angles and eligible claims back to customer evidence |
+| [Psychology and brand](../skills/psychological-content-strategy/references/psychology-brand.md) | Use buying cues, customer narrative, and distinctive brand assets |
+
+### Hooks and copy
+
+| Reference | Use it for |
+|---|---|
+| [Hook library](../skills/psychological-content-strategy/references/hook-library.md) | Choose by brand, available proof, and payoff. Includes 24 worked openings |
+| [Storytelling hooks by goal](../skills/psychological-content-strategy/references/storytelling-hooks.md) | Explore ten story types with 20 examples for discovery through conversion |
+| [Hook patterns and creative study](../skills/psychological-content-strategy/references/hook-patterns.md) | Adapt 24 starters for confessions, experiments, counterexamples, and lessons |
+| [Short-form hooks](../skills/psychological-content-strategy/references/short-form-hooks.md) | Align picture, speech, text, and the first useful beat |
+| [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Write headlines, covers, body copy, and CTAs, including Japanese adaptations |
+| [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | Check clarity, relevance, line progression, and concrete evidence |
+
+### Scripts and editing
+
+| Reference | Use it for |
+|---|---|
+| [Footage-first openings](../skills/psychological-content-strategy/references/footage-first.md) | Identify a source moment, crop, exact opening, and next cut |
+| [Video production](../skills/psychological-content-strategy/references/video-production.md) | Plan timing, cuts, framing, captions, sound, and capture |
+| [Short-form optimization](../skills/psychological-content-strategy/references/short-form-optimization.md) | Choose an ad or demo structure suited to visible proof |
+| [Progressive story arcs](../skills/psychological-content-strategy/references/story-arcs.md) | Build tension and deliver useful answers throughout the script |
+| [Educational scriptwriting](../skills/psychological-content-strategy/references/educational-scriptwriting.md) | Plan and refine a tutorial around what the viewer will learn to do |
+| [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Find brief, script, production handoff, and campaign templates |
+
+### Measurement and sources
+
+| Reference | Use it for |
+|---|---|
+| [Analytics and testing](../skills/psychological-content-strategy/references/analytics-testing.md) | Interpret retention and paid metrics, then design a test |
+| [Commercial learning](../skills/psychological-content-strategy/references/commercial-learning.md) | Diagnose qualified leads and record lessons with their context |
+| [Sources and evidence](../skills/psychological-content-strategy/references/sources-evidence.md) | Check provenance, primary sources, and claim limits |
 
 The [supplied scriptwriting framework/transcript](../skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is available for original wording and scene analysis. Normal tasks use the adapted guide rather than loading the full transcript. Source opinions and satire do not override the user's requested collaboration mode.
 

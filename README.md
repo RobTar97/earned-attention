@@ -1,160 +1,63 @@
 # Earned Attention
 
-**Hooks, scripts, copy, and retention audits for AI agents.**
+**An agent skill for short-form video hooks, scripts, and retention audits.**
 
-[![Validate](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml/badge.svg)](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml)
-[![MIT License](https://img.shields.io/badge/license-MIT-limegreen)](LICENSE)
+[![Validation](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml/badge.svg)](https://github.com/RobTar97/earned-attention/actions/workflows/validate.yml)
+[![MIT license](https://img.shields.io/badge/license-MIT-limegreen)](LICENSE)
 [![skills.sh](https://skills.sh/b/RobTar97/earned-attention)](https://skills.sh/RobTar97/earned-attention)
 
-Turn an idea or a weak draft into content a viewer has a reason to watch—and a payoff worth staying for.
+Turn an idea, a rough script, or footage you already have into something you can film or edit. Use it for TikTok, Instagram Reels, YouTube Shorts, educational videos, and marketing copy.
 
-Earned Attention is a reusable agent skill for TikTok, Instagram Reels, YouTube Shorts, educational YouTube videos, marketing copy, and content planning. It combines audience psychology with concrete scripting, production decisions, and honest measurement. Give your agent a brief, script, outline, or retention data; get creative you can use and a focused next experiment.
+[Quick start](#quick-start) · [Pick a workflow](#pick-a-workflow) · [See a sample](#see-a-sample) · [Documentation](#documentation)
 
-## Install
+![Three illustrated stages show a source clip, opening choices, and a timed edit.](docs/assets/workflow-banner.webp)
 
-```bash
-npx skills add RobTar97/earned-attention --skill psychological-content-strategy
-```
+## Quick start
 
-Choose your agent in the installer. For a project installation targeting Codex directly:
+Run this from your project and pick your agent when prompted.
 
 ```bash
-npx skills add RobTar97/earned-attention --skill psychological-content-strategy --agent codex
+npx skills add RobTar97/earned-attention
 ```
 
-The npm [`skills` CLI](https://www.npmjs.com/package/skills) downloads the skill from this GitHub repository. The command and layout follow the [official CLI documentation](https://skills.sh/docs/cli) and [upstream skill format](https://github.com/vercel-labs/skills#creating-skills).
-
-Need global installation, Claude Code, Windows copy mode, updates, or troubleshooting? Read [Installation](docs/installation.md).
-
-## Try it
-
-Starting without a brief? Try:
+Then give your agent a task. This prompt works with an idea you’re still shaping.
 
 ```text
-Use psychological-content-strategy. Help me get started with a video
-for my brand. Ask what matters, then show me three hook directions
-that fit my audience and voice before we choose one.
+Use psychological-content-strategy.
+Help me plan a short video for my brand.
+Ask the essential questions, then give me
+three hooks that fit my voice and
+available footage. Let me choose.
 ```
 
-The agent asks up to three focused questions at a time, reuses your answers, and builds a short working brief. Hook choices include real opening words, a first-frame idea, why they fit, and the proof/payoff needed. It recommends a direction and waits when you ask to choose together. A complete brief can go straight to drafting:
+In Codex, invoke it with `$psychological-content-strategy`. A complete brief can go straight to drafting. [Install for a specific agent, install globally, or troubleshoot](docs/installation.md).
 
-```text
-Use psychological-content-strategy to write a 30-second Reel for a
-project checklist app. It saves and reuses checklists; it does not
-automate tasks. Audience: small agency team leads. Give three hook
-angles, a timed script, screen-demo directions, and one free-trial CTA.
-```
+## Pick a workflow
 
-In Codex, you can explicitly invoke `$psychological-content-strategy`. Invocation and automatic discovery vary by agent; the installed skill's name and description help the agent select it.
+| Start with | Get back | Try it |
+|---|---|---|
+| A rough idea or a brief | Hook options, a recommendation, or a timed script | [Guided start](docs/examples.md#start-with-guided-questions) · [Product Reel](docs/examples.md#1-create-a-product-demo-reel) |
+| Clips or stills | An opening sourced to a clip time or still, with copy, crop, and the next cut | [Footage-first example](docs/examples.md#15-pick-an-opening-from-stills) |
+| A brand voice to reuse across briefs in one project | A project card with approved lines and voice cues | [Brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md) |
+| A draft or retention data | A prioritised rewrite or a test of one plausible cause | [Rewrite a Short](docs/examples.md#2-repair-a-weak-educational-short) · [Read a retention chart](docs/examples.md#3-interpret-a-retention-chart) |
+| Customer notes, an offer, or a content goal | Supported creative angles, finished copy, or a content plan | [Discover angles](docs/examples.md#12-build-angles-from-bounded-customer-evidence) · [Write copy](docs/examples.md#4-write-concise-headlines-and-catchcopy) |
 
-Provide the audience, desired outcome, available proof, and production limits. The skill works with partial briefs, but it labels assumptions and missing evidence rather than inventing features or results.
+## See a sample
 
-## What you get
+Two approved checklist stills show a task changing from **Unassigned** to **Morgan**. Open with **“Who owns the kickoff?”**, then cut to the same crop on the assigned row. Hold both stills side by side for the payoff.
 
-| Request | Deliverable |
-|---|---|
-| Help me get started | Short intake, working brief, three brand-matched hook directions, and a recommendation before the requested next step |
-| Find angles from customer material | Source-linked findings, scoped claim register, distinct angles, proof requirements, and remaining unknowns |
-| Create a short | Distinct hook angles, a selected opening, timed beat table, capture/edit notes, and one test |
-| Plan or write an educational video | Learning contract, research gaps, audience depth, Point A → Point B arc, causal outline or requested script |
-| Improve a draft | Prioritized problems tied to the supplied evidence, followed by a complete rewrite |
-| Write copy | Headlines, catchcopy, captions, or sales copy matched to audience awareness and voice |
-| Diagnose retention | Observations, plausible explanations, evidence gaps, and a controlled-variable experiment |
-| Diagnose lead quality or reuse account lessons | Stage-specific hypotheses, supported contribution limits, contextual learning records, and a bounded next step |
-| Plan a series | Audience moments, useful messages, proof, brand cues, CTAs, and separate recognition/acquisition measures |
+![A silent checklist storyboard opens on the unassigned task, cuts to Morgan in the same row, and holds the two stills side by side.](docs/assets/checklist-storyboard.webp)
 
-English is supported by default; Japanese catchcopy and localization guidance are available when requested. Examples include product demonstrations, educational Shorts, project-checklist copy, and brand/trial content plans.
-
-The [hook-pattern guide](skills/psychological-content-strategy/references/hook-patterns.md) adds 24 confession, experiment, contrarian, and lesson starters, with truth requirements, matching payoffs, and a method for studying successful creative.
-
-The [short-form hook guide](skills/psychological-content-strategy/references/short-form-hooks.md) adds eight ways to open a video, a practical check for how picture, speech, and text work together, and a method for getting from the hook to the first useful beat. It also covers clean endings, optional replay transitions, and editorial review before filming.
-
-The [hook library](skills/psychological-content-strategy/references/hook-library.md) helps the agent select openings using your brand voice, footage, and goal. It includes 24 worked openings, and [storytelling hooks by goal](skills/psychological-content-strategy/references/storytelling-hooks.md) adds 20 original examples for discovery, education, trust, and conversion. Each example pairs the opening with a first frame and the next useful beat.
-
-Give the agent footage or stills to get a source-linked opening, exact copy, and the next cut. Save a project voice card when you want the same approved phrasing and guardrails available across briefs. These workflows use project Markdown and the media inspection tools available to your agent. [Footage-first openings](skills/psychological-content-strategy/references/footage-first.md) · [Project brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md)
-
-The [five-phase educational-scriptwriting guide](skills/psychological-content-strategy/references/educational-scriptwriting.md) adds Foundation, Target, Structure, Draft, and Refine: packaging and shared value, research gaps, honest transformation, useful critique, causal transitions, and spoken rhythm. It scales those ideas to short and longer formats. The [supplied framework and transcript](skills/psychological-content-strategy/references/source-material/viral_scriptwriting_framework_and_transcript.md) is preserved separately for detailed reference.
-
-The [viewer-first content principles](skills/psychological-content-strategy/references/content-principles.md) help the agent write to one recognizable person, show useful value early, connect each line, use concrete evidence, and answer likely objections. They guide the writing silently; your requested output determines whether you get finished copy, a production plan, or an explained critique.
-
-The [Master Blueprint adaptation](skills/psychological-content-strategy/references/short-form-optimization.md) connects PAS, BAB, AIDA, FAB, and Picture/Promise/Proof/Push to visible evidence, honest presenter roles, useful sharing, and paid-funnel diagnosis. [Progressive story arcs](skills/psychological-content-strategy/references/story-arcs.md) add rapid context and meaningful mini payoffs from the supplied video. The [metric dictionary](skills/psychological-content-strategy/references/analytics-testing.md#paid-creative-metric-dictionary) names each denominator instead of treating source benchmark tables as universal targets.
-
-## How it works
-
-The [guided-intake workflow](skills/psychological-content-strategy/references/guided-intake.md) helps a new user specify the deliverable, viewer, goal, voice, and available material. It loads the relevant hook, brand, and evidence references to shape concrete choices. You can choose a direction, combine options, or ask the agent to choose and write. Complete briefs and small copy requests skip unnecessary intake.
-
-The [evidence-to-angle workflow](skills/psychological-content-strategy/references/evidence-to-angles.md) connects customer observations to supportable claims and genuinely different creative concepts. The [commercial-learning guide](skills/psychological-content-strategy/references/commercial-learning.md) keeps qualified outcomes, contribution assumptions, attribution, and reusable lessons separate. Voice cards and essential-shot availability/fallback checks extend the existing production guide. Real customer/account records stay in project storage; the installed skill contains empty templates and fictional examples.
-
-```mermaid
-flowchart LR
-  A[Audience and situation] --> B[Credible promise]
-  B --> C[Early proof]
-  C --> D[Meaningful progress]
-  D --> E[Complete payoff]
-  E --> F[Useful next step]
-  F --> G[Measure and test]
-  G --> B
-```
-
-1. Understand the viewer's situation and the asset's job.
-2. Choose a relevant message and an answerable curiosity gap.
-3. Match the first frame, spoken opening, headline, and sound.
-4. Deliver proof and small payoffs through meaningful beats.
-5. Make editing, captions, and audio support understanding.
-6. Connect the ending to one appropriate next step.
-7. Test the largest uncertainty with clear measures and guardrails.
-
-The skill uses psychology to improve relevance, clarity, trust, and memory. It qualifies numerical rules, avoids invented evidence, and treats retention-curve patterns as hypotheses. It does not promise virality or neurochemical effects from editing.
-
-## A sample output
-
-For a 30-second demonstration, expect a table like this, expanded into shootable beats:
-
-| Time | Spoken line | Visual/proof | On-screen copy | Audio/edit | Purpose |
-|---|---|---|---|---|---|
-| 0–3 | A specific, supported promise | Show the actual output | One clear headline | Voice starts immediately | Relevance and proof |
-| 3–22 | Explain the workflow in useful steps | Demonstrate the real controls | Progress labels | Cut on meaningful change | Comprehension and progress |
-| 22–27 | State the completed result | Hold the finished example | Concise takeaway | Give the result reading time | Payoff |
-| 27–30 | One appropriate action | Clear destination or next step | One CTA | Simple ending | Action |
-
-Timing is a production plan until rehearsed. See [Example prompts](docs/examples.md) and the [worked examples](skills/psychological-content-strategy/references/templates-examples.md).
+[Read the full handoff in text](docs/examples.md#15-pick-an-opening-from-stills) · [Browse all 44 worked hooks](skills/psychological-content-strategy/references/hook-library.md)
 
 ## Documentation
 
-- [Installation](docs/installation.md): install, inspect, update, remove, and troubleshoot.
-- [Example prompts](docs/examples.md): practical briefs for each mode.
-- [Workflow and reference map](docs/workflow.md): what the agent reads and returns.
-- [Evidence and evaluations](docs/evidence.md): source provenance, qualifications, and testing limits.
-- [Skill instructions](skills/psychological-content-strategy/SKILL.md): the complete agent workflow.
-- [Contributing](CONTRIBUTING.md): improve the skill, docs, and examples.
+| I want to… | Read |
+|---|---|
+| Install, update, or remove the skill | [Installation](docs/installation.md) |
+| Copy a prompt for a specific task | [Example prompts](docs/examples.md) |
+| Understand how the agent chooses and writes | [Workflow and reference map](docs/workflow.md) |
+| Inspect the checks and source material | [Evidence and evaluations](docs/evidence.md) |
+| Read or improve the skill | [SKILL.md](skills/psychological-content-strategy/SKILL.md) · [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md) |
 
-## Repository layout
-
-```text
-skills/psychological-content-strategy/
-  SKILL.md                       # Main workflow and routing
-  LICENSE                        # License travels with installed copies
-  references/                    # Nineteen focused guides + source fingerprints
-    source-material/             # Supplied framework/transcript and attribution
-docs/                            # Human-facing documentation
-evals/                           # Initial tasks and focused workflow checks
-scripts/validate.py              # Dependency-free structural validation
-skills.sh.json                   # Catalog display configuration
-```
-
-The runtime skill consists of Markdown, a source-provenance JSON file, and its license. It has no required API keys, application dependency, or executable runtime code. Browsing or media tools are used only when the requested task needs them. Actual recording, rendering, and publishing use a separate authorized workflow.
-
-## Validation
-
-```bash
-python scripts/validate.py
-npx skills add . --list
-```
-
-The initial version was checked with three task pairs: product-demo scripting, retention audit/rewrite, and bilingual copy with a brand/acquisition plan. The skill-assisted responses passed 24/24 workflow expectations; the baseline passed 22/24. These small, author-graded checks demonstrate specified behavior, not measured audience retention or conversion lift. Details are in [Evidence and evaluations](docs/evidence.md).
-
-## License and attribution
-
-[MIT](LICENSE), for this repository's original skill instructions, synthesis, documentation, and examples. Linked studies, books, platform documentation, and source materials remain subject to their respective rights and terms. The original supplied playbooks are acknowledged in [source notes](skills/psychological-content-strategy/references/sources-evidence.md) and are not redistributed in full.
-
-Maintained by [RobTar97](https://github.com/RobTar97). See [CHANGELOG.md](CHANGELOG.md) for releases.
+[MIT license](LICENSE) for original project material. See [source notes](skills/psychological-content-strategy/references/sources-evidence.md) for attribution.

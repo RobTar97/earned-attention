@@ -1,5 +1,7 @@
 # Evidence and evaluations
 
+[Home](../README.md) · [Example prompts](examples.md) · [Workflow and references](workflow.md)
+
 ## Source provenance
 
 The skill is an original practical synthesis of two supplied Markdown playbooks:

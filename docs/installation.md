@@ -1,5 +1,7 @@
 # Installation
 
+[Home](../README.md) · [Example prompts](examples.md) · [Workflow and references](workflow.md)
+
 ## Requirements
 
 Use Node.js and npm plus Git to install from GitHub. This guide was verified with `skills` **1.7.6** on **2026-11-06**; that npm release declares Node.js **22.20.0 or newer**. Check the [npm package metadata](https://www.npmjs.com/package/skills) for the requirements of a newer release.

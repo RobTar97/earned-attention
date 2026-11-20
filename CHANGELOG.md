@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Refresh the GitHub landing page with a shorter quick start, a visual storyboard, and task-based navigation through examples and references.
+
 - Add footage-first openings and a reusable project voice card, with source locators, evidence limits, scoped reuse, and user-directed updates.
 
 - Adapt ten storytelling approaches from the supplied gallery and add 20 original niche examples. Select hooks from brand voice, footage, and payoff before drafting from the brief.
