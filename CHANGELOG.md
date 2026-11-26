@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add a Kitehem demo GIF showing why the weave reveal was selected and how one shot supports English and Japanese openings.
+
 - Add a complete English and Japanese utility-led example with three hook options, timed edits, and a sample request CTA.
 
 - Add utility-led scripts that turn observations into practical checks, connect a relevant offer to demonstrated value, and match the CTA to verified availability.

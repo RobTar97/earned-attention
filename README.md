@@ -41,7 +41,7 @@ Write for TikTok, Instagram Reels, YouTube Shorts, or a longer educational video
 |---|---|---|
 | A rough idea or a brief | Hook options, a recommendation, or a timed script | [Guided start](docs/examples.md#start-with-guided-questions) · [Product Reel](docs/examples.md#1-create-a-product-demo-reel) |
 | Clips or stills | An opening sourced to a clip time or still, with copy, crop, and the next cut | [Footage-first example](docs/examples.md#15-pick-an-opening-from-stills) |
-| A useful tip and a relevant offer | Three hooks and a timed edit that delivers the tip before the invitation | [Worked example in English and Japanese](skills/psychological-content-strategy/references/utility-led-worked-example.md) |
+| A useful tip and a relevant offer | Three hooks and a timed edit that delivers the tip before the invitation | [Watch the bilingual example](#one-swatch-two-languages) |
 | A brand voice to reuse across briefs in one project | A project card with approved lines and voice cues | [Brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md) |
 | A draft or retention data | A prioritised rewrite or a test of one plausible cause | [Rewrite a Short](docs/examples.md#2-repair-a-weak-educational-short) · [Read a retention chart](docs/examples.md#3-interpret-a-retention-chart) |
 | Customer notes, an offer, or a content goal | Supported creative angles, finished copy, or a content plan | [Discover angles](docs/examples.md#12-build-angles-from-bounded-customer-evidence) · [Write copy](docs/examples.md#4-write-concise-headlines-and-catchcopy) |
@@ -59,6 +59,18 @@ The GIF illustrates a fictional checklist demo. The footage shows **Schedule kic
 ![A silent checklist storyboard opens on the unassigned task, cuts to Morgan in the same row, and holds the two stills side by side.](docs/assets/checklist-storyboard.webp)
 
 [Read the stills-only handoff](docs/examples.md#15-pick-an-opening-from-stills) · [Browse all 44 worked hooks](skills/psychological-content-strategy/references/hook-library.md)
+
+### One swatch, two languages
+
+In Kitehem Studio’s fictional curtain demo, the backing card slides away and daylight makes the weave easier to see. We picked that close-up because the shot proves the point and a short observation suits the studio’s helpful voice. Both versions use the same shot.
+
+![Illustrated Kitehem demo. The backing card slides away, revealing the weave in daylight. The chosen opening plays over two identical views of the swatch with English and Japanese lines.](docs/assets/kitehem-bilingual-demo.gif)
+
+**English:** “Same fabric. Look at the weave in the light.”
+
+**日本語**　「同じ生地です。光を通すと、織り目が見えてきます。」
+
+[Open the GIF](docs/assets/kitehem-bilingual-demo.gif) · [Read both 26-second scripts and the other hook options](skills/psychological-content-strategy/references/utility-led-worked-example.md)
 
 ## Documentation
 
