@@ -1,5 +1,7 @@
 # Earned Attention
 
+**English** · [日本語](README.ja.md)
+
 **You’ve got the footage. What do you open with?**
 
 Earned Attention finds a moment worth showing, writes a hook that sounds like your brand, and tells you where to cut next. It’s an agent skill for short-form video, from the first line to the edit plan.
