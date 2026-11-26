@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add Japanese narration and captions to all three Shorts scripts, with bilingual storyboard GIFs using the same shots.
+
 - Add three complete Shorts scripts and animated storyboards for curiosity, recognition, and contrast.
 
 - Add four psychology reframes for hooks, comparisons, and CTAs, with before-and-after GIFs bundled in the skill.
