@@ -116,6 +116,20 @@
       ]
     },
     {
+      "title": "The Non-Ad Hook & Scripting Playbook: Behavioral Psychology to Production Scripts",
+      "type": "supplied-utility-led-scripting-playbook",
+      "added_date": "2026-11-26",
+      "bytes": 38885,
+      "sha256": "c5093ad98c697ba61b982642a96cb2cf124815bbe414e2c17cee60900659f4ee",
+      "original_bundled": false,
+      "authorship_verified": false,
+      "adapted_references": [
+        "utility-led-scripting.md",
+        "short-form-optimization.md",
+        "hook-library.md"
+      ]
+    },
+    {
       "filename": "deep-research-report.md",
       "added_date": "2026-11-06",
       "bytes": 22315,

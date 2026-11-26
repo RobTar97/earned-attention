@@ -9,7 +9,7 @@ Replace the fictional products and constraints with your real information. Expli
 | Start with an idea or a voice | [Guided questions](#start-with-guided-questions) · [Spoken copy](#9-replace-generic-hype-with-finished-spoken-copy) |
 | Make hooks from footage or a real story | [Match an opening to footage](#14-develop-an-opening-the-footage-can-support) · [Choose an opening from stills](#15-pick-an-opening-from-stills) · [Turn a true story into hooks](#8-turn-one-true-story-into-four-hook-angles) |
 | Write or improve a video | [Product Reel](#1-create-a-product-demo-reel) · [Rewrite a Short](#2-repair-a-weak-educational-short) · [Tutorial outline](#7-plan-an-educational-video-without-replacing-the-author) · [Platform adaptations](#6-adapt-one-concept-across-platforms) |
-| Develop copy, ads, or a campaign | [Headlines and catchcopy](#4-write-concise-headlines-and-catchcopy) · [Proof-led ad](#10-make-a-proof-led-product-ad) · [Brand and trial campaign](#5-plan-a-small-brand-and-trial-campaign) |
+| Develop copy, ads, or a campaign | [Headlines and catchcopy](#4-write-concise-headlines-and-catchcopy) · [Proof-led ad](#10-make-a-proof-led-product-ad) · [Teach first, then make an offer](#16-teach-first-then-make-an-offer) · [Brand and trial campaign](#5-plan-a-small-brand-and-trial-campaign) |
 | Work from data and customer evidence | [Retention chart](#3-interpret-a-retention-chart) · [Paid creative report](#11-audit-a-paid-creative-report) · [Customer evidence](#12-build-angles-from-bounded-customer-evidence) · [Lead quality](#13-diagnose-lead-quality-and-preserve-a-useful-lesson) |
 
 ## Start with guided questions
@@ -251,6 +251,19 @@ only. Give me the exact overlay, crop, first cut, and payoff.
 | Payoff | Show both rows side by side, labelled **Before** and **After** | “Check who owns the kickoff before you share the list.” |
 
 Give the viewer time to read on a phone. The stills establish the visible assignment. They supply no evidence of how the assignment was made. [Footage-first guide](../skills/psychological-content-strategy/references/footage-first.md) · [Project voice card](../skills/psychological-content-strategy/references/project-brand-voice.md)
+
+## 16. Teach first, then make an offer
+
+```text
+Use psychological-content-strategy for a short from our print shop.
+I can show two label samples under the same counter light, then
+turn the jar until the lettering reads clearly. Teach one check a
+viewer can try with any label. Mention our new finishes after the
+check. The only live action is email signup for launch updates.
+Give the hook, the proof shot, the close, and a matching caption.
+```
+
+Expect a useful check under the shown conditions and a clear invitation to get updates. The clip supports what the angle and lighting reveal on the sample. [Utility-led guide](../skills/psychological-content-strategy/references/utility-led-scripting.md)
 
 ## A reusable brief
 

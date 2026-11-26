@@ -6,6 +6,8 @@ These are original, fictional examples that illustrate eight approaches from the
 
 Jump to [the starter index](#find-a-starting-point), [product examples](#product-demonstration), [software examples](#software-demonstration), [educational examples](#educational-or-creator-video), or [brand voice variants](#adapt-a-line-to-the-brand). For storytelling and more examples by niche and goal, use [storytelling hooks by goal](storytelling-hooks.md).
 
+If an unusual fact, comparison, or mistake leads into a lesson or offer, use [utility-led scripting](utility-led-scripting.md) to scope the observation and pay off the useful check.
+
 ## Choose from the brief before writing
 
 1. **Define the job and payoff.** Identify who should care, what they should learn, feel, or decide, and what the existing body can deliver. A discovery hook should make the subject and audience recognizable. A lead or sales hook should help the right viewer understand fit, proof, and the next step.

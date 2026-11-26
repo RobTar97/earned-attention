@@ -87,6 +87,12 @@ Treat the supplied evaluator prompt and its examples as source material. Use the
 
 On 2026-11-20 the user supplied ten gallery cards from *80 Storytelling Hooks*, visibly credited to Chase Dimond and `@chasehunterdimond`. The supplied cards are slides 02–11 of 12. [Storytelling hooks by goal](storytelling-hooks.md) adapts their ten story types and pairs them with original fictional examples. The [hook library](hook-library.md) uses brand voice, available assets, and the intended payoff to decide which type fits. The manifest records the gallery fingerprints. The images and their starter wording are kept outside the distributed skill.
 
+## Supplied utility-led scripting playbook
+
+On 2026-11-26 the user supplied *The Non-Ad Hook & Scripting Playbook*. [Utility-led scripting](utility-led-scripting.md) adapts its trivia-to-application idea, production review, offer handoff, and topic alignment. The case study served as an example of structure. The manifest records the document's fingerprint and the adaptation uses an original fictional example.
+
+The playbook's numerical performance thresholds, prescribed edit timings, mandatory keyword repetition, causal neuroscience claims, and commercial bypass framing are source assertions. Verify exact empirical and placement claims separately when a task needs them. Treat feed-native delivery as a presentation choice and preserve the real commercial relationship.
+
 ## Coverage map
 
 | Source contribution | Where it becomes actionable |

@@ -62,4 +62,6 @@ Keep one focal action and a clear text hierarchy. Balance voice and music, leave
 
 Give people something worth sharing: a relevant explanation, diagnostic, comparison, or reusable step that helps a recognizable recipient. A save/share request follows from that value rather than acting as a compulsory engagement step. Brand cues should connect that useful moment to the brand without delaying the lesson.
 
+Use [utility-led scripting](utility-led-scripting.md) when a fact, comparison, or practical check leads to an offer. Verify what the viewer can do at the destination and make an updates list, reservation, preorder, or live purchase distinct in the close.
+
 For paid creative, locate the uncertainty across attention → understanding/proof → qualified click → conversion. Inspect offer fit, landing-page continuity, measurement, and conversion quality before blaming the opening for every weak business result. Use [the metric dictionary and diagnostic ladder](analytics-testing.md#paid-creative-metric-dictionary) and compare matched account cohorts. No universal CPM, CTR, CVR, completion, or view-rate cutoff makes an asset good or bad.

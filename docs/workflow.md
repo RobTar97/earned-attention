@@ -82,6 +82,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 | [Footage-first openings](../skills/psychological-content-strategy/references/footage-first.md) | Identify a source moment, crop, exact opening, and next cut |
 | [Video production](../skills/psychological-content-strategy/references/video-production.md) | Plan timing, cuts, framing, captions, sound, and capture |
 | [Short-form optimization](../skills/psychological-content-strategy/references/short-form-optimization.md) | Choose an ad or demo structure suited to visible proof |
+| [Utility-led scripting](../skills/psychological-content-strategy/references/utility-led-scripting.md) | Turn an interesting observation into a practical check, then match any offer to what is live |
 | [Progressive story arcs](../skills/psychological-content-strategy/references/story-arcs.md) | Build tension and deliver useful answers throughout the script |
 | [Educational scriptwriting](../skills/psychological-content-strategy/references/educational-scriptwriting.md) | Plan and refine a tutorial around what the viewer will learn to do |
 | [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Find brief, script, production handoff, and campaign templates |

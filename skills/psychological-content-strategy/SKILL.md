@@ -54,6 +54,8 @@ For short-form writing and editing, use [viewer-first content principles](refere
 
 For TikTok/Reels optimization and performance creative, read [the Master Blueprint adaptation](references/short-form-optimization.md): choose PAS/BAB/AIDA/FAB/4Ps or a person-led story according to available proof, align speech/action/text, distinguish presentation style from genuine customer evidence, and diagnose the paid funnel. Use [progressive story arcs](references/story-arcs.md) to repair a slow opening or add meaningful local payoffs without delaying all value.
 
+For utility-led product content, trivia that leads to a practical application, or a request for “non-ad” style, use [utility-led scripting](references/utility-led-scripting.md). Give viewers a check they can use, distinguish observation from causal evidence, and show how the offer helps with the same task. Keep relationships clear and choose the next action according to the verified offer state.
+
 For tutorials and educational stories, apply [Foundation → Target → Structure → Draft → Refine](references/educational-scriptwriting.md) at a scale suited to the task. Use the adapted guide for decisions; open its supplied transcript only when original wording or scene analysis is needed. The source's recommendation against AI drafting does not override a user request to draft or rewrite.
 
 ## Workflow
