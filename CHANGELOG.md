@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add three complete Shorts scripts and animated storyboards for curiosity, recognition, and contrast.
+
 - Add four psychology reframes for hooks, comparisons, and CTAs, with before-and-after GIFs bundled in the skill.
 
 - Add a Kitehem demo GIF showing why the weave reveal was selected and how one shot supports English and Japanese openings.

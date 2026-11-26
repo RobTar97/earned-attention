@@ -34,6 +34,8 @@ Fictional lesson: “Test form” is too vague to confirm that submission succee
 
 The time ranges are a provisional production plan. The rises are changes in understanding and proof, not mandatory suspense, and the useful answer is introduced immediately.
 
+See [three complete Shorts scripts with GIFs](shorts-story-examples.md) for curiosity, recognition, and a choice resolved by a visible comparison.
+
 ## What was inspected in the supplied video
 
 The user supplied an approximately 81.9-second vertical video on 2026-10-21. Sampled frames show a visible `@kallaway.marketing` watermark, a presenter, caption/diagram combinations, an illustrative traditional arc, a repeated-peak arc, and a promotional ending. Automated English transcription supports these approximate content locations:

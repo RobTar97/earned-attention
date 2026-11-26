@@ -102,6 +102,8 @@ Compare candidate hooks for specificity, relevance, credibility, answerable curi
 
 Use [psychology reframes](references/psychology-reframes.md) for weak openings, comparisons, or CTAs. Pick one viewer need, rewrite around it, and tie the change to a first frame, next beat, or verified destination. Apply the principles silently for copy-only requests.
 
+For complete story examples, see [Shorts scripts with animated storyboards](references/shorts-story-examples.md). Use them to check that the first frame, story turn, and ending deliver the same promise.
+
 Recommend an angle with a one-sentence reason and test its promise against the actual payoff. Let an explicit hook-first or step-by-step user choose before drafting; otherwise select and deliver the requested artifact without an approval pause. Remove greetings, generic superlatives, irrelevant shock, and empty requests to wait.
 
 ### 4. Design progression and payoff

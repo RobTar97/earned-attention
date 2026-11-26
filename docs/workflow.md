@@ -85,6 +85,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 | [Short-form optimization](../skills/psychological-content-strategy/references/short-form-optimization.md) | Choose an ad or demo structure suited to visible proof |
 | [Utility-led scripting](../skills/psychological-content-strategy/references/utility-led-scripting.md) | Turn an interesting observation into a practical check, then match any offer to what is live |
 | [Progressive story arcs](../skills/psychological-content-strategy/references/story-arcs.md) | Build tension and deliver useful answers throughout the script |
+| [Shorts scripts with animated storyboards](../skills/psychological-content-strategy/references/shorts-story-examples.md) | Follow curiosity, recognition, and contrast from the opening to a visible payoff |
 | [Educational scriptwriting](../skills/psychological-content-strategy/references/educational-scriptwriting.md) | Plan and refine a tutorial around what the viewer will learn to do |
 | [Templates and examples](../skills/psychological-content-strategy/references/templates-examples.md) | Find brief, script, production handoff, and campaign templates |
 

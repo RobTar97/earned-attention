@@ -2,6 +2,8 @@
 
 Use this companion to the [hook library](hook-library.md) when a real event, decision, client interaction, or process gives the viewer a reason to stay. The ten story lenses adapt the supplied Chase Dimond gallery. Each lens guards a different promise. The niche examples are original fictional teaching scenarios, with assets and events stipulated for each row.
 
+For examples from hook to payoff, use the [timed Shorts scripts with GIFs](shorts-story-examples.md).
+
 ## Choose the story the material supports
 
 | Lens | Required material and how to use it |
