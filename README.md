@@ -43,6 +43,7 @@ Write for TikTok, Instagram Reels, YouTube Shorts, or a longer educational video
 | Clips or stills | An opening sourced to a clip time or still, with copy, crop, and the next cut | [Footage-first example](docs/examples.md#15-pick-an-opening-from-stills) |
 | A useful tip and a relevant offer | Three hooks and a timed edit that delivers the tip before the invitation | [Watch the bilingual example](#one-swatch-two-languages) |
 | A brand voice to reuse across briefs in one project | A project card with approved lines and voice cues | [Brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md) |
+| A generic hook, an overbroad claim, or a pushy CTA | One grounded reframe and the edit that supports it | [Watch four before-and-after GIFs](skills/psychological-content-strategy/references/psychology-reframes.md) |
 | A draft or retention data | A prioritised rewrite or a test of one plausible cause | [Rewrite a Short](docs/examples.md#2-repair-a-weak-educational-short) · [Read a retention chart](docs/examples.md#3-interpret-a-retention-chart) |
 | Customer notes, an offer, or a content goal | Supported creative angles, finished copy, or a content plan | [Discover angles](docs/examples.md#12-build-angles-from-bounded-customer-evidence) · [Write copy](docs/examples.md#4-write-concise-headlines-and-catchcopy) |
 

@@ -100,6 +100,8 @@ Use **recognizable situation + specific tension/desire + credible outcome + opti
 
 Compare candidate hooks for specificity, relevance, credibility, answerable curiosity, and continuity with the body. Prefer concrete reasons for revision. If a score is requested, identify it as an editorial aid rather than a prediction of views or conversion.
 
+Use [psychology reframes](references/psychology-reframes.md) for weak openings, comparisons, or CTAs. Pick one viewer need, rewrite around it, and tie the change to a first frame, next beat, or verified destination. Apply the principles silently for copy-only requests.
+
 Recommend an angle with a one-sentence reason and test its promise against the actual payoff. Let an explicit hook-first or step-by-step user choose before drafting; otherwise select and deliver the requested artifact without an approval pause. Remove greetings, generic superlatives, irrelevant shock, and empty requests to wait.
 
 ### 4. Design progression and payoff

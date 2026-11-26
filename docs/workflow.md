@@ -74,6 +74,7 @@ The agent starts with [SKILL.md](../skills/psychological-content-strategy/SKILL.
 | [Short-form hooks](../skills/psychological-content-strategy/references/short-form-hooks.md) | Align picture, speech, text, and the first useful beat |
 | [Hooks and copy](../skills/psychological-content-strategy/references/hooks-copy.md) | Write headlines, covers, body copy, and CTAs, including Japanese adaptations |
 | [Content principles](../skills/psychological-content-strategy/references/content-principles.md) | Check clarity, relevance, line progression, and concrete evidence |
+| [Psychology reframes](../skills/psychological-content-strategy/references/psychology-reframes.md) | Rewrite weak hooks and offers using four worked GIFs |
 
 ### Scripts and editing
 

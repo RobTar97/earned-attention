@@ -6,7 +6,7 @@ Replace the fictional products and constraints with your real information. Expli
 
 | If you want to… | Jump to a prompt |
 |---|---|
-| Start with an idea or a voice | [Guided questions](#start-with-guided-questions) · [Spoken copy](#9-replace-generic-hype-with-finished-spoken-copy) |
+| Start with an idea or a voice | [Guided questions](#start-with-guided-questions) · [Spoken copy](#9-replace-generic-hype-with-finished-spoken-copy) · [Four illustrated reframes](../skills/psychological-content-strategy/references/psychology-reframes.md) |
 | Make hooks from footage or a real story | [Match an opening to footage](#14-develop-an-opening-the-footage-can-support) · [Choose an opening from stills](#15-pick-an-opening-from-stills) · [Turn a true story into hooks](#8-turn-one-true-story-into-four-hook-angles) |
 | Write or improve a video | [Product Reel](#1-create-a-product-demo-reel) · [Rewrite a Short](#2-repair-a-weak-educational-short) · [Tutorial outline](#7-plan-an-educational-video-without-replacing-the-author) · [Platform adaptations](#6-adapt-one-concept-across-platforms) |
 | Develop copy, ads, or a campaign | [Headlines and catchcopy](#4-write-concise-headlines-and-catchcopy) · [Proof-led ad](#10-make-a-proof-led-product-ad) · [Teach first, then make an offer](#16-teach-first-then-make-an-offer) · [Brand and trial campaign](#5-plan-a-small-brand-and-trial-campaign) |

@@ -8,6 +8,8 @@ Jump to [the starter index](#find-a-starting-point), [product examples](#product
 
 If an unusual fact, comparison, or mistake leads into a lesson or offer, use [utility-led scripting](utility-led-scripting.md) to scope the observation and pay off the useful check.
 
+When revising a draft, use the [psychology reframes](psychology-reframes.md) to connect one audience need to the new line and the proof it needs.
+
 ## Choose from the brief before writing
 
 1. **Define the job and payoff.** Identify who should care, what they should learn, feel, or decide, and what the existing body can deliver. A discovery hook should make the subject and audience recognizable. A lead or sales hook should help the right viewer understand fit, proof, and the next step.

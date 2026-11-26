@@ -27,6 +27,8 @@ Ask what the viewer needs at this moment: recognition, an answer, evidence, reas
 
 Name a mechanism only when it explains a decision. The final content should sound human rather than like a psychology lecture.
 
+See [psychology reframes with worked GIFs](psychology-reframes.md) for examples of recognition, curiosity, fair contrast, and a clear next step.
+
 ## Calibrate curiosity
 
 An effective gap is specific, relevant, plausibly solvable, and supported by early progress. Make viewers understand both what is missing and why the answer matters.
