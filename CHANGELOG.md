@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add a complete English and Japanese utility-led example with three hook options, timed edits, and a sample request CTA.
+
 - Add utility-led scripts that turn observations into practical checks, connect a relevant offer to demonstrated value, and match the CTA to verified availability.
 
 - Lead the README with a footage-first hook and an illustrated GIF that shows how a brand voice card and visible proof drive the choice.

@@ -52,3 +52,5 @@ A custom label shop has shots of two sample labels under the same counter light 
 | Optional next step | “Join the email list for updates on our new finishes.” | Label the actual signup “Launch updates.” The lesson is already complete |
 
 This shot demonstrates readability in one setup. It supports a useful test for the viewer's own space. Add a product comparison only when comparable evidence is available.
+
+For a complete production handoff, see the [bilingual curtain-swatches example](utility-led-worked-example.md) with three hook choices, timed scripts, and copy for the same live offer.

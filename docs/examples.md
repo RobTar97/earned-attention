@@ -265,6 +265,8 @@ Give the hook, the proof shot, the close, and a matching caption.
 
 Expect a useful check under the shown conditions and a clear invitation to get updates. The clip supports what the angle and lighting reveal on the sample. [Utility-led guide](../skills/psychological-content-strategy/references/utility-led-scripting.md)
 
+For a full handoff, see [the curtain swatch example in English and Japanese](../skills/psychological-content-strategy/references/utility-led-worked-example.md). It includes three hook options, the selected opening, a 26-second edit in each language, and a sample request that follows the lesson.
+
 ## A reusable brief
 
 ```text
