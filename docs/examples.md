@@ -14,6 +14,22 @@ Replace the fictional products and constraints with your real information. Expli
 
 ## Start with guided questions
 
+Send `$psychological-content-strategy start` in Codex chat. In another agent, ask `Use psychological-content-strategy. Start.` If you know part of the brief, include it up front.
+
+```text
+Use psychological-content-strategy. Start.
+I run a neighborhood bookshop. First-time visitors can see our sign,
+but the door is around the corner. I have photos of the sign and door
+and can film the walk this weekend. Our voice is warm and practical.
+Help me decide what to make and how it should look.
+```
+
+For a storefront placement, one option is a photo-led poster headed **“Looking for the bookshop?”** with an arrow pointing down the actual passage. For a social post, another is a short walk-through that opens on the sign with **“See the sign? The door is just around the corner.”** The poster can use the photos now. The walk-through depends on filming the route. If the placement is unclear, the skill can ask where visitors are most likely to see it before recommending which to make.
+
+Choose an option or say “choose for me.” The skill turns it into a timed script, poster copy and layout, or a panel-by-panel carousel. You can also ask for a rendered draft when your agent has a suitable media tool.
+
+If you already know you want a video and prefer to compare openings before drafting, say so.
+
 ```text
 Use psychological-content-strategy. I'm new to writing short videos.
 Help me work out what to make for my brand. Ask the essential

@@ -1,4 +1,4 @@
-# Guided intake and brand-matched hook choices
+# Guided creative start and brand-matched hook choices
 
 Use this reference when the user is getting started, introduces a new brand without a usable brief, wants help choosing a direction, or asks to develop hooks together. Guide the creative conversation with specific questions and useful options. Keep a direct drafting, copy-only, audit, or analytics request in its requested mode.
 
@@ -6,7 +6,7 @@ Use this reference when the user is getting started, introduces a new brand with
 
 | Situation | Next useful response |
 |---|---|
-| “I'm new; help me get started” or an invocation without a task | Ask a short intake using the unresolved essentials below |
+| `start` with the skill invoked, “help me decide what to make,” or invocation without a task | [Start with format and style](#start-with-format-and-style). Ask only for missing essentials or offer directions immediately if context is sufficient |
 | Partial brief | Reuse what is known; ask only the missing facts that change the creative |
 | Complete brief asking for a script | Choose a supported hook and deliver the requested script; include options only as appropriate to the request |
 | “Show hooks first; I'll choose” or explicit step-by-step collaboration | Give hook directions and a recommendation, then wait for the creative choice |
@@ -15,19 +15,27 @@ Use this reference when the user is getting started, introduces a new brand with
 
 Do not claim this is the user's first-ever use: there is no automatic onboarding history. Use the current conversation, supplied brand notes, and relevant user-provided project records. Do not infer this brand from an unrelated earlier business, account, device location, or source document. Store no onboarding flag or private brand profile inside the global skill.
 
+### Start with format and style
+
+For `start` without a format in that request, put **short video**, **poster**, **carousel**, and **recommend one** in the first reply, even when project context already points to one format. When audience, goal, and usable material are known, give ideas or a recommendation alongside the choices. Otherwise, put the format choices in the first question and ask only for what is missing. If the user names a format or asks to compare specific formats, follow that scope. If the user has no footage or artwork, ask what they can make or suggest a feasible still, text, or demonstration concept.
+
+Once there is enough context, offer two or three ideas the user could actually make. Vary the format only when it is open. For each option, give a specific visual treatment, actual opening line or headline, what the viewer would see first, and the available material that supports the payoff. For example, describe a quiet close-up demonstration, a poster with one marked photo, or a carousel with a clue revealed one slide at a time. Use the intended audience, placement, voice card, and footage or images to decide which styles fit. Label a proposed style as provisional when the brand's visual preferences are unknown.
+
+Recommend one direction and explain why it fits the viewer's situation, the goal, and the material. Invite the user to pick an option or say “choose for me.” If they ask for the finished draft or delegate the decision, choose and continue. For a video, either carry the chosen opening into the script or offer the video hook menu if the user wants to compare openings. Avoid a second selection round for a decision they already made.
+
 ## 2. Ask a small number of useful questions
 
 Ask up to three short questions in a reply, in the user's language. Skip questions already answered. Offer concise choices with a free-text alternative, and let “undecided” be a useful answer. A host's question UI can help, but ordinary text questions must work too. Do not ask the user to choose technical framework names or complete a long marketing questionnaire.
 
 Read an applicable [project brand voice card](project-brand-voice.md) and inspect supplied media using [footage-first openings](footage-first.md) before asking for brand or asset details already available.
 
-For an empty first brief, a suitable opening is:
+For an empty creative start, a suitable opening is:
 
-> What would you like to make: a video script, hook options, a rewrite, or a content plan?
+> What are you thinking of making—a short video, a poster, or a carousel? I can recommend one.
 >
-> What is the topic or offer, who is it for, and what should the content achieve—education, relevant reach, qualified leads, or sales?
+> What's it about, who should it reach, and what should they take away or do?
 >
-> What should the brand sound like: calm and expert, warm and practical, or direct and energetic? Your own wording or a short example is welcome.
+> What can we use—footage, photos, a product demo, or a project voice card? A style you like or a line in your own words also helps.
 
 These are starting questions, not a mandatory script. If the deliverable is already known, use that slot for a missing material fact instead. For example, a brief that already names its topic and audience may need only the goal, brand voice, or proof question.
 
@@ -76,6 +84,16 @@ For a direct full-script request or delegated choice, recommend/select the hook 
 Carry the selected promise into the body and complete it before the appropriate CTA. Use [video production](video-production.md) for timing, voice, proof-asset status, captions and editing cues. Preserve the requested output form: a spoken-copy-only request stays spoken copy only. A plan or diagnosis does not need a hook-selection round unless useful or requested.
 
 Offer one targeted revision after the artifact when appropriate: change the tone, opening, length, proof order, or CTA. Do not repeatedly re-ask known brand questions. If the user asks to retain brand preferences, keep a compact brief in the requested project location with source/assumption distinctions; do not silently create a global profile.
+
+### Turn the choice into a draft
+
+| Format | Usable handoff |
+|---|---|
+| Short video | A timed script with the opening and first frame, shot or edit cues, on-screen copy, visible payoff, and a next step when useful. Anchor any available footage to a source clip, still, or described action. |
+| Poster | A finished headline, essential supporting copy, one lead visual, and layout directions for the intended placement. Include a CTA or event details only when relevant and supported. |
+| Carousel | A cover hook and panel-by-panel copy and visual notes. Sequence the panels so each advances the idea and the last one delivers what the cover promises. |
+
+After the draft, offer a concrete production step when useful. If the user asks for an actual media draft, use the available authorized image or video tools. If the tool is unavailable, give a production brief or generation prompt that names the intended output, source material, composition or shots, and exact copy. State what was produced so the handoff is clear.
 
 ## Example hook menu
 

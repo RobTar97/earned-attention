@@ -20,9 +20,11 @@ flowchart LR
 
 ## Guided start and creative choice
 
-When the user needs help getting started, ask up to three concise questions at a time about missing essentials: what to make, who it is for, the desired result, and brand voice. Reuse relevant conversation/project context, then resolve only proof or production gaps that change the creative. A compact working brief confirms understanding without creating another approval step.
+Send `$psychological-content-strategy start` in Codex chat or `Use psychological-content-strategy. Start.` in another agent. The skill reuses the project voice and assets, then asks up to three concise questions about what it still needs. If the format is open, it offers a short video, poster, or carousel and can recommend one.
 
-Offer three distinct hook directions by default. Each includes the opening words, a feasible first frame, brand/viewer fit, and the proof or payoff required. Read the hook and content references, adding brand, evidence, or format guidance as needed. Recommend the direction best supported by the brief; this is a creative judgment, not a performance prediction.
+Each creative direction pairs a visual treatment with a specific opening or headline and the material that can support it. Once a direction is chosen, the skill writes a timed video script, poster copy and layout, or a carousel plan. Rendered drafts use an available media tool when requested. [See the guided-start example](examples.md#start-with-guided-questions)
+
+For video hook choices, the skill offers three distinct directions by default. Each includes the opening words, a feasible first frame, a reason it fits the brand and viewer, and the proof or payoff required.
 
 If the user asks to choose hooks first, wait for that choice. If they ask for a complete script or delegate the choice, select and draft once the brief is sufficient. Keep copy-only, audit, and analytics tasks in their requested mode. Relevant brand notes can stay in the user's project when requested; no personal brand profile is stored in the global skill.
 
@@ -30,6 +32,7 @@ If the user asks to choose hooks first, wait for that choice. If they ask for a 
 |---|---|---|
 | Customer research/angles | Bounded findings, claim register, source-linked angles | Observations versus hypotheses, claim scope, different buying reasons, feasible proof |
 | Video creation | Hook variants and continuous timed beat table | Promise, first-frame proof, progression, sound/text hierarchy, payoff |
+| Poster or carousel | Finished copy with layout or panel directions | Visual hierarchy, read order, placement, proof or payoff |
 | Short-form ad/product demo | Proof-aligned script and objective-linked test | Structure selection, feature/advantage/benefit, reveal order, presenter role, paid-funnel uncertainty |
 | Educational planning/writing | Learning contract, gap map, causal outline or requested script | Foundation, Target, Structure, Draft, Refine; audience depth and observable transformation |
 | Rewrite/audit | Ranked evidence table and complete corrected asset | Largest viewer problem, proof order, comprehension, CTA |

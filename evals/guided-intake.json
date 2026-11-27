@@ -61,6 +61,29 @@
         "The copy fits the known audience/voice and supported capability without invented results or automation."
       ],
       "files": []
+    },
+    {
+      "id": 6,
+      "name": "start-command-menu",
+      "prompt": "$psychological-content-strategy start",
+      "expected_output": "The first reply names short video, poster, and carousel, and offers to recommend one.",
+      "expectations": [
+        "Shows all three format choices and an option to ask for a recommendation in the first reply.",
+        "Asks up to three concise question groups and does not invent a brand or draft an asset before the brief is known."
+      ],
+      "files": []
+    },
+    {
+      "id": 7,
+      "name": "start-command-keeps-menu-with-project-context",
+      "prompt": "Project notes: Mossstep Books wants first-time visitors to find the entrance around the corner. We have photos of the sign and door, permission to put up a poster by the sign, and no time to film. Our voice is warm and practical. Past posts were mostly short videos.\n\n$psychological-content-strategy start",
+      "expected_output": "The first reply still names short video, poster, and carousel, and can recommend a poster using the supplied photos and placement.",
+      "expectations": [
+        "Shows all three format choices and an option to ask for a recommendation, even though past projects mostly used video.",
+        "Reuses the known project context and, if it recommends a direction, gives a specific visual treatment that uses available material.",
+        "Does not treat past video preferences as a format choice for this request or assume new footage can be filmed."
+      ],
+      "files": []
     }
   ],
   "limitations": [

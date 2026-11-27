@@ -16,6 +16,18 @@ npx skills add RobTar97/earned-attention
 
 Codexでは `$psychological-content-strategy` で呼び出せます。[エージェントを指定する方法と全プロジェクトで使う設定（英語）](docs/installation.md)
 
+## 何を作るか迷ったとき
+
+Codexのチャットで次のように送ります。
+
+```text
+$psychological-content-strategy start
+```
+
+最初の返答で、ショート動画、ポスター、カルーセル投稿（複数枚の画像を使う投稿）から選べます。迷ったときはおすすめを聞けます。誰に何を伝えたいかや、どんな写真や映像があるかを確認し、手持ちの素材に合う見せ方や冒頭のひと言、見出しを提案します。
+
+ほかのエージェントには「psychological-content-strategyを使って、何を作るか一緒に考えてください」と頼めます。
+
 ## そのまま使える依頼文
 
 動画を添付して、作りたい動画と普段の話し方を伝えます。たとえば、お店の入口を案内するなら、こんなふうに頼めます。

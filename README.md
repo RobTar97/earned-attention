@@ -24,7 +24,15 @@ Run this from your project and pick your agent when prompted.
 npx skills add RobTar97/earned-attention
 ```
 
-Attach a clip and point the agent to your project voice card. A few lines describing how you write also work.
+**Still deciding what to make?** Send this in Codex chat.
+
+```text
+$psychological-content-strategy start
+```
+
+The first reply offers **short video**, **poster**, **carousel**, or **recommend one**. The skill asks about missing details, then suggests styles with sample openings or headlines that fit what you have. In another agent, say `Use psychological-content-strategy. Start.` [See a guided example](docs/examples.md#start-with-guided-questions)
+
+**Already have a clip?** Attach it and point the agent to your project voice card. A few lines describing how you write also work.
 
 ```text
 Use psychological-content-strategy.
@@ -33,7 +41,7 @@ Pick the first frame and write the hook.
 Show me where to cut next and why.
 ```
 
-In Codex, invoke it with `$psychological-content-strategy`. [Start with an idea instead](docs/examples.md#start-with-guided-questions) · [Install for a specific agent or globally](docs/installation.md)
+[Install for a specific agent or globally](docs/installation.md)
 
 ## Pick a workflow
 
@@ -41,7 +49,7 @@ Write for TikTok, Instagram Reels, YouTube Shorts, or a longer educational video
 
 | Start with | Get back | Try it |
 |---|---|---|
-| A rough idea or a brief | Hook options, a recommendation, or a timed script | [Guided start](docs/examples.md#start-with-guided-questions) · [Product Reel](docs/examples.md#1-create-a-product-demo-reel) |
+| A rough idea or a brief | Format and style ideas, a recommendation, or a usable script or layout brief | [Guided start](docs/examples.md#start-with-guided-questions) · [Product Reel](docs/examples.md#1-create-a-product-demo-reel) |
 | Clips or stills | An opening sourced to a clip time or still, with copy, crop, and the next cut | [Footage-first example](docs/examples.md#15-pick-an-opening-from-stills) |
 | A useful tip and a relevant offer | Three hooks and a timed edit that delivers the tip before the invitation | [Watch the bilingual example](#one-swatch-two-languages) |
 | A brand voice to reuse across briefs in one project | A project card with approved lines and voice cues | [Brand voice card](skills/psychological-content-strategy/references/project-brand-voice.md) |

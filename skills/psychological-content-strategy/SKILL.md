@@ -4,7 +4,7 @@ license: MIT
 metadata:
   author: RobTar97
   version: "1.0.0"
-description: "Research, write, audit, and improve video and marketing copy using traceable customer evidence, supported promises, visible proof, meaningful progression, natural voice, and account learning. Use for TikTok, Instagram Reels, YouTube Shorts, educational video outlines, product demos, short-form ads, hooks, catchcopy, captions, CTAs, timed scripts, storyboards, retention audits, and content plans. Also use for review/comment analysis, buying-trigger research, distinct angle banks, claim registers, guided brand briefs, hook choices, creator voice cards, shootability checks, lead-quality diagnosis, contribution limits, and reusable creative learning records. Preserve copy-only scope, specialist depth, requested coaching or drafting, and brand-versus-sales objectives. Deliver usable creative and bounded tests; never invent customer claims, research, metrics, or guaranteed virality. Does not render videos, publish content, buy ads, or replace full media-buying or technical SEO workflows."
+description: "Research, write, and audit video and marketing creative using customer evidence, visible proof, meaningful progression, and natural voice. Use for guided creative starts, format and style ideas, short videos, poster and carousel briefs, TikTok, Instagram Reels, YouTube Shorts, educational videos, product demos, short-form ads, hooks, catchcopy, captions, CTAs, timed scripts, storyboards, retention audits, and content plans. Also use for review/comment analysis, buying-trigger research, angle banks, claim registers, project voice cards, shootability checks, lead-quality diagnosis, contribution limits, and reusable creative learning records. Preserve copy-only scope, specialist depth, requested coaching or drafting, and brand-versus-sales objectives. Deliver usable creative and bounded tests; never invent customer claims, research, metrics, or guaranteed virality. Media production uses separate tools when requested."
 ---
 
 # Psychological Content Strategy
@@ -26,16 +26,20 @@ Treat psychology as a way to improve relevance, comprehension, trust, and memory
 
 ## Start with the right conversation
 
-When the user is getting started or wants help choosing a direction, read [guided intake and hook choices](references/guided-intake.md). Ask up to three focused questions about the missing deliverable/goal, subject/audience, and brand voice; then resolve only material proof, format, or resource gaps. Reflect a compact working brief without requiring approval of it.
+Treat `$psychological-content-strategy start` in Codex, or `Use psychological-content-strategy. Start.` in chat, as a request for [guided creative start](references/guided-intake.md#start-with-format-and-style). In the first reply to `start` without a format in that request, show all three choices in the user's language: **short video**, **poster**, and **carousel**. Include **recommend one**. Reuse project context to explain a recommendation or ask only for missing details. Use the same route for an invocation without a task or a user who wants help deciding what to make. A specific deliverable request keeps its normal workflow.
 
-Offer three reference-grounded, brand-matched hook directions by default, with actual opening words, a feasible first frame, brand/viewer fit, and the necessary proof/payoff. Recommend one. Wait for a choice when the user requested hooks first or step-by-step collaboration; choose and draft when a complete artifact was requested or the choice was delegated. Reuse conversation/project context and do not require onboarding for every task.
+Read the [guided intake](references/guided-intake.md), reuse known project context, and ask up to three focused questions about what is missing. Reflect a compact working brief without requiring approval of it.
+
+For a video hook menu, offer three reference-grounded, brand-matched directions by default, with actual opening words, a feasible first frame, brand/viewer fit, and the necessary proof/payoff. Recommend one. Wait for a choice when the user requested hooks first or step-by-step collaboration; choose and draft when a complete artifact was requested or the choice was delegated.
 
 ## Choose the deliverable
 
 | Mode | Main deliverable | Supporting resources |
 |---|---|---|
+| Creative start | Format and style options, one recommendation, then a brief or draft | [Guided creative start](references/guided-intake.md#start-with-format-and-style) |
 | Customer research or angle discovery | Bounded findings, source/claim records, distinct angle bank, recommendation and unknowns | [Evidence to angles](references/evidence-to-angles.md) |
 | Create video | Hook options, selected hook, timed script, production notes, one test | [Hooks and copy](references/hooks-copy.md), [Video production](references/video-production.md) |
+| Create a poster or carousel | Finished copy, visual hierarchy, and layout or panel directions | [Plan the handoff](references/guided-intake.md#turn-the-choice-into-a-draft), [Hooks and copy](references/hooks-copy.md) |
 | Short-form ad or product demo | One value proposition, chosen structure, aligned speech/visual proof/text, objective-linked test | [Short-form optimization](references/short-form-optimization.md), [Analytics](references/analytics-testing.md) |
 | Educational script or outline | Learning contract, audience depth, research gaps, transformation, causal outline or requested script | [Educational scriptwriting](references/educational-scriptwriting.md), [Video production](references/video-production.md) |
 | Rewrite or audit | Ranked problems with evidence, corrected asset, test hypothesis | [Video production](references/video-production.md), [Analytics](references/analytics-testing.md) |
@@ -131,6 +135,8 @@ For video, provide a beat table unless the user requests a different form, such 
 
 Ensure time ranges are continuous and fit the requested duration. Separate verbatim captions from selective headline/progress text. Label any proof or asset that must still be supplied. Make directions feasible for the stated equipment and footage.
 
+For a poster or carousel, write the copy and layout for the intended placement using the [creative handoff](references/guided-intake.md#turn-the-choice-into-a-draft). Make the headline, supporting visual and next step readable in that context.
+
 For copy only, give finished copy in the requested form. Choose a structure suited to the problem—benefit/proof/action, problem/solution, before/after/bridge, or customer/guide/plan—and remove framework scaffolding from the final prose. Preserve product truth and natural audience language.
 
 For product claims, connect feature → functional advantage → relevant benefit, then choose evidence each channel can carry. A presenter or actor may demonstrate a real capability; do not imply personal customer results they have not experienced. Native styling must preserve commercial transparency and legibility.
@@ -168,7 +174,7 @@ Separate attributed outcomes, causal incremental effects, and uncontrolled assoc
 
 ## Default response shapes
 
-**Guided start:** missing essentials in a short intake → compact working brief → reference-grounded brand-fit hook choices and recommendation → user selection if requested → finished artifact and focused revision. Skip completed steps and honor direct-draft/copy-only scope.
+**Guided start:** missing essentials in a short intake → compact working brief → format and style directions with a recommendation → selected direction → usable script, poster brief, or carousel plan. When the user asks for video hooks, use the hook menu. Skip completed steps and honor direct-draft/copy-only scope.
 
 **Research/angles:** bounded corpus and findings → distinct source-linked angles with support status → recommendation and material unknowns. Keep quotations, interpretations, and hypotheses distinguishable.
 
